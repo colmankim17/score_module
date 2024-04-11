@@ -1,0 +1,1383 @@
+id,team_name,player_name,angle,x,y,under_pressure,body_part_name_Other,body_part_name_foot,shot_first_time,shot_deflected,shot_open_goal,shot_follows_dribble,shot_one_on_one,position_category,goal
+61d52e72-a8ff-49c4-be02-057b1ea0fb15,Switzerland,Granit Xhaka,2.8624052261117545,96.0,38.8,0,0,1,1,0,0,0,0,Midfielder,0
+aa77495b-0e7b-44f0-a2eb-11605085943a,Switzerland,Breel-Donald Embolo,5.792796495032177,113.1,40.7,0,0,1,1,0,0,0,0,Forward,0
+51026369-a4ad-4a71-b14a-6e7f8b764772,Switzerland,Granit Xhaka,6.689315397634056,103.8,41.9,0,0,1,1,0,0,0,0,Midfielder,0
+6ac240f5-8b84-4c06-8153-b56109c8c5e6,Serbia,Nikola Milenković,22.306205054907668,112.2,36.8,0,0,0,0,0,0,0,0,Defender,0
+00e599c0-5234-4b6a-9b91-d6f789a311b0,Serbia,Andrija Živković,27.384970581213853,97.8,51.5,0,0,1,0,0,0,0,0,Defender,0
+457d529f-b36e-45f8-b168-ee76254acf0a,Serbia,Dušan Vlahović,16.927513064147046,115.4,38.6,0,1,0,0,0,0,0,1,Forward,0
+b6e10a35-3d7a-40ac-b68e-7118fffbe9ab,Switzerland,Remo Freuler,18.575724410681094,107.8,35.9,0,0,1,1,0,0,0,0,Midfielder,0
+c7c1917b-2c74-40a4-94a0-dc7a9137a766,Switzerland,Xherdan Shaqiri,40.29794457668378,107.5,50.6,0,0,1,1,1,0,0,0,Forward,1
+97f840a8-4545-46a7-a9b3-8e91be859de5,Switzerland,Granit Xhaka,15.511092187727428,97.3,33.7,0,0,1,1,0,0,0,0,Midfielder,0
+aaae9647-f552-4341-8d43-de39a7facbee,Serbia,Dušan Vlahović,23.860175191342336,109.6,35.4,0,0,0,0,0,0,0,1,Forward,0
+e90ac0da-ac09-4a22-a26e-01ff53f52434,Serbia,Aleksandar Mitrović,6.82346239903351,108.3,38.6,0,0,0,0,0,0,0,0,Forward,1
+6cee2bd6-3370-4a3f-9a1e-a580d18e8809,Switzerland,Xherdan Shaqiri,36.79529380843133,107.7,49.2,1,0,1,0,0,0,0,1,Forward,0
+315de8c7-f26d-4e85-ac65-1f5533f108e0,Serbia,Dušan Vlahović,30.71890426402918,106.2,31.8,0,0,1,1,0,0,0,0,Forward,1
+ce449cb2-5974-46ce-8e69-fa53df9ee074,Switzerland,Ruben Vargas,21.017300874756266,101.0,47.3,0,0,1,1,0,0,0,0,Forward,0
+663eefd5-97eb-4c07-9ac7-241b3bfe1356,Switzerland,Breel-Donald Embolo,28.96766064606407,114.4,36.9,0,0,1,1,0,1,0,0,Forward,1
+5a665436-df39-42a9-bc2e-6fa33394ac5f,Serbia,Aleksandar Mitrović,18.996654155488553,101.7,33.7,0,0,1,1,0,0,0,0,Forward,0
+d46db09d-7f77-447c-80fb-6cc0928f060a,Switzerland,Remo Freuler,5.355825042855204,107.2,41.2,0,0,1,1,0,0,0,0,Midfielder,1
+1b19f202-7a71-4df3-b20c-bca100a02f59,Switzerland,Fabian Lukas Schär,45.6095065766752,110.7,30.5,0,0,1,1,0,0,0,0,Defender,0
+16eedabd-c8b8-4c23-88f2-b17b3636f382,Switzerland,Breel-Donald Embolo,10.175510843043233,116.1,39.3,0,0,1,1,0,0,0,0,Forward,0
+5a1d44e8-2b65-422b-a804-0f5413ad2390,Serbia,Dušan Tadić,33.374101356691405,107.4,31.7,0,0,1,0,0,0,0,0,Midfielder,0
+248db6b9-ea93-438e-84f0-20158bfbba14,Serbia,Aleksandar Mitrović,45.81845546168862,106.2,25.8,0,0,1,0,0,0,0,0,Forward,0
+06926bc9-8a40-48a4-9f61-e27d7dcf804d,Serbia,Luka Jović,10.191501850027702,102.2,43.2,1,0,0,0,0,0,0,0,Forward,0
+3c23cdb3-0a42-49ae-9030-888e2f892171,Switzerland,Manuel Obafemi Akanji,31.65403372993861,99.4,52.7,0,0,1,1,0,0,0,0,Defender,0
+a8953e7b-69b5-4d68-922a-a3cf2ce6ca0f,Switzerland,Christian Fassnacht,37.05652818940958,105.3,28.9,0,0,1,0,0,0,0,0,Forward,0
+e7ede913-f7f7-48b7-92d3-b88295a117d7,Serbia,Luka Jović,0.7638984609300059,105.0,39.8,1,0,0,0,0,0,0,0,Forward,0
+e674f461-f75f-4df1-8950-f5922f84e9ce,Serbia,Nemanja Radonjić,38.31613589196588,105.7,51.3,0,0,1,1,0,0,0,0,Defender,0
+9fd07a9a-2de2-4ba5-b400-6a2264835ba2,Argentina,Alejandro Darío Gómez,42.39120525325055,98.2,20.1,0,0,1,0,0,0,0,0,Forward,0
+b70841d8-d3d3-40de-a009-58a8309e3ba2,Australia,Harry Souttar,26.281411021320192,111.9,44.0,1,0,0,0,0,0,0,0,Defender,0
+53d825ac-a98d-41ca-b81f-1015dee17376,Argentina,Lionel Andrés Messi Cuccittini,29.392175755239265,104.2,48.9,0,0,1,0,0,0,0,0,Forward,1
+9fa41c60-ab9c-4fcb-8d5c-39a781e7a9c0,Argentina,Lionel Andrés Messi Cuccittini,4.246842607023471,99.8,38.5,0,0,1,0,1,0,0,0,Forward,0
+a7ce988c-2d9b-4d78-8b34-95e4d2774ae0,Argentina,Julián Álvarez,47.01459878787058,110.4,50.3,0,0,1,0,0,0,0,0,Forward,1
+5f1b13a1-f49c-41a6-9040-2c7db303d427,Argentina,Lionel Andrés Messi Cuccittini,14.582942329484077,95.4,33.6,0,0,1,0,0,0,0,0,Forward,0
+060deabd-8fca-4998-b49c-bf4dee752a0e,Argentina,Nicolás Alejandro Tagliafico,41.9495055058586,103.2,24.9,0,0,1,0,0,0,0,0,Defender,0
+5d585edf-d8ab-469c-b9ca-a6253faaa793,Australia,Craig Goodwin,38.59564727361586,98.2,22.6,0,0,1,1,0,0,0,0,Midfielder,0
+2f0bd31e-adca-4b9e-96ea-5a64e1d9ce2e,Australia,Aziz Eraltay Behich,35.88213724620418,110.6,33.2,0,0,1,0,0,0,0,0,Defender,0
+0b0970d0-4cfa-4f0c-aff3-210cb296226a,Australia,Ajdin Hrustic,32.415547329858676,100.0,52.7,1,0,1,0,0,0,0,0,Midfielder,0
+fbbcbd30-78e7-4627-9714-bdf463a6c12e,Argentina,Lautaro Javier Martínez,46.432096184164635,108.3,52.3,0,0,1,1,0,0,0,0,Forward,0
+e48ce4af-0f98-4004-b235-e115cefa6bac,Argentina,Lautaro Javier Martínez,33.15360586678055,107.6,31.9,0,0,1,1,0,0,0,0,Forward,0
+8779a120-92be-4bef-b143-a0e91aa68bfb,Argentina,Lautaro Javier Martínez,36.95390899254759,109.1,31.8,0,0,1,0,0,0,0,0,Forward,0
+36dc8c71-010d-4cfb-8427-774a6e556620,Argentina,Lionel Andrés Messi Cuccittini,38.38653951768524,104.6,52.2,0,0,1,0,0,0,0,0,Forward,0
+1ec1a0e0-f57f-4390-879a-872cdc7be137,Argentina,Exequiel Alejandro Palacios,31.626990605875946,103.6,50.1,0,0,1,0,0,0,0,0,Midfielder,0
+015c52d6-b1c1-45c2-b450-75238519b983,Argentina,Lionel Andrés Messi Cuccittini,0.0,102.2,40.0,1,0,1,0,0,0,0,0,Forward,0
+6c7be4e1-edc2-4255-951e-1b21ee426a72,Argentina,Lautaro Javier Martínez,38.17884763521564,108.3,30.8,0,0,1,0,1,0,0,0,Forward,0
+9fddcb1c-e704-48ad-a1e4-1bd6318e9cd0,Argentina,Lionel Andrés Messi Cuccittini,12.439562018846553,106.4,37.0,0,0,1,1,0,0,0,0,Forward,0
+e0cbd7b9-8daf-45c3-8d36-967f5ff74080,Australia,Garang Kuol,53.7197465062373,113.1,49.4,0,0,1,0,0,0,0,0,Forward,0
+f0cb1d2a-2a77-42a6-be8c-4fa4187bed6a,Australia,Riley McGree,14.56576424655659,94.6,46.6,0,0,1,0,0,0,0,0,Forward,0
+701998cd-e517-4ebd-a496-419fe51d4a12,Denmark,Jesper Lindstrøm,21.50143432404789,110.1,43.9,0,0,1,1,0,0,0,0,Forward,0
+4c71ffe3-b6ac-4b8b-a9c2-4e0a88be94fe,Denmark,Mathias Jensen,65.87464682645003,112.7,56.3,0,0,1,0,0,0,0,1,Midfielder,0
+3f92e039-be0b-4352-a2a5-f8d1521d4307,Denmark,Andreas Skov Olsen,34.966879445668845,104.7,50.7,0,0,1,0,0,0,0,0,Forward,0
+15f46e99-0d0c-4f58-b1fd-500ba56c490b,Australia,Riley McGree,45.45592496167219,101.3,59.0,0,0,1,0,0,0,0,0,Forward,0
+db3c5470-e81b-4b19-abbe-d9b10e9ac5d2,Denmark,Andreas Skov Olsen,45.27414039373321,109.6,50.5,0,0,1,1,0,0,0,0,Forward,0
+905337d4-0b79-404a-978e-344c51fff75e,Denmark,Christian Dannemann Eriksen,40.10090754621224,102.9,25.6,0,0,1,0,0,0,0,0,Midfielder,0
+25216d44-cb66-4847-a781-3d30ec9ff94d,Australia,Mitchell Thomas Duke,10.678947196535134,102.5,36.7,0,0,0,0,0,0,0,0,Forward,0
+3207916f-9317-4288-8e80-d87b561be816,Australia,Mitchell Thomas Duke,41.35372879124316,98.3,20.9,0,0,1,0,0,0,0,0,Forward,0
+828cfb58-d018-4408-a4c3-b7732136656a,Australia,Aziz Eraltay Behich,16.5929934897469,100.2,34.1,0,0,1,1,0,0,0,0,Defender,0
+c9675713-e333-4449-aacd-ba1877a619c8,Australia,Jackson Irvine,41.49646835521552,109.6,30.8,0,0,1,1,0,0,0,0,Midfielder,0
+1792c833-a739-4ce0-82f8-2214e2fd4107,Denmark,Andreas Skov Olsen,45.222939651197535,107.2,52.9,0,0,1,0,0,0,0,0,Forward,0
+ac1f3ccc-f72f-4ff2-84d3-26855bfb3408,Australia,Mathew Leckie,30.727486615599673,105.7,31.5,0,0,1,0,0,0,0,0,Forward,1
+eeb148fd-dca0-408f-8145-ae315d4587aa,Denmark,Andreas Skov Olsen,28.82380663839161,103.1,49.3,1,0,1,0,0,0,0,0,Forward,0
+4b6c9965-785d-45c7-873b-f1667e7d2214,Denmark,Joachim Andersen,63.6215793664876,113.9,52.3,1,0,0,0,0,0,0,0,Defender,0
+79c7312b-6178-44c9-8724-e422dcfcefe8,Denmark,Alexander Hartmann Bah,35.14108205285613,99.4,54.5,0,0,1,1,0,0,0,0,Defender,0
+8c53854d-7f37-4965-abff-e45069ef0e5d,Denmark,Kasper Dolberg,1.5481576989779624,105.2,39.6,0,0,1,1,0,0,0,0,Forward,0
+c6e723aa-fe69-4457-9478-ccd912c58dbe,Denmark,Jesper Lindstrøm,4.573921259900854,97.5,38.2,0,0,1,0,0,0,0,0,Midfielder,0
+32bdbe0d-539c-4c7f-81d3-5704011844a5,Australia,Keanu Baccus,18.58896936459435,97.7,47.5,0,0,1,0,0,0,0,0,Forward,0
+54123723-351e-4fd3-8695-a0edbe3c7536,Denmark,Alexander Hartmann Bah,56.15465973892829,108.6,57.0,0,0,1,1,0,0,0,0,Defender,0
+30cd3b42-ec23-4504-8a37-5a050c8c93db,Denmark,Kasper Dolberg,69.73430252905244,117.6,33.5,0,0,1,1,0,0,0,0,Forward,0
+0ec6bd63-1454-4940-8b58-974dc46936cb,Denmark,Andreas Evald Cornelius,73.6639571102815,116.6,51.6,0,0,0,0,0,0,0,0,Forward,0
+f3f39fb8-e43b-4b26-a093-c2c6a32d41f9,Brazil,Neymar da Silva Santos Junior,20.82089285331082,91.6,29.2,0,0,1,0,0,0,0,0,Midfielder,0
+35280e71-5804-4d3c-9d47-b7343809003f,Brazil,Carlos Henrique Casimiro,9.227931690289395,84.3,34.2,0,0,1,0,0,0,0,0,Midfielder,0
+1f48678b-d441-42f1-a5b1-3a470e3b4df7,Brazil,Raphael Dias Belloli,32.040405073839864,105.3,49.2,1,0,1,0,0,0,0,0,Forward,0
+4c00e7cd-fb05-4051-b989-62f2e14ab9b1,Serbia,Filip Mladenović,60.03325812938827,113.6,28.9,1,0,0,0,0,0,0,0,Defender,0
+93e0436a-c817-46f9-adcb-e7556d92a124,Brazil,Vinícius José Paixão de Oliveira Júnior,62.38697217691554,113.2,27.0,0,0,1,0,0,0,0,1,Forward,0
+f06b46e9-4935-461b-bf84-e8b025cbfbfc,Brazil,Raphael Dias Belloli,27.371980632180364,105.9,47.3,0,0,1,0,0,0,0,0,Forward,0
+0ce31ab8-1d97-451c-bcee-b3d608a04d17,Brazil,Thiago Emiliano da Silva,40.5328409386107,113.1,34.1,0,0,0,0,0,0,0,0,Defender,0
+5d27f582-3897-482b-b37a-150f9717e0d4,Brazil,Richarlison de Andrade,68.56883272376679,115.8,29.3,0,0,1,0,0,0,0,0,Forward,0
+aaead660-5e4a-4724-ba86-b2cee7e09455,Brazil,Danilo Luiz da Silva,30.507086169757883,95.9,54.2,0,0,1,1,0,0,0,0,Defender,0
+61e16ccf-8dec-4f2d-8184-eaad6174b677,Brazil,Neymar da Silva Santos Junior,5.029073581785454,107.5,38.9,0,0,1,1,0,0,0,0,Midfielder,0
+6993220f-7737-418c-9df5-d2be27cd7e85,Brazil,Alex Sandro Lobo Silva,14.036243467926479,88.0,32.0,0,0,1,0,0,0,0,0,Defender,0
+10e984c0-c1ac-4007-8f99-fd09e7b1b65a,Brazil,Vinícius José Paixão de Oliveira Júnior,52.992151305685375,105.0,20.1,0,0,1,0,0,0,0,0,Forward,0
+09ac03f2-feb8-4fee-8fb4-0e828a6aa6e2,Brazil,Vinícius José Paixão de Oliveira Júnior,52.643378071479574,110.0,26.9,0,0,1,1,0,0,0,0,Forward,0
+6e8938b8-69ba-4158-a8fc-b82f6393cb98,Brazil,Richarlison de Andrade,18.12186024790133,114.5,41.8,0,0,1,1,0,0,0,0,Forward,1
+efb691a5-8622-46bc-a7da-33af3c8308ad,Brazil,Vinícius José Paixão de Oliveira Júnior,47.27044967066508,109.1,28.2,0,0,1,0,0,0,0,0,Forward,0
+5652674d-7d13-4013-99a0-48f5cad3c818,Serbia,Strahinja Pavlović,10.36632260345049,111.8,38.5,1,0,0,0,0,0,0,0,Defender,0
+ffa4b36a-3754-492b-933e-97177259902b,Serbia,Darko Lazović,24.071333409588373,95.6,50.9,0,0,1,1,0,0,0,0,Defender,0
+4500f508-3992-4e04-a621-5f9b04aa20b9,Brazil,Richarlison de Andrade,1.7760442533587275,107.1,39.6,0,0,1,0,0,0,0,0,Forward,1
+4a8e658e-42ab-497e-8ad8-25578371add9,Brazil,Carlos Henrique Casimiro,14.634715220277632,86.3,31.2,1,0,1,1,0,0,0,0,Midfielder,0
+14e9cdea-65a3-4e14-b404-60d13662cbac,Brazil,Carlos Henrique Casimiro,12.362492415714302,98.1,35.2,0,0,1,1,0,0,0,0,Midfielder,0
+fb8a9594-5ffe-4494-87f8-c29a460b264c,Brazil,Rodrygo Silva de Goes,30.9239954145749,98.8,27.3,0,0,1,1,0,0,0,0,Midfielder,0
+fc1921f9-3a87-44e3-8bcc-3689b1d7557a,Brazil,Frederico Rodrigues Santos,8.162974283718006,95.6,43.5,0,0,1,0,0,0,0,0,Midfielder,0
+bf5b401f-f05a-4e47-be33-363bcf94b8e0,Serbia,Nikola Milenković,43.43648356140517,99.3,59.6,0,0,1,0,0,0,0,0,Defender,0
+f7e2a886-69ec-4b60-945d-60e5dbbce87b,Brazil,Rodrygo Silva de Goes,26.93549286558838,101.5,30.6,0,0,1,0,0,0,0,0,Midfielder,0
+4a942d21-e479-4f22-82ea-223a4e344406,Brazil,Antony Matheus dos Santos,42.83620133473078,99.4,59.1,0,0,1,0,0,0,0,0,Forward,0
+6cb9394a-d7a8-46a4-b6c6-2dbd7dd77409,Serbia,Nemanja Radonjić,35.22617789163957,93.8,21.5,1,0,1,0,0,0,0,0,Defender,0
+f7f89232-029c-46d3-9b33-6171761da364,Australia,Fran Karačić,2.361374658175626,90.9,41.2,1,0,1,1,0,0,0,0,Defender,0
+079ee5e7-8f88-419b-874f-08f5f6d45c07,Tunisia,Mohamed Dräger,5.10216525235819,92.0,42.5,0,0,1,0,0,0,0,0,Defender,0
+3af59ce2-13dd-4ef4-b999-35444cb60d7c,Australia,Mitchell Thomas Duke,37.14668669802177,110.1,32.5,0,0,0,0,0,0,0,0,Forward,1
+787614d6-21dd-40c6-9fd7-be27b59bdc71,Australia,Mitchell Thomas Duke,31.50426671920421,110.7,34.3,0,0,0,0,0,0,0,0,Forward,0
+0053d038-426b-4756-b8e3-67355127786c,Australia,Jackson Irvine,55.19598824728679,114.3,48.2,0,0,1,1,0,0,0,0,Midfielder,0
+0ba6b551-ffc9-4ba7-9fe0-411302556152,Tunisia,Youssef Msakni,40.710846671180974,102.8,54.8,0,0,1,0,0,0,0,0,Midfielder,0
+1df9da21-f86d-4892-a3f4-9fb09a56877e,Tunisia,Mohamed Dräger,37.874983651098205,109.2,48.4,0,0,1,1,0,0,0,0,Defender,0
+95ad1c75-f4f4-41b4-962e-d12648691f55,Australia,Mitchell Thomas Duke,2.275456438254209,104.9,40.6,1,0,0,0,0,0,0,0,Forward,0
+1d0418b7-09ac-483a-9b73-23459223f49d,Australia,Fran Karačić,47.61168137789839,106.4,54.9,0,0,1,1,0,0,0,0,Defender,0
+14e7b5b6-c7b2-4bea-8e2a-1822a5aa561c,Australia,Fran Karačić,20.402745840877145,87.2,52.2,0,0,1,1,0,0,0,0,Defender,0
+7ac35f12-4a6b-4b67-b45f-c7e1ee902d73,Tunisia,Youssef Msakni,31.429565614838516,111.0,45.5,0,0,1,1,0,0,0,0,Midfielder,0
+79f4045c-7ae4-4af4-b2cd-a5c775789ac4,Australia,Mitchell Thomas Duke,0.9022211615301686,107.3,39.8,0,0,0,0,0,0,0,0,Forward,0
+f5ffe096-dcff-45ed-a1a9-fb2cdab9fc09,Tunisia,Ferjani Sassi,23.79614685624438,91.2,52.7,0,0,1,0,0,0,0,0,Midfielder,0
+2bea9acd-e95c-4709-a2d2-a79d7f12f3b9,Tunisia,Youssef Msakni,24.253919724316585,101.8,31.8,0,0,1,1,0,0,0,0,Forward,0
+9f61d330-ddd7-4e28-9b03-cd0bb1849e5f,Tunisia,Youssef Msakni,51.57386002428583,108.1,25.0,0,0,1,1,0,0,0,0,Forward,0
+1a89b3f6-b3c6-419e-872f-ff387e98a62c,Tunisia,Youssef Msakni,5.152081702206233,95.6,42.2,0,0,1,0,0,0,0,0,Forward,0
+03011fec-df16-4754-8924-ef75930a623b,Australia,Aaron Mooy,9.538462733986137,95.6,44.1,0,0,1,1,0,0,0,0,Midfielder,0
+c2fc3913-6fc1-4802-ac7d-2e41fb3e4c83,Tunisia,Youssef Msakni,11.421186274999279,110.1,38.0,1,0,0,0,0,0,0,0,Forward,0
+0aa44d17-1768-40ff-978c-4b01a0683a86,Tunisia,Montassar Omar Talbi,9.523437682994304,89.6,34.9,0,0,1,1,0,0,0,0,Defender,0
+331b0c54-c709-460c-a244-a93062c1c9eb,Tunisia,Taha Yassine Khenissi,34.05578030093245,98.4,54.6,0,0,1,0,0,0,0,0,Forward,0
+0e9f8cb8-6c11-46de-83e5-e9d5c36b933d,Tunisia,Naïm Sliti,35.960517196644865,109.8,47.4,0,0,1,0,0,0,0,0,Forward,0
+3884f549-9a63-4a1f-829c-e0e31fcfd6d2,Tunisia,Wahbi Khazri,42.94411121499534,109.9,49.4,0,0,1,1,0,0,0,0,Midfielder,0
+e20dab7a-d3e0-4215-9e91-e0e646d35cec,Tunisia,Wahbi Khazri,53.887014755542786,108.4,24.1,0,0,1,0,0,0,0,0,Midfielder,0
+ef01d506-9636-4f71-ac54-c974a808ced9,Senegal,Idrissa Gana Gueye,23.5145566829366,106.9,45.7,0,0,1,0,0,0,0,0,Midfielder,0
+0d7253c1-e810-4908-99ba-95645e24e653,Senegal,Boulaye Dia,48.03939956892691,109.3,51.9,0,0,1,1,0,0,0,0,Forward,0
+6f091d57-3a40-485c-b772-e2beb5e0406f,Ecuador,Enner Remberto Valencia Lastra,5.45155109871273,95.9,37.7,0,0,1,1,0,0,0,0,Forward,0
+75686566-096e-4225-877e-aa6be25ff3d9,Senegal,Ismaïla Sarr,0.5509039792185808,99.2,40.2,0,0,1,0,0,0,0,0,Forward,0
+77607409-1e72-455a-bbcb-1a8c85c97caf,Senegal,Iliman Ndiaye,32.434651620092694,99.7,52.9,0,0,1,0,0,0,0,0,Forward,0
+4b6b31e3-5196-4fed-aa6c-74bc680fd9eb,Senegal,Ismaïla Sarr,42.36324157385955,104.1,25.5,0,0,1,0,0,0,0,0,Forward,0
+64ee0bed-abc9-4bef-b12f-288633d366e4,Senegal,Pape Gueye,7.803041259653106,93.0,36.3,0,0,1,0,0,0,0,0,Midfielder,0
+87673ba7-c0af-442d-bc06-491241b97ac0,Senegal,Abdou Diallo,8.923988443631398,107.9,41.9,0,0,0,0,0,0,0,0,Defender,0
+b5e3a80f-7157-4c7e-813c-52f6cad0f42d,Senegal,Pathé Ismaël Ciss,28.272036079432695,108.1,33.6,0,0,0,0,0,0,0,0,Midfielder,0
+28be3369-0a11-4eee-8c8d-80f2a1b0133e,Senegal,Iliman Ndiaye,27.814293855775237,107.3,46.7,0,0,1,0,0,0,0,0,Forward,0
+00df664b-9947-4736-b3d3-3371af2079e1,Ecuador,José Adoni Cifuentes Charcopa,23.33042594484221,93.8,51.3,0,0,1,0,0,0,0,0,Midfielder,0
+bf6c17ed-9a97-41d2-a605-5b40be242ffd,Ecuador,Michael Steveen Estrada Martínez,5.155584317406247,106.7,38.8,0,0,0,0,0,0,0,0,Forward,0
+d7e9b7b5-e7b1-4644-97f3-bd10ea16e184,Ecuador,Felix Eduardo Torres Caicedo,23.19859051364822,113.7,42.7,0,0,0,0,0,0,0,0,Defender,0
+e3628433-dbd5-46d2-8ef7-93e5ae46af83,Ecuador,Moisés Isaac Caicedo Corozo,57.528807709151536,117.2,35.6,0,0,1,1,0,1,0,0,Midfielder,1
+d887c9bf-d07d-4dea-b014-7265fa323362,Senegal,Kalidou Koulibaly,46.46880071438581,114.3,46.0,0,0,1,1,0,0,0,0,Defender,1
+bf5d2f72-9270-48e1-9985-4e18930f8361,Ecuador,Gonzalo Jordy Plata Jiménez,12.154941697222219,107.0,42.8,0,0,1,0,0,0,0,0,Midfielder,0
+b44deb54-7b32-4132-bd9a-2a4000845a1d,Senegal,Boulaye Dia,37.980890701485,101.3,54.6,0,0,1,1,0,0,1,0,Forward,0
+5ef56207-6a0e-42a7-a29a-32b1ef0f5e99,Senegal,Pape Gueye,40.38364790644898,102.6,54.8,0,0,1,0,0,0,0,0,Midfielder,0
+8486fea7-c69d-42a0-9d43-5f116ad4e9e7,Ecuador,Jeremy Leonel Sarmiento Morante,28.2542494616799,105.3,32.1,0,0,0,0,0,0,0,0,Midfielder,0
+c0e47eee-3f1e-4323-be51-6cf548aa43e4,Ecuador,Jackson Gabriel Porozo Vernaza,22.01128319791938,105.9,34.3,0,0,0,0,0,0,0,0,Defender,0
+2cbcc52d-7a83-46f7-bdb4-249923ab4f91,Argentina,Rodrigo Javier De Paul,35.860384863227615,101.6,53.3,0,0,1,1,0,0,0,0,Midfielder,0
+313c7802-faed-4fe9-845f-da25818f117d,Argentina,Lionel Andrés Messi Cuccittini,23.75769953069024,96.6,50.3,0,0,1,0,0,0,0,0,Forward,0
+49ee5165-21b5-4f64-9c9f-b34554a330ef,Netherlands,Steven Bergwijn,21.100083748466435,101.6,32.9,0,0,1,0,0,0,0,0,Forward,0
+76edb296-4cbb-45b1-89c8-a9caa25aad68,Argentina,Rodrigo Javier De Paul,5.862503818694469,97.6,42.3,1,0,1,1,0,0,0,0,Midfielder,0
+289d3fe9-25fd-4c25-8782-28f17bc31118,Argentina,Nahuel Molina Lucero,12.41744579007629,109.1,42.4,0,0,1,0,0,0,0,1,Defender,1
+e0425b00-5efa-4b39-99fb-cce5f8e8e1f7,Argentina,Lionel Andrés Messi Cuccittini,25.989233583833002,104.0,32.2,1,0,1,0,0,0,0,0,Forward,0
+8d9de881-4904-4701-a929-7344ab5416c4,Netherlands,Wout Weghorst,29.52598731124174,108.7,46.4,0,0,0,0,0,0,0,0,Forward,1
+8b444f6c-722e-4bd6-9a63-ede1cc6eefb9,Netherlands,Steven Berghuis,40.815083874881566,104.6,53.3,0,0,1,1,0,0,0,0,Midfielder,0
+5e242c00-08d5-46b0-b4a2-372461b1d0f5,Netherlands,Denzel Dumfries,63.25756307538975,113.5,52.9,0,0,1,1,0,0,0,0,Defender,0
+3dc8a9e3-5ca4-4b80-a73d-b22616631a0d,Netherlands,Wout Weghorst,0.698694382983481,111.8,39.9,1,0,1,0,0,0,0,0,Forward,1
+0f207216-bf55-4479-9483-0e3ed0599b46,Argentina,Lionel Andrés Messi Cuccittini,35.13419305691563,101.1,53.3,1,0,1,0,0,0,0,0,Forward,0
+87b93280-c0b2-48d7-af9c-c4606845147e,Netherlands,Luuk de Jong,51.88642733143202,110.9,28.4,0,0,1,1,0,0,0,0,Forward,0
+ba2559c1-632a-4b17-b13a-6cd6c862e0f1,Argentina,Lautaro Javier Martínez,29.331839578247507,109.5,45.9,0,0,1,1,0,0,0,0,Forward,0
+ba3b7a77-050b-4aae-ac39-aebfbcd7b513,Argentina,Enzo Fernandez,8.378672506215564,94.2,43.8,0,0,1,0,0,0,0,0,Midfielder,0
+742bef2a-769c-48cf-8545-605b811b4f3f,Argentina,Germán Alejandro Pezzella,49.236394799058836,112.5,31.3,1,0,0,0,0,0,0,0,Defender,0
+5e8cf8bc-1852-4def-b947-1ed61eb5fb2d,Argentina,Lautaro Javier Martínez,3.576334374997347,97.6,38.6,1,0,1,1,0,0,1,0,Forward,0
+70a28000-795f-45f6-a72d-d44a0e209242,Argentina,Lionel Andrés Messi Cuccittini,3.911571812528665,96.6,41.6,1,0,1,0,0,0,0,0,Forward,0
+411bfc7d-c827-49f4-bab0-669073097d5b,Argentina,Enzo Fernandez,22.190288896122542,97.2,49.3,0,0,1,0,0,0,0,0,Midfielder,0
+3c84a4b3-b02b-4f0b-b921-10d087114dfd,Uruguay,Matías Vecino Falero,47.35329686610831,109.5,28.6,0,0,0,0,0,0,0,0,Midfielder,0
+9e2e1494-86ce-4f92-8581-f3f827130c98,Uruguay,Federico Santiago Valverde Dipetta,15.945395900922867,103.9,35.4,1,0,1,0,0,0,0,0,Midfielder,0
+5e1be5fe-f1a1-49c8-8f5d-5cfffc1e3a1b,South Korea,Ui-Jo Hwang,13.671307132195855,108.9,42.7,0,0,1,1,0,0,0,0,Forward,0
+28d5992e-58d8-49e0-9e45-195e8abe9ace,South Korea,In-Beom Hwang,30.150508357429842,89.7,57.6,0,0,1,0,0,0,0,0,Midfielder,0
+73308497-19d1-4f91-90e8-71337c25166d,Uruguay,Diego Roberto Godín Leal,2.290610042638521,110.0,40.4,1,0,0,0,0,0,0,0,Defender,0
+d4fb1619-e5ae-46a4-822f-004be15fe57d,Uruguay,José María Giménez de Vargas,13.95450917313685,103.5,35.9,0,0,0,0,0,0,0,0,Defender,0
+298445e1-b0a7-4e00-917b-63db4e85bfd8,South Korea,Min Jae Kim,35.665001536861766,111.5,46.1,0,1,0,0,0,0,0,0,Defender,0
+5ac23aeb-fcf5-440c-bbeb-c5a143d7ae22,Uruguay,Rodrigo Bentancur Colmán,5.194428907734814,101.3,38.3,0,0,1,0,0,0,0,0,Midfielder,0
+2a2b1e94-423a-4f98-bd10-6cf4ec259901,Uruguay,Federico Santiago Valverde Dipetta,23.128231425584975,90.5,27.4,0,0,1,1,0,0,0,0,Midfielder,0
+46066d96-2837-4050-bf69-0c1a250f262c,Uruguay,Edinson Roberto Cavani Gómez,29.235804568700015,106.6,47.5,0,0,1,0,0,0,0,0,Forward,0
+1d47c57c-2554-4d29-a3a9-1265f686d99d,South Korea,Kang-In Lee,29.111804525511097,94.5,54.2,0,0,1,0,0,0,0,0,Forward,0
+18eca657-2f0d-43b7-88e0-d7224e82f8af,South Korea,Gue-Sung Cho,4.29986282019207,93.4,42.0,0,0,1,0,0,0,0,0,Forward,0
+b3074072-9c0c-43c0-9b43-1ba64f5666d5,Uruguay,Darwin Gabriel Núñez Ribeiro,31.093875414010515,100.6,28.3,0,0,1,0,0,0,0,0,Forward,0
+708c4902-292f-4cfb-9b71-244dd94c662b,Uruguay,Edinson Roberto Cavani Gómez,1.8087393224920483,110.5,39.7,0,0,0,0,0,0,0,0,Forward,0
+11613a03-290c-4f86-b3f4-86438269a5ac,Uruguay,Federico Santiago Valverde Dipetta,35.60453398043311,95.7,22.6,0,0,1,0,0,0,0,0,Midfielder,0
+cb29d87d-04b7-422b-9a1d-e271114afdb0,South Korea,Heung-Min Son,7.394008642598276,93.8,36.6,0,0,1,0,0,0,0,0,Forward,0
+6000bcf8-d393-46bd-8bf8-142bc1072ced,South Korea,In-Beom Hwang,27.91824313085769,94.9,26.7,0,0,1,0,0,0,0,0,Midfielder,0
+dd62c1c2-00a9-4b33-a516-6094ca80e218,Portugal,João Félix Sequeira,17.65012421993013,106.8,44.2,0,0,0,0,0,0,0,0,Forward,0
+9f344f5d-4d72-4cf2-8eac-ed7c83a87f65,Morocco,Youssef En-Nesyri,4.6986805172994535,112.7,39.4,0,0,0,0,0,0,0,0,Forward,0
+acc5950a-c4d0-4ca7-8f0d-61a7de6ac0e8,Portugal,Raphaël Adelino José Guerreiro,48.71528910542875,105.6,23.6,0,0,1,1,0,0,0,0,Defender,0
+9cf778f8-eb3d-4bc5-ab35-0f3a147db977,Morocco,Hakim Ziyech,41.168948638943306,96.1,60.9,0,0,1,0,0,0,0,0,Midfielder,0
+9e674fd1-9541-42e1-921f-a8ccbed1d7c6,Morocco,Youssef En-Nesyri,0.861525734567271,106.7,39.8,0,0,0,0,0,0,0,0,Forward,0
+646d8725-6259-4863-92b3-0ea602d4bdd4,Portugal,João Félix Sequeira,32.78068707678065,100.9,27.7,0,0,1,0,0,0,0,0,Forward,0
+971e3e9c-a536-4987-be86-fed114271c3e,Morocco,Selim Amallah,37.59308787150478,108.7,31.3,0,0,1,1,0,0,0,0,Midfielder,0
+9000f0f2-73ed-4a71-917d-2d525af7ba80,Morocco,Sofiane Boufal,27.943034423382933,97.0,27.8,0,0,1,0,0,0,0,0,Midfielder,0
+60fd64f6-2fc4-4e42-8df5-c9e199fa7690,Portugal,João Félix Sequeira,14.489762593884453,102.2,35.4,0,0,1,1,0,0,0,0,Forward,0
+b5cf82d9-5c1a-49ac-af0d-2fada2d6f0e5,Morocco,Youssef En-Nesyri,2.3215305898326957,112.6,39.7,1,0,0,0,0,0,0,0,Forward,1
+7c951da3-8d74-432e-8fd4-2a6807a7ff24,Portugal,Bruno Miguel Borges Fernandes,61.71456805805005,108.0,62.3,0,0,1,1,0,0,0,0,Forward,0
+1b7f0b8c-83a1-4f81-a6d2-469a14a2beda,Morocco,Yahia Attiyat allah,47.85145629073706,107.6,26.3,0,0,1,1,0,0,0,0,Defender,0
+3b8ce4f0-d61d-4dda-9c67-8c240bdbbc47,Morocco,Azzedine Ounahi,8.9726266148964,93.4,44.2,0,0,1,1,0,0,0,0,Midfielder,0
+4d09313e-118e-459a-9ee8-01dc7a56f08f,Portugal,Gonçalo Matias Ramos,0.0,108.7,40.0,0,0,0,0,0,0,0,0,Midfielder,0
+13d33a38-98fb-4bd9-8a7f-c77928e25cba,Portugal,João Félix Sequeira,45.8223709799982,109.7,29.4,1,0,0,0,0,0,0,0,Forward,0
+8fd3af63-509c-463b-88d2-fa1c6eabb793,Portugal,Bruno Miguel Borges Fernandes,13.324531261890785,101.0,35.5,1,0,1,0,0,0,0,0,Forward,0
+66863928-254c-403c-8dc7-ffbd0b98fce5,Portugal,Bernardo Mota Veiga de Carvalho e Silva,21.898192805638995,109.8,35.9,0,0,1,1,0,0,0,0,Midfielder,0
+d3101e93-d011-401a-af9c-5a1c560c72ec,Portugal,João Félix Sequeira,43.53119928561418,102.0,57.1,0,0,1,1,0,0,0,0,Midfielder,0
+d4278a80-ee3d-4ef1-9255-cf9dc4ce1580,Portugal,Cristiano Ronaldo dos Santos Aveiro,36.97050470576841,101.8,53.7,1,0,1,1,0,0,0,0,Forward,0
+69bc4e3c-2854-42c1-89ba-e159f7515567,Morocco,Zakaria Aboukhlal,17.336761672181975,101.1,45.9,0,0,1,0,0,0,0,1,Forward,0
+d7d80857-d613-45c5-8c49-59d19af73f1d,Portugal,Kléper Laveran Lima Ferreira,37.3331957381858,114.1,44.5,1,0,0,0,0,0,0,0,Defender,0
+545c2c84-018f-4570-a01c-753823feaeac,Argentina,Alexis Mac Allister,19.91640599380909,92.4,30.0,0,0,1,0,0,0,0,0,Midfielder,0
+4ad26294-8aaf-4d69-83dd-bbf9ef797b32,Argentina,Rodrigo Javier De Paul,20.797162279163846,99.2,47.9,0,0,1,0,0,0,0,0,Midfielder,0
+6d498191-05f0-432c-8764-03aea4ef9fb8,Argentina,Ángel Fabián Di María Hernández,17.72006532229094,103.1,34.6,0,0,1,1,0,0,0,0,Forward,0
+f227a92e-d86c-4f3d-aa75-5ccb71adcae6,Argentina,Alexis Mac Allister,32.701410155920136,94.3,23.5,0,0,1,1,0,0,0,0,Midfielder,0
+ef86f4d9-7acd-4ed0-a5ec-9129079e8fbe,Argentina,Ángel Fabián Di María Hernández,43.932500316259784,111.8,32.1,0,0,1,1,0,0,0,0,Forward,1
+13a4889d-ad08-41be-9125-24c4c7d7879a,Argentina,Rodrigo Javier De Paul,36.372646855934754,103.3,52.3,0,0,1,1,0,0,0,0,Midfielder,0
+43691970-1dad-4e11-bd29-48f640c55ea1,Argentina,Julián Álvarez,57.82439810223515,110.5,24.9,0,0,1,0,0,0,0,1,Forward,0
+9615ffbc-b513-45e6-9ccc-015234483f95,Argentina,Lionel Andrés Messi Cuccittini,30.221838267062648,109.7,46.0,0,0,1,0,0,0,0,0,Forward,0
+9f6285ff-9b32-4a46-a4a0-74c1ca89276c,France,Randal Kolo Muani,39.28940686250037,113.4,34.6,1,0,0,0,0,0,0,0,Forward,0
+b2d43671-a3e6-4709-9c0c-646442c1074c,France,Kylian Mbappé Lottin,34.66108945705896,102.5,27.9,0,0,1,0,0,0,0,0,Forward,0
+43b2d123-6945-4a7c-8292-f7792af341f9,Argentina,Enzo Fernandez,20.287752687480435,98.9,32.2,0,0,1,0,0,0,0,0,Midfielder,0
+03fb2918-e1e7-4ec8-89ff-7bc5531e853d,France,Kylian Mbappé Lottin,33.07683336415537,104.8,30.1,0,0,1,1,0,0,0,0,Forward,1
+fe277079-395a-4ff3-bb29-e99d93014014,Argentina,Enzo Fernandez,8.389618453425316,92.2,35.9,0,0,1,0,0,0,0,0,Midfielder,0
+5dbcde3d-ba75-483d-a65f-72d2b99ff713,France,Kylian Mbappé Lottin,17.934249388529548,95.9,32.2,0,0,1,0,0,0,0,0,Forward,0
+8d2a6599-cc25-41a2-acde-41d10194b5bd,France,Adrien Rabiot,46.01397872278532,108.9,28.5,0,0,1,1,0,0,0,0,Midfielder,0
+867b8791-49c0-4d98-a976-c0b4cfc1cb5a,Argentina,Lionel Andrés Messi Cuccittini,2.165615252902856,96.2,40.9,0,0,1,0,0,0,0,0,Forward,0
+d8c05bb0-ddb1-4ff2-9dbf-ba17b00a5359,Argentina,Alexis Mac Allister,36.616751519070654,98.2,23.8,0,0,1,1,0,0,0,0,Midfielder,0
+db8267ad-256a-450d-997f-382a4d545634,France,Youssouf Fofana,0.1897204308253191,89.8,39.9,0,0,1,0,0,0,0,0,Midfielder,0
+d3ba40fa-09d6-4488-b17d-672aaa2928d7,Argentina,Lautaro Javier Martínez,25.324181401947182,108.8,45.3,0,0,1,0,0,0,0,0,Forward,0
+a1654330-3747-4a25-b244-26ba2884c91c,Argentina,Gonzalo Ariel Montiel,21.634488532484575,96.3,49.4,0,0,1,1,0,0,0,0,Defender,0
+5d7d4f2f-62da-4de9-90e3-3660ba17c4f3,Argentina,Lautaro Javier Martínez,23.568832723766796,105.1,33.5,0,0,1,0,0,0,0,0,Forward,0
+8bb8c7b5-9c14-4dfa-9279-0548ee8076db,Argentina,Lionel Andrés Messi Cuccittini,43.932500316259784,103.6,55.8,0,0,1,1,0,0,0,0,Forward,0
+40cbfd91-87d9-4df8-a575-533b5c26767f,Argentina,Lautaro Javier Martínez,64.9831065219,114.4,52.0,0,0,1,0,0,0,0,1,Forward,0
+54b889ec-6026-49ea-a913-e883dbe6e301,Argentina,Lionel Andrés Messi Cuccittini,41.4236656250026,116.6,43.0,0,0,1,1,0,0,0,0,Forward,1
+08f2f203-cdc9-4146-99b6-818c5c32bf70,France,Kylian Mbappé Lottin,35.77011375627229,101.4,26.6,0,0,1,0,0,0,0,0,Forward,0
+959edead-09fb-40b0-b6a3-72e73bd30d5a,France,Randal Kolo Muani,17.37403713265779,103.7,45.1,0,0,1,1,0,0,0,0,Forward,0
+449f2702-ad18-4bc8-a9ef-59fb1dc1a707,Argentina,Lautaro Javier Martínez,9.865806943084374,110.8,41.6,0,0,0,0,0,0,0,0,Forward,0
+7360ea79-da18-4769-80d9-a53c5321f270,Mexico,Luis Gerardo Chávez Magallón,22.114878708583593,91.7,51.5,0,0,1,1,0,0,0,0,Midfielder,0
+35e6820f-8205-4a28-9014-ea915f55fae7,Saudi Arabia,Saleh Khalid Al Shehri,3.5894967408381957,92.9,41.7,0,0,1,0,0,0,0,0,Forward,0
+0762f517-c773-4524-ad11-f9b093adb86e,Mexico,Ernesto Alexis Vega Rojas,3.42121927642931,101.6,38.9,0,0,1,1,0,0,0,0,Forward,0
+0fd0c637-281b-44a5-8d98-bf0c4743566f,Saudi Arabia,Mohammed Kanoo,63.59772048591515,113.0,54.1,0,0,1,0,0,0,0,1,Forward,0
+d8fc4b86-5699-423d-ae78-86434e7724dd,Mexico,Luis Gerardo Chávez Magallón,0.8394385337123157,92.7,40.4,0,0,1,1,0,0,0,0,Midfielder,0
+37e79748-9f77-4b26-abac-7d57b58a279f,Mexico,Orbelín Pineda Alvarado,16.039943306049672,104.0,44.6,0,0,1,1,0,0,0,0,Midfielder,0
+551504c3-02db-4785-9555-a03fa3e98e87,Mexico,Orbelín Pineda Alvarado,52.63333058723129,115.8,34.5,0,0,0,0,0,0,0,0,Midfielder,0
+05f491f1-e757-4e02-a575-5f7f497a4c3d,Mexico,Luis Gerardo Chávez Magallón,20.05873448683907,89.6,28.9,0,0,1,0,0,0,0,0,Midfielder,0
+b1e7832d-9cb9-4d9e-8b3d-a089a9891463,Mexico,Jesús Daniel Gallardo Vasconcelos,14.036243467926464,106.8,43.3,0,0,1,1,0,0,0,0,Defender,0
+1f8e76a6-318d-4131-b339-4e3e985b55cc,Mexico,Orbelín Pineda Alvarado,16.113418233089302,102.0,45.2,0,0,1,0,0,0,0,0,Midfielder,0
+0db60af5-ec02-4896-a0b0-7c322f669397,Mexico,Ernesto Alexis Vega Rojas,37.588507140821115,106.1,29.3,0,0,1,0,0,0,0,0,Forward,0
+cd11cb79-9057-4f7c-9a06-a07fcf3a82ea,Mexico,Luis Gerardo Chávez Magallón,20.25424690312332,92.9,30.0,0,0,1,0,0,0,0,0,Midfielder,0
+f8969e55-b959-4fd5-b205-dc53009f544c,Saudi Arabia,Ali Al Hassan,29.494955817687693,110.1,45.6,0,0,0,0,0,0,0,0,Midfielder,0
+9a9bdad7-e516-495a-bddb-b1029d0e8986,Mexico,Luis Gerardo Chávez Magallón,1.9920935729664493,85.5,41.2,0,0,1,0,0,0,0,0,Midfielder,0
+ab439f22-7549-4b3d-b73d-cb7f784df2dc,Mexico,Hirving Rodrigo Lozano Bahena,50.24866058061944,102.7,19.2,0,0,1,0,0,0,0,0,Forward,0
+bb0683f2-b89d-4a9a-b829-9aebd0fd3fcf,Mexico,Henry Josué Martín Mex,3.4682292589171997,116.7,40.2,0,0,1,1,0,0,0,0,Forward,1
+828e2ebe-2135-490d-8d1d-252578780dbf,Saudi Arabia,Sultan Abdullah Salim Al Ghannam,57.91781284393395,115.8,46.7,0,0,1,1,0,0,0,0,Defender,0
+6fd735a1-6383-4983-9dc5-a1eb5e9b577f,Saudi Arabia,Sultan Abdullah Salim Al Ghannam,67.24902365721236,114.8,52.4,0,0,0,0,0,0,0,1,Defender,0
+53cb3e4f-bd44-4686-a829-e53e432a9b60,Mexico,Henry Josué Martín Mex,0.0,112.0,40.0,1,0,0,0,0,0,0,0,Forward,0
+5357f128-7e7d-465b-ae25-d440b6d58b16,Saudi Arabia,Abdulelah Al Amri,25.07441934181567,109.1,45.1,0,0,0,0,0,0,0,0,Defender,0
+ff9c11e8-a0b0-470c-a775-28d5332a0ac8,Mexico,Hirving Rodrigo Lozano Bahena,21.13982480865766,97.5,31.3,0,0,1,0,0,0,0,0,Forward,0
+140deee1-1155-4b48-9254-94f0c7a009d9,Saudi Arabia,Firas Tariq Nasser Al Albirakan,38.13000769178576,101.4,25.4,0,0,1,1,0,0,0,0,Forward,0
+119aae3f-7458-4367-a048-4c7340e696cb,Mexico,Henry Josué Martín Mex,24.482485897347104,108.8,34.9,0,0,1,1,0,0,0,0,Forward,0
+236d3055-0a90-427c-986e-afdd7119e9b2,Mexico,Orbelín Pineda Alvarado,20.006694737740272,100.5,32.9,0,0,1,0,0,0,0,0,Midfielder,0
+f8d38cc2-8003-4c72-b515-4a45cebab98c,Mexico,Carlos Uriel Antuna Romero,21.146094179407697,109.4,35.9,0,0,1,1,0,0,0,0,Forward,0
+a6999d34-05e5-439c-b78f-9e567f38315a,Mexico,Edson Omar Álvarez Velázquez,4.680443618253303,85.8,42.8,0,0,1,0,1,0,0,0,Midfielder,0
+1749325d-d4e5-495e-a0ae-e1b573c00b88,Saudi Arabia,Salem Mohammed Al Dawsari,0.5580581267715963,89.2,40.3,0,0,1,0,0,0,0,0,Forward,0
+349ee58a-1ee5-43e9-85e8-85d16b8d607e,Mexico,Luis Gerardo Chávez Magallón,17.52556837372287,101.0,46.0,0,0,1,1,0,0,0,0,Midfielder,0
+94b77c6f-ca64-4110-9427-4d6237fe5295,Mexico,Rogelio Gabriel Funes Mori,6.991925346667798,98.8,37.4,0,0,1,1,0,0,0,0,Forward,0
+5d726db4-85cc-4e9e-a741-e6073ce83a10,Mexico,Hirving Rodrigo Lozano Bahena,32.87898454741425,101.9,28.3,0,0,1,0,0,0,0,0,Midfielder,0
+2d9bcc06-8ad1-4228-9941-d16bcc4b0e1f,Saudi Arabia,Salem Mohammed Al Dawsari,29.744881296942253,110.9,45.2,0,0,1,0,0,0,0,1,Forward,1
+572a339f-eaf7-4cb4-b1ad-37e22b6de294,Poland,Krystian Bielik,3.853480453602067,100.7,41.3,0,0,1,1,0,0,0,0,Midfielder,0
+6271cb0d-792e-44c7-8222-86a420b8b9f8,Argentina,Lionel Andrés Messi Cuccittini,6.250339577780472,99.0,37.7,0,0,1,0,0,0,0,0,Forward,0
+1f63e0eb-0788-49c8-9158-bd891af14036,Argentina,Ángel Fabián Di María Hernández,1.1145632724847128,94.3,40.5,0,0,1,0,0,0,0,0,Forward,0
+1ae953ce-5984-4e36-a92c-de52f9c93bf8,Argentina,Lionel Andrés Messi Cuccittini,59.693413370491236,111.7,25.8,0,0,1,0,0,0,0,0,Forward,0
+2653afac-1109-404b-b501-f4d4baf060fe,Argentina,Marcos Javier Acuña,42.94644943648902,107.0,27.9,0,0,1,0,0,0,0,0,Defender,0
+fdf9a912-bf21-4c3b-a593-236d5ec0b1ac,Poland,Kamil Glik,13.940591170290022,105.9,43.5,0,0,1,1,0,0,0,0,Defender,0
+3dbf06d9-85ab-470c-ac24-973f9499e041,Argentina,Julián Álvarez,39.9278671274855,110.8,47.7,0,0,1,1,0,0,0,0,Forward,0
+8abd7d1a-7a83-4ba5-8468-d78a75241b75,Argentina,Marcos Javier Acuña,45.662349447372215,102.9,22.5,0,0,1,0,0,0,0,0,Defender,0
+a4aaf0da-1081-48b9-a387-3243c4942246,Argentina,Enzo Fernandez,0.605214597244806,91.6,39.7,0,0,1,0,0,0,0,0,Midfielder,0
+91387214-dcee-44c8-b43c-046e2fecca89,Argentina,Julián Álvarez,52.253194612725345,110.4,27.6,0,0,1,0,0,0,0,1,Forward,0
+65ae5418-5de4-406c-8035-982c31b767cc,Argentina,Julián Álvarez,36.450923179581316,102.4,27.0,0,0,1,0,0,0,0,0,Forward,0
+39d714d7-42f9-43e0-8306-085c4172b667,Argentina,Rodrigo Javier De Paul,2.2025981617657853,112.2,40.3,0,1,0,0,0,0,0,0,Midfielder,0
+0670a09b-814f-43dd-bc57-5a937f6757fe,Argentina,Ángel Fabián Di María Hernández,54.13961513677237,106.7,58.4,0,0,1,0,0,0,0,0,Forward,0
+eb2860da-2ebb-4004-bc49-730dfbce8e20,Argentina,Alexis Mac Allister,25.574444772100122,106.0,46.7,0,0,1,1,0,0,0,0,Midfielder,1
+a4599cb3-5e7a-49db-9c04-3aa68dec90fd,Poland,Kamil Glik,17.35402463626132,108.8,43.5,1,0,0,0,0,0,0,0,Defender,0
+0dddd6bf-a81e-4a0b-9caf-56471e4ddeea,Poland,Michał Skóraś,41.80244222614915,101.1,56.9,0,0,1,0,0,0,0,0,Midfielder,0
+70ce1f6c-76b8-46d5-b140-1ceca04362a2,Argentina,Lionel Andrés Messi Cuccittini,39.24543466889781,105.8,28.4,0,0,1,0,0,0,0,0,Forward,0
+4a6f24b1-264f-4299-a970-d34dbab58d38,Argentina,Lionel Andrés Messi Cuccittini,45.2689922936965,109.4,50.7,1,0,1,0,0,0,0,0,Forward,0
+c018ace7-faf7-41ab-af7a-43f25b7c2be7,Argentina,Julián Álvarez,6.952957468173917,107.7,41.5,0,0,1,0,0,0,0,0,Forward,0
+9a0efccb-b7da-417b-91d2-ff7b15151f07,Argentina,Alexis Mac Allister,23.198590513648185,106.0,46.0,0,0,1,1,0,0,0,0,Forward,0
+b8c51026-7acb-4558-abc9-69703e799aaf,Argentina,Lionel Andrés Messi Cuccittini,47.766788401169535,107.2,25.9,0,0,1,0,0,0,0,0,Forward,0
+85aaca70-13c3-4d52-87e2-63d63b6d37d4,Argentina,Julián Álvarez,24.904768808095188,106.0,33.5,0,0,1,0,0,0,0,0,Forward,1
+0bcdb3c6-6051-4d5f-a442-cb13feed8e02,Argentina,Lionel Andrés Messi Cuccittini,19.94902218355712,106.5,35.1,0,0,1,1,0,0,0,0,Forward,0
+fca0fc9d-ac5f-43e2-a5c1-d923698893b8,Argentina,Julián Álvarez,42.191515122653996,106.1,52.6,0,0,1,0,0,0,0,1,Forward,0
+b7bc5902-8ad1-4d77-a9b5-0f79031c6e4d,Argentina,Lautaro Javier Martínez,49.01417569541105,109.4,52.2,0,0,1,0,0,0,0,1,Forward,0
+5325616c-2d99-4e2c-8045-ee6409ac7d62,Argentina,Nicolás Alejandro Tagliafico,39.70991879462874,108.2,30.2,0,0,1,1,0,0,0,0,Defender,0
+546940d1-bfb5-43e1-9187-da6b5052e120,France,Ousmane Dembélé,5.147884824136301,97.8,38.0,0,0,1,0,0,0,0,0,Forward,0
+01f63d7d-2d5a-48e1-9c09-f70cdfbbf488,France,Adrien Rabiot,48.23970029610214,115.0,45.6,1,0,0,0,0,0,0,0,Midfielder,0
+7e3fa3b3-07c0-4b3e-8665-a917a6936c17,France,Raphaël Varane,42.23614262908745,112.4,46.9,1,0,0,0,0,0,0,0,Defender,0
+72e93c87-a1d0-4511-b6ad-92d08f230b19,France,Olivier Giroud,7.7335980990228785,111.9,38.9,1,0,0,0,0,0,0,0,Forward,0
+1f3a4095-aec4-4475-8b87-ba40ba707855,France,Adrien Rabiot,21.175739417104577,108.9,44.3,0,0,0,0,0,0,0,0,Midfielder,0
+656f2b0b-d5e2-423c-bc40-51509b696411,France,Jules Koundé,55.8230112262071,109.0,56.2,1,0,1,0,0,0,0,0,Defender,0
+a5aa110a-a294-4d37-9e97-d794ec2d34cc,France,Antoine Griezmann,83.92041104216153,118.2,23.1,1,0,1,0,0,0,0,1,Midfielder,0
+95f89dc1-bbca-4317-8fe3-4dca371f6f62,France,Aurélien Djani Tchouaméni,2.538544598398789,99.7,39.1,0,0,1,1,0,0,0,0,Midfielder,0
+a1ff7e87-5912-46cd-a061-04381a5c689d,France,Ousmane Dembélé,34.13594007791228,108.2,48.0,0,0,1,0,0,0,0,0,Forward,0
+aad5ee91-50fa-435f-83f8-c55f0ba94485,France,Adrien Rabiot,37.9148277194411,100.1,24.5,0,0,1,0,0,0,0,0,Midfielder,0
+5b926bb9-2409-4a99-85d2-76781e869280,Denmark,Andreas Evald Cornelius,51.42874774882986,107.4,55.8,0,0,1,1,0,0,0,0,Forward,0
+1661ce1b-436d-490d-ba76-8248c3949333,France,Olivier Giroud,24.519642688190764,108.6,45.2,1,0,0,0,0,0,0,0,Forward,0
+310ee968-a5e3-4dbf-995e-de9fe226fd41,France,Kylian Mbappé Lottin,15.18583726220131,106.0,43.8,0,0,1,1,0,0,0,0,Forward,0
+2fa4a98b-aec3-418e-a0f8-004e13b71538,Denmark,Christian Dannemann Eriksen,3.865461169851747,83.0,42.5,0,0,1,0,0,0,0,0,Midfielder,0
+ea6b2762-aa7e-4d03-9778-022de21c8935,France,Kylian Mbappé Lottin,45.13355635370593,98.6,18.5,0,0,1,0,0,0,0,0,Forward,0
+3ad50410-98e0-43fd-bfb0-a08ca4a3e9e1,France,Kylian Mbappé Lottin,31.908106935653137,104.1,30.1,0,0,1,0,0,0,0,0,Forward,0
+c071b9b5-3c71-4481-9ca4-02196def8455,France,Antoine Griezmann,3.945186229037571,102.6,38.8,0,0,1,0,0,0,0,1,Midfielder,0
+935912ab-8e92-422a-a070-e7ad13db20dd,France,Kylian Mbappé Lottin,43.39997528485225,110.8,31.3,0,0,1,1,1,0,0,0,Forward,1
+2c65e5d9-6a2b-45b1-aad7-c31705f81705,Denmark,Joachim Andersen,26.56505117707799,112.2,43.9,1,0,0,0,0,0,0,0,Defender,0
+252d8514-8e16-4b98-8780-262352e7442e,Denmark,Andreas Christensen,18.924644416051226,113.0,37.6,0,0,0,0,0,0,0,0,Defender,1
+12475ee1-e398-4785-9eef-c4e60f8a0dde,Denmark,Jesper Lindstrøm,29.054604099077157,107.4,33.0,0,0,1,1,0,0,0,0,Forward,0
+c6c9bccc-2b78-4609-be40-201367d1eac4,Denmark,Christian Dannemann Eriksen,10.813877513624965,93.3,45.1,0,0,1,0,0,0,0,0,Midfielder,0
+61081ad1-ec78-4a49-a13f-157dbd7afd78,France,Aurélien Djani Tchouaméni,20.05609473657541,113.7,37.7,0,0,0,0,0,0,0,0,Midfielder,0
+b8cfcb88-86d7-4515-9431-fc28a7e30db8,France,Jules Koundé,4.304468960508002,110.7,40.7,1,0,0,0,0,0,0,0,Defender,0
+a95f3fc8-cc30-487c-b3a5-2556a3f76f82,France,Adrien Rabiot,45.0,112.7,47.3,0,0,1,1,0,0,0,0,Midfielder,0
+2ed3067d-087f-48a5-880d-946d0e595fe6,Denmark,Martin Braithwaite Christensen,27.021581591177046,110.0,45.1,0,0,1,1,0,0,0,0,Forward,0
+60e60f5e-be8d-4476-8f8c-5a2401b9e786,Denmark,Pierre-Emile Højbjerg,14.855283878869935,87.2,48.7,0,0,1,1,0,0,0,0,Midfielder,0
+eae706a8-6538-43d9-b22f-432563235daa,France,Kylian Mbappé Lottin,57.847704858717634,117.8,36.5,0,1,0,1,0,0,0,0,Forward,1
+e27388d1-884c-4db8-ba77-781b8f539015,Denmark,Joachim Andersen,27.537571311213924,94.3,53.4,0,0,1,0,0,0,0,0,Defender,0
+2e328710-b17d-4c08-8706-fc2e43a0206e,France,Kylian Mbappé Lottin,35.14108205285613,99.4,25.5,0,0,1,1,0,0,0,0,Forward,0
+a6821c2e-255a-4b66-81d9-f852c291ea16,Denmark,Joakim Mæhle,4.223406976655637,87.5,42.4,0,0,1,1,0,0,0,0,Defender,0
+6303bb4c-8c46-4599-b098-ba4383dd8425,Mexico,César Jasib Montes Castro,6.441600099335024,107.6,38.6,1,0,1,1,0,0,0,0,Defender,0
+2e08a493-5c0b-4998-b45d-20c1bacd14af,Argentina,Lautaro Javier Martínez,3.918248864067378,112.7,39.5,1,0,0,0,0,0,0,0,Forward,0
+65c20a9b-aa50-4da6-bc04-a848773d67f2,Mexico,Ernesto Alexis Vega Rojas,32.005383208083494,92.8,23.0,0,0,1,0,0,0,0,0,Forward,0
+a59e883b-cd74-4ca0-ab25-bb6bc6a89795,Mexico,Hirving Rodrigo Lozano Bahena,6.885397850172325,93.5,36.8,0,0,1,0,0,0,0,0,Forward,0
+dc43408a-c64f-4d73-a507-5ede555a0985,Argentina,Lionel Andrés Messi Cuccittini,5.913929040800574,94.9,37.4,0,0,1,0,0,0,0,0,Forward,1
+3424d17c-9fc4-4cd3-bb30-9292c7e3a5d1,Argentina,Nahuel Molina Lucero,26.44103453198039,101.5,49.2,0,0,1,1,0,0,0,0,Defender,0
+faf9b06c-ec39-4b93-bf90-ae0154ce07ff,Argentina,Enzo Fernandez,51.87220869363395,106.5,22.8,0,0,1,0,0,0,0,0,Midfielder,1
+3b347c3e-4bfd-45f4-adbb-9f0cce8500a7,Switzerland,Silvan Widmer,62.97841840882298,114.9,30.0,0,0,1,1,0,0,0,0,Defender,0
+ba517b6d-88d2-462b-9698-9340745ebd30,Brazil,Vinícius José Paixão de Oliveira Júnior,37.21644047353458,112.1,34.0,0,0,1,1,0,0,0,0,Midfielder,0
+d1b4a72a-8b1e-403f-bda9-98ce4ed77aa8,Brazil,Carlos Henrique Casimiro,0.6687919529686586,94.3,39.7,0,0,1,1,0,0,0,0,Midfielder,0
+77287428-6900-4246-9d1d-e0e975abbaf5,Brazil,Raphael Dias Belloli,11.714712878093763,90.1,46.2,0,0,1,0,0,0,0,0,Midfielder,0
+7fe9506b-b003-49dc-986c-288faef6208f,Brazil,Richarlison de Andrade,4.343239951689398,104.2,41.2,1,0,0,0,0,0,0,0,Forward,0
+ef521466-2985-48be-bcad-e182b50a10b6,Brazil,Éder Gabriel Militão,10.56801420900933,93.2,45.0,0,0,1,0,0,0,0,0,Defender,0
+a4998394-eaac-4748-97cf-50feaa1947f2,Brazil,Thiago Emiliano da Silva,34.99202019855866,115.0,43.5,1,0,0,0,0,0,0,0,Defender,0
+d9784638-6a98-41a3-8b01-6ef7bb3ac58b,Switzerland,Djibril Sow,49.93921554212617,112.6,48.8,0,0,1,1,0,0,0,0,Midfielder,0
+92a2996a-f12a-4b45-97b2-8afaaa30fb1a,Switzerland,Ruben Vargas,41.31485334484423,104.3,26.2,0,0,1,0,0,0,0,0,Forward,0
+53cf9036-7945-4182-bc82-5e6eb524e430,Switzerland,Manuel Obafemi Akanji,13.298570330494275,103.5,43.9,0,0,0,0,0,0,0,0,Defender,0
+f766ef87-335e-4fca-9900-16d811635849,Switzerland,Djibril Sow,8.285797023953752,99.4,37.0,0,0,1,1,0,0,0,0,Midfielder,0
+9dc54605-39aa-415d-ac4a-dddb5d935555,Switzerland,Edimilson Fernandes,7.062602670415767,97.4,42.8,0,0,1,0,0,0,0,0,Forward,0
+64e47375-1238-4c94-9a28-726138767d0c,Brazil,Marcos Aoás Corrêa,15.461217740441903,110.6,37.4,1,0,0,0,0,0,0,0,Defender,0
+4c89af4c-2ef8-46df-bdc6-4fdf13645cbc,Brazil,Richarlison de Andrade,46.08092418666069,107.0,26.5,0,0,1,1,0,0,0,0,Forward,0
+d0ac93b2-1ffc-4937-bfd0-50d445f9ca6f,Brazil,Bruno Guimarães Rodriguez Moura,22.574138078648208,102.2,47.4,0,0,0,0,0,0,0,0,Midfielder,0
+0b0c3e60-e623-4fa2-8c88-359b0a59c522,Brazil,Carlos Henrique Casimiro,37.72993135462658,106.3,29.4,0,0,1,1,1,0,0,0,Midfielder,1
+220edac9-e09c-4468-ae73-15043a11c020,Brazil,Rodrygo Silva de Goes,54.79781740785127,109.7,25.4,0,0,1,0,0,0,0,0,Midfielder,0
+6d49007e-8eb0-40b1-87aa-a16de7388f8e,Brazil,Antony Matheus dos Santos,42.84204954784244,102.1,56.6,0,0,1,0,0,0,0,0,Midfielder,0
+6276db35-9f59-432c-950d-13692cfeb235,Brazil,Rodrygo Silva de Goes,7.224315694045324,105.8,41.8,0,0,1,1,0,0,0,0,Midfielder,0
+681866bd-f8fb-40de-b641-8b3829f92fa8,Netherlands,Memphis Depay,68.12084866242473,114.9,52.7,0,0,1,1,0,0,0,0,Forward,0
+c513b345-f6dc-439c-a532-063070737d8e,Qatar,Hassan Khalid Al Heidos,21.54097591853844,89.6,52.0,0,0,1,0,0,0,0,0,Midfielder,0
+3fa150d3-5836-4196-9351-1dfd7c2b5b2f,Netherlands,Daley Blind,61.79250912098468,114.1,29.0,0,0,1,1,0,0,0,0,Defender,0
+169b4e71-a06a-48c5-bd49-10a7bb88ac6f,Netherlands,Daley Blind,67.16634582208246,115.2,28.6,1,0,1,1,0,0,0,0,Defender,0
+b85b05ed-bc40-4da8-946c-12aec86dc63f,Netherlands,Cody Mathès Gakpo,21.39480110298164,93.2,29.5,1,0,1,0,0,0,0,0,Forward,0
+5f82fc27-3821-42b7-9e6f-6596b3f069ca,Netherlands,Frenkie de Jong,18.43494882292202,96.9,32.3,0,0,1,0,0,0,0,0,Midfielder,0
+1589c7ee-2851-413b-a9c2-5e265c74d53d,Netherlands,Memphis Depay,34.62415507994896,107.4,31.3,0,0,1,1,0,0,0,0,Forward,0
+3947edb7-d614-4440-9272-65e67576d887,Netherlands,Davy Klaassen,32.7352262721076,113.0,44.5,1,0,0,0,0,0,0,0,Midfielder,0
+0fd36261-3861-49f3-ae66-8ff28b585ae5,Qatar,Abdelkarim Hassan Al Haj Fadlalla,26.987890581748495,109.2,45.5,0,0,1,1,0,0,0,0,Defender,0
+d6a331a3-f42f-4c23-8d3c-2fe409f48ddb,Netherlands,Memphis Depay,56.032473240897666,113.6,30.5,1,0,1,0,0,0,0,0,Forward,0
+8e6b5880-b870-45d1-9cb1-9521271d4057,Netherlands,Cody Mathès Gakpo,0.6861441978352458,103.3,39.8,1,0,1,0,0,0,0,0,Forward,1
+cd7e0565-1678-4c38-be90-0e4f821aac74,Qatar,Ismaeel Mohammad Mohammad,1.5363001288837912,93.9,39.3,1,0,1,0,0,0,0,0,Defender,0
+6168b94a-4bdb-41c3-aad6-f54651f78ce8,Netherlands,Memphis Depay,20.17455586243101,93.6,49.7,0,0,1,1,0,0,0,0,Forward,0
+a8bbfe30-748b-4757-b73b-16e769ae39aa,Netherlands,Memphis Depay,58.17255342332692,116.4,34.2,1,0,1,0,0,0,0,1,Forward,0
+605dfb68-9605-463f-817d-d3554f53c2d2,Netherlands,Frenkie de Jong,7.125016348901713,117.6,40.3,0,0,1,1,0,1,0,0,Midfielder,1
+c6e22f86-bca7-4b4a-ad6c-36bcf7aedae2,Qatar,Abdulaziz Hatem Mohammed Abdullah,27.374513826073542,94.7,53.1,0,0,1,0,0,0,0,0,Midfielder,0
+30f7bd08-06e6-423c-8795-f0d28a85985f,Qatar,Pedro Miguel Correia,22.932100437589785,88.8,53.2,0,0,1,0,0,0,0,0,Defender,0
+31237462-c6cf-42e4-a2af-cbb60f28c749,Netherlands,Steven Berghuis,47.01771599248724,102.2,59.1,0,0,1,0,0,0,0,0,Midfielder,0
+da4dd724-c729-4200-935c-84741b3d8d1b,Switzerland,Breel-Donald Embolo,38.83515821776454,104.1,27.2,0,0,1,0,0,0,0,0,Forward,0
+4702956b-c7d2-4b36-848c-4057f688bba0,Portugal,Gonçalo Matias Ramos,55.16208319400074,111.3,27.5,0,0,1,0,0,0,0,0,Forward,1
+3e9b1782-21f4-4684-a2b4-7fcb434e81d2,Portugal,Otávio Edmilson da Silva Monteiro,9.761774775042257,101.4,36.8,0,0,1,1,0,0,0,0,Midfielder,0
+d3210de8-2efb-482c-b44b-f983e5cdf53b,Portugal,Gonçalo Matias Ramos,22.005853862247836,100.7,32.2,0,0,1,1,0,0,0,0,Forward,0
+92f8ddc9-eb11-486b-b917-e6adc5ddcb84,Portugal,Kléper Laveran Lima Ferreira,0.0,114.3,40.0,1,0,0,0,0,0,0,0,Defender,1
+5ffa5b27-1e0e-410e-8950-32d831432910,Switzerland,Remo Freuler,44.29268063145579,115.9,44.0,0,0,0,0,0,0,0,0,Midfielder,0
+c46ab3f1-2c95-44e7-80d3-a63693f56e70,Switzerland,Fabian Lukas Schär,34.278030940609035,99.9,53.7,0,0,1,0,0,0,0,0,Defender,0
+6e8ce1fe-2cc7-499d-a137-df556d0ce758,Portugal,Gonçalo Matias Ramos,27.834053940550834,107.5,33.4,0,0,1,1,0,0,0,0,Forward,0
+73b29321-0a25-4f7f-b226-23cc581db422,Portugal,Raphaël Adelino José Guerreiro,32.005383208083494,96.0,25.0,0,0,1,0,0,0,0,0,Defender,0
+4232fdf4-5a2b-47bf-ae3b-0f5fdeea3684,Portugal,Gonçalo Matias Ramos,41.18592516570967,114.4,35.1,1,0,0,0,0,0,0,0,Forward,0
+37c91977-3d8e-42a7-8368-806c40c8e9fc,Portugal,Gonçalo Matias Ramos,46.33221985386961,115.8,44.4,0,0,1,1,0,0,0,0,Forward,1
+86b9f4b6-512c-426b-aa0a-9d2295994d50,Portugal,João Félix Sequeira,39.49679443151137,103.5,26.4,1,0,1,0,0,0,0,0,Forward,0
+0fccbaee-00d4-4124-af20-9740849940b4,Portugal,Kléper Laveran Lima Ferreira,25.559965171823794,110.8,35.6,1,0,0,0,0,0,0,0,Defender,0
+4ed9fca8-dccc-4c44-ba66-76783239ad29,Portugal,Raphaël Adelino José Guerreiro,39.86744556012706,110.9,32.4,1,0,1,0,0,0,0,0,Defender,1
+2b86a444-5696-4c2d-ba7f-837ec9756684,Switzerland,Manuel Obafemi Akanji,74.21924669048465,118.7,35.4,0,0,1,1,0,1,0,0,Defender,1
+9cc86132-6a78-440a-b926-2926ddd6946f,Switzerland,Xherdan Shaqiri,52.55906698104121,101.7,63.9,0,0,1,0,0,0,0,0,Midfielder,0
+ec8bd928-b9e8-44ae-b2a1-3e12b7d38a87,Portugal,Gonçalo Matias Ramos,38.088772880975284,112.6,45.8,1,0,1,0,0,0,0,1,Forward,1
+624cffee-e13c-4020-8af2-efcf3760783c,Switzerland,Denis Lemi Zakaria Lako Lado,9.090276920822326,97.5,36.4,0,0,1,0,0,0,0,0,Midfielder,0
+8a9e1974-0ef0-4911-b167-4dd9d77bdc8d,Switzerland,Breel-Donald Embolo,2.5590023176994263,102.1,39.2,1,0,1,0,0,0,0,0,Forward,0
+47d48ad1-0bec-4db0-89fa-69f2064e2eee,Switzerland,Granit Xhaka,38.966746993799305,113.2,34.5,1,0,0,0,0,0,0,0,Midfielder,0
+5df2ae77-2cbb-4d69-8bb4-36c4f4d8aea5,Switzerland,Noah Okafor,55.53466477765464,108.4,23.1,0,0,1,0,0,0,0,0,Midfielder,0
+b454f46a-01f5-4f67-9b6b-994573c64ca9,Portugal,Rafael Alexandre Conceição Leão,50.659481840162485,105.0,21.7,1,0,1,0,0,0,0,0,Forward,1
+3d1a05c1-c580-458e-bbce-636412e359fb,Portugal,Rúben Santos Gato Alves Dias,8.997143421065056,108.0,41.9,0,0,0,0,0,0,0,0,Defender,0
+eca22731-e62f-4c63-98c5-55f4f5357216,England,John Stones,39.71875937155488,113.5,45.4,0,1,0,0,0,0,0,0,Defender,0
+b1746c86-d6a4-4310-bdf8-bb5e795948c2,Senegal,Boulaye Dia,13.324531261890792,108.6,42.7,0,0,1,1,0,0,0,0,Forward,0
+aa2725c3-bc6b-4f5b-9865-2cd84124cb40,Senegal,Ismaïla Sarr,6.632514615138468,115.7,40.5,0,0,1,1,0,0,0,0,Forward,0
+21b0a72e-9edd-405b-a6aa-edf3c20ff8e3,Senegal,Boulaye Dia,57.03059609653787,112.8,28.9,0,0,1,1,0,0,0,0,Forward,0
+8dd1ce3c-8097-412a-9951-4939e15903f3,England,Jordan Brian Henderson,9.162347045721704,107.6,38.0,0,0,1,1,0,0,0,0,Midfielder,1
+95d72a08-3916-4d54-85b4-e3777d7f9163,England,Harry Kane,4.004172940709404,110.0,39.3,0,0,1,1,0,0,0,0,Forward,0
+4d429090-9143-4daa-ac16-ed3c8963ad7b,England,Harry Kane,34.275551462528824,104.3,50.7,1,0,1,0,0,0,0,0,Forward,1
+2c5975d3-1c82-4dd5-9645-651ae8eb5b8f,Senegal,Pape Matar Sarr,10.007979801441332,92.8,35.2,0,0,1,1,0,0,0,0,Midfielder,0
+3ad6ec4f-2f39-41df-ade5-a91827872206,England,Bukayo Saka,47.45085263777103,107.7,53.4,0,0,1,0,0,0,0,0,Forward,0
+60b34d82-7a7b-4b3a-ba28-7ec704a0941a,England,Harry Kane,23.61918819145905,90.5,27.1,0,0,1,0,0,0,0,0,Forward,0
+541395bf-9398-4670-887e-e79c1a8ba223,England,Bukayo Saka,24.49190102823157,111.0,35.9,1,0,1,1,0,0,0,0,Forward,1
+acf5fa91-3fee-4042-85a7-97dfc596d6d9,Senegal,Pape Matar Sarr,6.98848972998347,89.0,36.2,0,0,1,0,0,0,0,0,Midfielder,0
+f04052f9-712a-4992-a561-b3a46bb0d53b,Senegal,Ismaïla Sarr,4.763641690726194,111.6,39.3,0,0,0,0,0,0,0,0,Forward,0
+1cf6fa6b-f9f5-46ae-af7f-af287afdfdcd,Senegal,Pape Gueye,28.021409811417676,96.7,52.4,0,0,1,0,0,0,0,0,Midfielder,0
+eea1e7de-b4fb-4e1a-81bf-43a79ad5d467,Senegal,Pape Matar Sarr,3.616113896154722,93.1,38.3,0,0,1,1,0,0,0,0,Midfielder,0
+9c16738b-cf6c-4669-a694-276a322ff6d8,England,Marcus Rashford,69.5504523892074,117.8,45.9,1,0,1,1,0,0,0,0,Forward,0
+49c5d1ba-1fd9-4f18-a682-cbd2c57eb9dc,Croatia,Joško Gvardiol,10.124671655397814,108.8,38.0,0,0,0,0,0,0,0,0,Defender,1
+8f0f46ee-6bec-4537-97eb-2b50633dc6ff,Morocco,Achraf Dari,12.804266065286736,115.6,39.0,0,0,0,0,0,0,0,1,Defender,1
+94591107-50c8-45bf-a895-3f8d69baf1b9,Croatia,Mislav Oršić,38.317339054005835,99.5,23.8,0,0,1,0,0,0,0,0,Forward,0
+b8e38f4b-f179-450e-92af-2425135a5378,Croatia,Josip Stanišić,2.9070541783152883,94.4,41.3,0,0,1,1,0,0,0,0,Defender,0
+fd59c0c7-4722-4937-ac5b-8f8b70940c8a,Croatia,Mislav Oršić,4.543757651467165,104.9,38.8,0,0,1,0,0,0,0,0,Forward,0
+77d0be28-0294-4153-b921-b5639dde0cda,Croatia,Andrej Kramarić,30.86680945113708,111.3,34.8,0,0,0,0,0,0,0,0,Midfielder,0
+fce15c71-a9fc-4d7e-80ea-a3a56d20cc65,Croatia,Luka Modrić,26.80834389534284,101.2,49.5,0,0,1,0,0,0,0,0,Midfielder,0
+fec7cd9e-c5c4-4285-b789-18e335bfb90b,Morocco,Sofiane Boufal,54.10262248829194,112.4,29.5,0,0,1,1,0,0,0,0,Forward,0
+3c475c86-ffd1-4e81-85c6-561f3063fc53,Morocco,Youssef En-Nesyri,76.11533231474182,117.8,48.9,1,0,0,0,0,0,0,0,Forward,0
+b6da45bb-12a2-4dd6-bf3f-c6afdb5f6c8b,Morocco,Hakim Ziyech,24.663814712463555,90.6,53.5,0,0,1,0,0,0,0,0,Forward,0
+40c60798-23de-4690-ab6b-47b58c1f58c4,Croatia,Mislav Oršić,54.17353544228192,106.5,21.3,0,0,1,1,0,0,0,0,Forward,1
+5225c92f-256b-4741-894b-97a118001c70,Croatia,Marko Livaja,0.9710219310791666,90.5,39.5,0,0,1,0,0,0,0,0,Forward,0
+0f2f2f1f-544d-4345-9225-558b6735cca7,Croatia,Mislav Oršić,39.45153370628193,100.8,24.2,0,0,1,0,0,0,0,0,Forward,0
+f543d203-8024-4f59-b8f3-d53fe943fd74,Croatia,Mislav Oršić,22.406730646295653,87.5,26.6,0,0,1,1,0,0,0,0,Forward,0
+3d5d5149-d1b3-4625-b191-b66281462965,Morocco,Youssef En-Nesyri,3.0447784441939825,110.6,40.5,1,0,0,0,0,0,0,0,Forward,0
+5197fe88-6b78-4d5f-91ef-76263510401f,Croatia,Nikola Vlašić,6.080740932816985,90.9,36.9,0,0,1,0,0,0,0,0,Forward,0
+28905c96-a89e-4349-b755-383c251d2c97,Morocco,Youssef En-Nesyri,61.534837857345146,115.5,48.3,0,0,1,0,0,0,0,1,Forward,0
+c4745e96-e4dd-4b6f-ad44-3a784219e86c,Croatia,Mateo Kovačić,48.07146211707039,110.3,29.2,0,0,1,0,0,0,0,0,Midfielder,0
+0f4a2320-0810-46f0-b641-84ff2e237335,Morocco,Youssef En-Nesyri,21.037511025421832,110.9,36.5,1,0,0,0,0,0,0,0,Forward,0
+6da1657b-9d5d-495c-8527-6b9c4e4c6004,Morocco,Hakim Ziyech,12.787972654802283,89.6,46.9,0,0,1,0,0,0,0,0,Forward,0
+a55f71e0-1590-4c8c-ac83-eca617abc950,Morocco,Youssef En-Nesyri,27.979474388480114,113.6,43.4,1,0,0,0,0,0,0,0,Forward,0
+50d88cc2-208f-4272-9156-ea9f0049c8bc,Croatia,Dejan Lovren,67.87805802811816,115.0,27.7,1,0,0,0,0,0,0,0,Defender,0
+e0e3e4da-8a23-4e2c-b4d2-b7bef8feb9fe,Argentina,Enzo Fernandez,6.57386002428584,93.1,36.9,0,0,1,0,0,0,0,0,Midfielder,0
+7c8c6f80-da85-4be8-a5cf-34f58c51a82e,Croatia,Ivan Perišić,52.05425173336472,106.9,23.2,0,0,1,0,0,0,0,0,Forward,0
+dcc38d2c-1610-4362-bb0c-2fd6aa28c5bf,Argentina,Julián Álvarez,19.604088150829448,112.7,37.4,0,0,1,0,0,0,0,1,Forward,1
+0c16abd3-e136-40dd-8dd5-37d9587c4f41,Argentina,Rodrigo Javier De Paul,25.042598177816977,95.6,51.4,0,0,1,0,0,0,0,0,Midfielder,0
+bd13c135-d873-447b-9433-76e78e8f0bf4,Argentina,Alexis Mac Allister,47.924977949156386,113.5,32.8,0,0,0,0,0,0,0,0,Midfielder,0
+3ad82358-d787-4d98-b0e2-0e349b05e17b,Croatia,Luka Modrić,13.087228423836667,92.9,46.3,0,0,1,0,0,0,0,0,Midfielder,0
+ac624dbe-5398-41b5-98c7-1fafe57fde8c,Croatia,Mario Pašalić,84.09385888622955,119.4,45.8,0,0,1,1,0,0,0,0,Forward,0
+c9b5444c-548d-4936-af96-3f376dc1cdc6,Argentina,Leandro Daniel Paredes,7.8089924602957295,85.0,44.8,0,0,1,0,0,0,0,0,Midfielder,0
+a78187f3-3fb7-4c35-9d65-aef9e119c5b2,Argentina,Lionel Andrés Messi Cuccittini,53.59591143692098,112.7,30.1,1,0,1,0,0,0,0,0,Forward,0
+9129598e-2e12-425b-b2df-d1a8842360a9,Croatia,Mislav Oršić,38.53018001482684,98.4,22.8,0,0,1,0,0,0,0,0,Forward,0
+a45cedf5-7079-4551-b949-3c2fb3e87ced,Croatia,Dejan Lovren,0.7848246029918997,112.7,40.1,1,0,0,0,0,0,0,0,Defender,0
+60dc7f46-0b61-4198-ae9d-c11c096367dc,Argentina,Julián Álvarez,38.86777750232068,113.3,45.4,0,0,1,1,0,0,0,0,Forward,1
+0b6069ca-0918-46e8-a488-4352f631492c,Croatia,Ivan Perišić,28.669116258406355,85.8,21.3,0,0,1,0,0,0,0,0,Defender,0
+01404c8b-76a5-4187-907c-eef491c0f621,Croatia,Mislav Oršić,56.45628152870193,108.0,21.9,0,0,1,0,0,0,0,0,Forward,0
+7eb91d56-2d0f-48ba-8df3-e418d4b13f34,Argentina,Alexis Mac Allister,27.44645517366013,107.1,46.7,0,0,1,1,0,0,0,0,Midfielder,0
+94203fde-cbb9-49b4-962f-3181068dd3c5,Croatia,Lovro Majer,10.85010462979738,96.0,35.4,0,0,1,0,0,0,0,0,Midfielder,0
+eaa7a5c6-53c3-4da4-bc61-fea93e29c0d9,Croatia,Nikola Vlašić,36.869897645844006,103.6,52.3,0,0,1,0,0,0,0,0,Forward,0
+3dabf30e-401c-49ad-8976-4b124b1b7a6c,Croatia,Dejan Lovren,6.504010540431716,89.3,36.5,0,0,1,0,0,0,0,0,Defender,0
+18d5acc3-d2c4-4a3f-b3de-3d8714000f03,England,Philip Foden,0.0,100.2,40.0,0,0,1,0,0,0,0,0,Forward,0
+76a926ab-d769-4f19-97da-d7d329d90325,France,Olivier Giroud,10.512627169921327,110.3,38.2,0,0,0,0,0,0,0,0,Forward,0
+392c7c17-aff2-48c8-becc-d23b5bf60640,France,Aurélien Djani Tchouaméni,7.253194612725333,92.5,43.5,0,0,1,0,0,0,0,0,Midfielder,1
+c60b4259-2ba3-4496-927f-331d9c2ec9d1,England,Harry Kane,62.318938431514724,113.6,52.2,0,0,1,1,0,0,0,0,Forward,0
+7698af86-50b1-41d3-a751-88cbb32b875d,England,Jude Bellingham,57.87500155961243,117.3,35.7,1,0,0,0,0,0,0,0,Midfielder,0
+f7fdf23a-a5e9-4e7f-ba8d-40bc6379b9b0,England,Harry Kane,36.27515313062553,96.7,57.1,0,0,1,0,0,0,0,0,Forward,0
+b9ca208b-744a-482c-acbb-a25025ebb258,France,Kylian Mbappé Lottin,30.40342447450584,107.9,32.9,0,0,1,1,0,0,0,0,Forward,0
+1005a0cd-efda-4b12-92a0-edec3f740581,England,Jude Bellingham,22.94198924997227,101.1,48.0,0,0,1,1,0,0,0,0,Midfielder,0
+faf2becb-95e5-4cc5-b77e-208679268e05,England,Harry Maguire,67.33544256530394,116.2,30.9,1,0,0,0,0,0,0,0,Defender,0
+974d20e3-92b3-4061-9d97-e56ced377069,England,Jordan Brian Henderson,40.948989082243315,101.1,56.4,0,0,1,1,0,0,0,0,Midfielder,0
+ec185754-71a2-488f-8471-b5f591b88c6e,France,Adrien Rabiot,7.471559176592381,95.6,43.2,0,0,1,1,0,0,0,0,Midfielder,0
+0f19d3a0-282b-4673-9ecc-d23599dd565e,England,Bukayo Saka,24.34108993669252,103.2,47.6,1,0,1,0,0,0,0,0,Forward,0
+9747c65f-740c-42bb-87a9-a309a35acf08,France,Ousmane Dembélé,33.947285908030274,99.5,53.8,0,0,1,0,0,0,0,0,Forward,0
+c53fbe0a-5479-4e5a-8637-6c83b7e68786,England,Harry Kane,33.43626728339349,99.1,53.8,0,0,1,0,0,0,0,0,Forward,0
+4bba88e2-fa9e-4890-ae65-0fbbd71e2932,England,Harry Maguire,24.64166199955833,109.1,35.0,0,0,0,0,0,0,0,0,Defender,0
+e61a35ea-0d71-406b-8c76-afbc917d2053,England,Luke Shaw,57.63021606257666,108.4,21.7,0,0,1,0,0,0,0,0,Defender,0
+5d1c07dc-1575-42b8-9181-03137e531a0c,France,Olivier Giroud,44.59365376669099,112.9,47.0,1,0,0,0,0,0,0,1,Forward,0
+9f12f011-03e2-4c02-b566-28808c4dbaba,France,Olivier Giroud,3.2892426784918247,111.3,40.5,0,0,1,1,0,0,0,0,Forward,0
+2effbf64-b445-4aa5-a87e-7ff2f38c90ee,France,Olivier Giroud,34.18612248637506,114.7,36.4,1,0,0,0,0,0,0,0,Forward,1
+800fd9ae-eb95-4060-8058-645983307dfa,England,Mason Mount,8.760278000016132,89.5,44.7,0,0,1,0,0,0,0,0,Midfielder,0
+763a44ab-1e89-44d5-bf6f-ce1831d8823d,France,Kylian Mbappé Lottin,32.406670043896874,108.5,47.3,1,0,1,0,0,0,0,0,Forward,0
+f4d06d6c-d7fb-41e4-b25e-1cb9a106f88b,France,Theo Bernard François Hernández,63.165956529225554,115.7,31.5,0,0,1,1,0,0,0,0,Defender,1
+b4b2bbe9-bd6b-4445-b010-245913557fde,Morocco,Azzedine Ounahi,29.39105213232771,95.5,26.2,0,0,1,0,0,0,0,0,Midfielder,0
+b235bbd6-6653-40c2-83d3-296d8d5326ce,Morocco,Hakim Ziyech,47.03091423685313,106.4,54.6,0,0,1,0,0,0,0,0,Forward,0
+5e15d155-92bc-4aa6-8a04-66314d372114,France,Olivier Giroud,42.11703654746047,105.4,26.8,0,0,1,0,0,0,0,0,Forward,0
+1c9d37cc-5b3a-4acc-9ef9-2ed4adad4eb7,Morocco,Achraf Hakimi Mouh,28.300755766006375,95.3,53.3,0,0,1,0,0,0,0,0,Defender,0
+feec1a47-a09f-40a8-b376-83235a04f754,France,Aurélien Djani Tchouaméni,16.479973281846057,96.0,32.9,0,0,1,1,0,0,0,0,Midfielder,0
+a07f2606-64d3-4c92-b6f4-adf7f1673d18,France,Olivier Giroud,29.054604099077164,111.9,44.5,1,0,0,0,0,0,0,0,Forward,0
+7bae38bb-77db-4a42-af8f-687966177c19,France,Youssouf Fofana,22.490178027112776,104.3,46.5,0,0,1,1,0,0,0,0,Midfielder,0
+dbfeff49-55fe-4d47-aa30-1cb0084570bd,France,Kylian Mbappé Lottin,47.6324348689865,111.7,30.9,0,0,1,0,0,0,0,0,Forward,0
+65cfdd1e-7a29-4830-8194-a0869a13510b,France,Olivier Giroud,9.984960204643329,105.8,42.5,0,0,1,1,0,0,0,0,Forward,0
+f2b4da14-ccc5-47a3-b75f-2a3de3acc811,France,Raphaël Varane,51.42874774882986,113.7,47.9,0,0,1,1,0,0,0,0,Defender,0
+90d7ee1b-aa71-4292-ba17-0bcd15e6e03a,Morocco,Jawad El Yamiq,25.48071794778951,107.2,33.9,0,0,1,1,0,0,0,0,Defender,0
+d6e456e8-96e3-48a2-9ff7-b6ad878a74de,Morocco,Sofiane Boufal,6.852469770553781,96.7,37.2,0,0,1,1,0,0,0,0,Forward,0
+da101356-1fad-432f-8d79-c86a952bf48f,France,Jules Koundé,22.180344302017236,94.0,50.6,1,0,1,0,0,0,0,0,Defender,0
+7aaedea3-0cdf-4082-8ea9-efbb40703b91,Morocco,Yahia Attiyat allah,25.659264516967337,109.8,35.1,0,0,1,1,0,0,0,0,Defender,0
+cb9682c8-3388-4616-b615-7568171b4fd3,Morocco,Sofyan Amrabat,8.2758928270752,92.5,36.0,0,0,1,0,0,0,0,0,Midfielder,0
+fab43625-d55e-46b5-b7d6-5fcf6079868f,France,Marcus Thuram,45.0,114.5,45.5,1,0,0,0,0,0,0,0,Forward,0
+49890194-c2bc-4ebc-8448-540dcc8c7427,France,Youssouf Fofana,56.51865934487947,111.6,27.3,0,0,1,0,0,0,0,0,Midfielder,0
+7abc91eb-f3a4-42e0-b49f-70afcab2871c,France,Kylian Mbappé Lottin,38.550465296157725,107.2,29.8,1,0,1,0,0,0,0,0,Forward,0
+0502086f-c98a-47b2-83c0-dfb26991cbb4,France,Randal Kolo Muani,40.81508387488153,115.6,43.8,0,0,1,1,0,1,0,0,Forward,1
+9f07925f-2297-4a73-87b4-4f90f4c588fa,Morocco,Zakaria Aboukhlal,4.432668468689859,107.1,41.0,1,0,0,0,0,0,0,0,Forward,0
+13ef0ed6-37e7-4075-8e53-7d3d9df97a65,Morocco,Abdessamad Ezzalzouli,28.45701659543748,106.9,32.9,0,0,1,0,0,0,0,0,Midfielder,0
+a2444b31-3332-4440-9302-e5a00e0dc734,Morocco,Azzedine Ounahi,25.75047412731828,103.0,48.2,0,0,1,0,0,0,0,0,Midfielder,0
+90a79133-0c36-4de1-9633-4720d9c723f3,Morocco,Azzedine Ounahi,20.06708708398415,98.1,48.0,0,0,1,0,0,0,0,0,Midfielder,0
+8a956831-bebc-48e3-b7fc-31f0b0fe2f95,Morocco,Azzedine Ounahi,21.974507991471963,108.6,44.6,0,0,1,0,0,0,0,0,Midfielder,0
+a7a84a01-7131-47ca-89fa-aa853dc9ce89,Morocco,Abderrazak Hamdallah,32.38067770656928,115.9,37.4,0,1,0,0,0,0,0,0,Forward,0
+91d32b30-deb2-4808-b61a-9e5b3cf011e0,Brazil,Vinícius José Paixão de Oliveira Júnior,42.165888983693485,98.8,20.8,0,0,1,0,0,0,0,0,Midfielder,0
+ed5123ad-72ae-4ad6-856b-8dcb64c0d111,Croatia,Ivan Perišić,22.306205054907668,112.2,43.2,0,0,1,1,0,0,0,0,Forward,0
+55011084-7b91-4c32-82e1-5fc3c5b3bbf0,Croatia,Andrej Kramarić,32.38067770656923,99.5,27.0,0,0,1,0,0,0,0,0,Forward,0
+cf483844-b37b-4523-a73a-2524f994aabd,Brazil,Vinícius José Paixão de Oliveira Júnior,17.007946955407334,103.0,34.8,0,0,1,1,0,0,0,0,Midfielder,0
+c8c7ae41-22c0-4874-8528-8881dd62272d,Brazil,Neymar da Silva Santos Junior,49.71265168978847,107.2,24.9,0,0,1,0,0,0,0,0,Midfielder,0
+cc0a9f11-c3bd-4c0a-9228-6f2969228b9b,Brazil,Carlos Henrique Casimiro,22.550875481666967,96.4,49.8,0,0,1,1,0,0,0,0,Midfielder,0
+a2ed5d94-16b5-4f43-b74f-00e91c2c87b6,Croatia,Ivan Perišić,45.148819871856986,100.8,20.7,0,0,1,0,0,0,0,0,Forward,0
+aaad1164-4276-46de-9312-bb3a537ba954,Croatia,Ivan Perišić,9.806092759897087,111.9,41.4,1,0,0,0,0,0,0,0,Forward,0
+b65e77c7-0984-4355-8249-7b3f4fd4ef90,Brazil,Neymar da Silva Santos Junior,56.07020257793934,112.6,29.0,0,0,1,1,0,0,0,0,Midfielder,0
+c3bbb04a-8355-4957-b170-cb044732cba6,Brazil,Lucas Tolentino Coelho de Lima,33.21525149373718,111.6,34.5,0,0,1,1,0,0,0,0,Midfielder,0
+c88153f6-df99-4728-9cd7-143f8f1767fe,Brazil,Éder Gabriel Militão,36.373842685448786,101.4,53.7,0,0,1,0,0,0,0,0,Defender,0
+7714adc2-7d48-488c-a24e-3c3d42000383,Croatia,Andrej Kramarić,42.62065762639879,101.2,57.3,0,0,1,0,0,0,0,0,Forward,0
+954528be-3534-4e74-a39a-2bb679489f01,Brazil,Neymar da Silva Santos Junior,63.434948822921996,114.1,28.2,0,0,1,1,0,0,0,0,Midfielder,0
+b53fd07e-2317-4726-809e-3624bfdb518c,Brazil,Lucas Tolentino Coelho de Lima,25.057615418303023,104.6,32.8,0,0,1,1,0,0,0,0,Midfielder,0
+0bb6e24e-6f18-49af-ac19-ff2d55ac0fc7,Brazil,Richarlison de Andrade,5.3893117599734115,109.4,41.0,1,0,0,0,0,0,0,0,Forward,0
+c1af8308-ebe0-4d70-8f7a-16874cf0268f,Croatia,Nikola Vlašić,47.52611691161956,107.0,54.2,0,0,1,0,0,0,0,0,Forward,0
+e0c9f75d-bd01-45b2-bbe4-00c26aeafa20,Brazil,Éder Gabriel Militão,29.99108632334132,102.5,50.1,0,0,1,1,0,0,0,0,Defender,0
+b43d9cd5-f92f-448e-9fc1-967b658adfda,Brazil,Éder Gabriel Militão,23.962488974578182,104.7,46.8,0,0,1,1,0,0,0,0,Defender,0
+112b45ad-b869-4eb6-a4b8-a6c45cd44514,Brazil,Antony Matheus dos Santos,33.481340655120505,94.6,56.8,0,0,1,0,0,0,0,0,Midfielder,0
+b85a7aad-d825-414a-bc3b-836ff6fbff82,Brazil,Pedro Guilherme Abreu dos Santos,52.93555037008884,112.9,49.4,0,0,0,0,0,0,0,0,Forward,0
+a94997f3-a132-441d-89ec-527bca207787,Brazil,Pedro Guilherme Abreu dos Santos,5.355825042855204,107.2,38.8,0,0,1,1,0,0,0,0,Forward,0
+2000e5bd-3c2d-43cf-a845-1761b52b4e82,Croatia,Marcelo Brozović,21.43686013522515,103.7,46.4,0,0,1,1,0,0,0,0,Midfielder,0
+2c539757-15dd-44cc-a405-90f69b10bb5a,Brazil,Danilo Luiz da Silva,36.988768387143985,96.9,22.6,0,0,1,0,0,0,0,0,Defender,0
+657ac0ef-2a18-4f8b-8515-604fc2b75326,Brazil,Neymar da Silva Santos Junior,64.07509849244555,116.5,47.2,0,0,1,0,0,0,0,0,Midfielder,1
+52e701c5-1af2-4efb-a1ef-9c46652472d7,Croatia,Bruno Petković,4.763641690726173,103.2,38.6,0,0,1,1,1,0,0,0,Forward,1
+35169461-baba-4e96-9af0-7be390f73bc0,Croatia,Lovro Majer,27.758540601060023,91.5,55.0,0,0,1,0,0,0,0,0,Midfielder,0
+3dd7d256-6e97-47b6-a7bf-ce13448396cf,Brazil,Carlos Henrique Casimiro,56.309932474020215,114.0,31.0,0,0,1,1,0,0,0,0,Midfielder,0
+b7fc04f3-2906-42ab-926a-b63ea28d71cf,Spain,Marco Asensio Willemsen,71.56505117707799,115.0,25.0,0,0,1,0,0,0,0,1,Forward,0
+9c4da7a8-5924-4b37-8764-59b14fbbf2db,Morocco,Noussair Mazraoui,4.298462903765617,89.4,37.7,0,0,1,0,0,0,0,0,Defender,0
+0c769fb4-29c5-40a3-9727-14c52f352640,Morocco,Nayef Aguerd,28.551391872960217,113.2,43.7,0,0,0,0,0,0,0,0,Defender,0
+a588c52c-2204-412b-8ca7-5f9a5d06b218,Spain,Daniel Olmo Carvajal,70.31968691030964,110.2,12.6,0,0,1,1,0,0,0,0,Forward,0
+f33a5a8d-7585-4055-8d75-a6c8a4b5dfec,Spain,Daniel Olmo Carvajal,20.885801460693038,97.2,31.3,0,0,1,1,0,0,0,0,Forward,0
+58d48914-c17f-454c-a663-8fb983b47949,Spain,Álvaro Borja Morata Martín,83.7175079118386,118.8,50.9,0,0,1,1,0,0,0,0,Forward,0
+ed193a27-8e08-4224-8608-0818f2c4c558,Morocco,Walid Cheddira,4.864514437760507,110.6,40.8,0,0,1,1,0,0,0,0,Forward,0
+6907dd5a-f968-44ed-be9e-fa0dce83d74d,Spain,Álvaro Borja Morata Martín,67.05106271907673,115.3,51.1,0,0,0,0,0,0,0,1,Forward,0
+d07f9ed6-ff50-4f64-8a79-4702889c0d40,Spain,Aymeric Laporte,5.57219780396381,107.7,38.8,0,0,0,0,0,0,0,0,Defender,0
+966b275d-bde3-4aea-8b11-412b60a91021,Spain,Alejandro Balde Martínez,55.954062643398345,112.5,28.9,0,0,1,0,0,0,0,0,Defender,0
+405b81d7-6eec-43ca-91b2-a06f2e2dd008,Spain,Rodrigo Hernández Cascante,9.624435945422514,79.9,46.8,0,0,1,0,0,0,0,0,Defender,0
+6ece6c28-0fbd-48c5-9e57-5136be5695ec,Morocco,Walid Cheddira,34.57928760320551,109.7,47.1,1,0,1,0,0,0,0,0,Forward,0
+487e6618-8287-4346-9221-ec6bd1666314,Spain,Marcos Llorente Moreno,34.02434482718744,100.3,53.3,0,0,1,1,0,0,0,0,Defender,0
+e7a34ed0-521e-4440-9ee5-a8134e0f7dd0,Morocco,Abdelhamid Sabiri,0.28457934615061325,59.6,39.7,0,0,1,1,0,0,0,0,Midfielder,0
+990bd967-1e5e-4380-baf7-13af7ddde792,Spain,Sergio Busquets i Burgos,22.197717846422965,102.6,47.1,0,0,1,0,0,0,0,0,Midfielder,0
+b3de284b-d1cf-4fed-970c-400550d89daa,Spain,Carlos Soler Barragán,15.655781958849923,104.3,44.4,0,0,0,0,0,0,0,0,Midfielder,0
+79542497-53b6-4d25-8a88-d0c18a6d453a,Spain,Pablo Sarabia García,74.8047514731801,117.8,48.1,0,0,1,1,0,0,0,0,Forward,0
+3e282518-80cc-4cba-a8bf-f978a3bdc68b,Japan,Shogo Taniguchi,9.211026540816682,112.6,38.8,1,0,0,0,0,0,0,0,Defender,0
+d2902ca7-330f-40ca-bdcc-80ebce314510,Croatia,Ivan Perišić,73.30075576600639,116.7,29.0,0,0,1,0,0,0,0,1,Forward,0
+05b85723-782e-406a-8111-015340f46439,Croatia,Andrej Kramarić,17.17590361574677,114.5,38.3,1,0,1,0,0,0,0,0,Forward,0
+84a3ecd6-bec2-4e73-96a2-682de9882869,Croatia,Joško Gvardiol,10.784297867562602,101.1,43.6,0,0,1,1,0,0,0,0,Defender,0
+edc46c5b-cc9d-4a0d-b880-d880335d6f27,Japan,Daichi Kamada,62.220379274978285,114.1,28.8,0,0,1,0,0,0,0,0,Forward,0
+a17c568a-4df5-4c2f-81e2-4cc89d924ae8,Japan,Daizen Maeda,33.48616881551297,113.5,44.3,1,0,1,1,0,0,0,0,Forward,1
+97734f34-6e02-4e86-b03d-c9d858dd8c92,Japan,Daichi Kamada,3.8441355762923917,94.7,38.3,0,0,1,0,0,0,0,0,Forward,0
+f37a0c66-833e-4fe3-ac62-b3841656a294,Croatia,Mateo Kovačić,19.635582804447047,100.1,47.1,0,0,1,1,0,0,0,0,Midfielder,0
+5552d4ee-1ebc-4ec4-9f36-6a0524b2cb44,Japan,Hidemasa Morita,8.350752532331418,98.2,36.8,0,0,1,1,0,0,0,0,Midfielder,0
+5ce4d362-ebd6-4ea8-8544-e47d5f5f2454,Croatia,Ivan Perišić,22.85194784891566,106.0,34.1,0,0,0,0,0,0,0,0,Forward,1
+74935b33-b8d3-4ab4-919d-9a9ed80a3bcd,Japan,Wataru Endo,26.743820579842268,94.4,52.9,0,0,1,0,0,0,0,0,Midfielder,0
+ddddef93-1105-425d-99f4-011605e72ad4,Japan,Wataru Endo,3.6238925956693167,90.0,41.9,1,0,1,0,0,0,0,0,Midfielder,0
+cda7fa73-f09c-46df-8e56-f4b6baa17185,Japan,Hidemasa Morita,9.462322208025624,97.8,36.3,0,0,1,1,0,0,0,0,Midfielder,0
+bb569056-5824-4a84-9bf7-098df409c1fb,Japan,Ritsu Doan,10.690238276499109,100.4,43.7,0,0,1,0,0,0,0,0,Forward,0
+45501bff-d6b1-4cb6-a6b3-458e422a236a,Croatia,Luka Modrić,20.58253425122051,96.3,48.9,0,0,1,0,0,0,0,0,Midfielder,0
+31749268-4467-46db-b470-7e9125d6d734,Croatia,Ivan Perišić,18.505078260988743,95.5,48.2,0,0,1,0,0,0,0,0,Forward,0
+c0055f4a-4e53-4244-a1b0-af09963873fd,Croatia,Andrej Kramarić,37.5160632518756,98.9,23.8,0,0,1,0,0,0,0,0,Forward,0
+605589a6-a83f-4533-b88f-a8e775efa581,Croatia,Ante Budimir,25.906507999514393,109.5,45.1,0,0,0,0,0,0,0,0,Forward,0
+3e14ff6c-b675-4433-b70b-f1362675d101,Croatia,Mario Pašalić,19.798876354524932,107.5,44.5,0,0,0,0,0,0,0,0,Forward,0
+a99de16f-d5a2-4386-82e7-51dca208bd8c,Croatia,Ivan Perišić,23.670538484720453,98.1,30.4,0,0,1,0,0,0,0,0,Forward,0
+78a794a1-c48c-4699-904a-5ca28cb9cc15,Croatia,Mario Pašalić,16.422187498315278,110.5,42.8,1,0,0,0,0,0,0,0,Forward,0
+0ac4b920-e24a-478f-902c-d3793cf26db0,Japan,Shogo Taniguchi,59.85861444792462,114.6,49.3,0,0,0,0,0,0,0,0,Defender,0
+23c0f102-912d-4b11-93b7-08f61a961924,Croatia,Ivan Perišić,24.746748212626155,107.2,34.1,0,0,1,1,0,0,0,0,Forward,0
+9373957f-01f1-44d3-a2af-6a412ae43caf,Croatia,Borna Barišić,19.259291643767156,95.1,31.3,0,0,1,1,0,0,0,0,Defender,0
+e1912d47-5dce-4b37-8d31-b6e9482be999,Japan,Kaoru Mitoma,14.966719564004858,99.8,34.6,0,0,1,0,0,0,0,0,Defender,0
+142a9ff0-352e-46d8-9bef-e8c1372b8f37,Japan,Wataru Endo,6.805580441864778,95.7,37.1,0,0,1,1,0,0,0,0,Midfielder,0
+f68691b4-7768-4512-9505-335fcb58785c,Japan,Takumi Minamino,0.9877603996398002,102.6,40.3,0,0,1,1,0,0,0,0,Forward,0
+8aafb6ab-26fa-4ccb-87b7-a9c4e9aae35b,Croatia,Marko Livaja,46.921955958931434,112.8,47.7,1,0,0,0,0,0,0,0,Forward,0
+69de8840-7050-44c6-a13a-aac71b5f6cef,Croatia,Mislav Oršić,56.966212814885374,106.8,19.7,0,0,1,0,0,0,0,0,Forward,0
+5e58555c-4442-4907-8029-0dbd3d58d2a3,Croatia,Lovro Majer,19.11297373367331,99.8,33.0,0,0,1,1,0,0,0,0,Midfielder,0
+d1ec79ed-46cc-4c51-8fac-aeb33943dc28,Brazil,Neymar da Silva Santos Junior,26.8278740103145,111.3,44.4,0,0,1,1,0,0,0,0,Midfielder,0
+44854e05-f6c8-4c2a-a7ef-9dc2ae4c7f09,Brazil,Vinícius José Paixão de Oliveira Júnior,45.28505127758383,110.0,29.9,0,0,1,0,0,0,0,0,Forward,1
+a19eb2c7-c412-4481-bf03-a3080127d8d1,South Korea,Hee-Chan Hwang,22.067899562410222,90.4,28.0,0,0,1,0,0,0,0,0,Midfielder,0
+ad60d052-a0ce-4bfe-8290-d557e0cb3a11,South Korea,In-Beom Hwang,12.742996541346297,91.7,46.4,0,0,1,0,0,0,0,0,Midfielder,0
+7f42485f-775b-45fb-932e-39c8eb885b90,South Korea,Hee-Chan Hwang,10.628929439154925,82.7,33.0,0,0,1,0,0,0,0,0,Midfielder,0
+35028f1d-c785-47f4-88d5-a82cc91ceb62,Brazil,Richarlison de Andrade,19.536654938128375,110.7,43.3,0,0,1,0,0,0,0,1,Forward,1
+bc4fd99a-0a91-4d45-b46d-10786f668f0a,Brazil,Raphael Dias Belloli,20.182869127573152,94.7,30.7,0,0,1,0,0,0,0,0,Forward,0
+95582d85-7eed-4aeb-bbe6-2b1a429b6295,South Korea,Hee-Chan Hwang,85.6489220484261,119.3,30.8,0,0,1,0,0,0,0,1,Midfielder,0
+d2740e3a-0982-4c1f-81ec-54f12ed1bcd4,Brazil,Carlos Henrique Casimiro,6.911227119024686,93.6,43.2,0,0,1,1,0,0,0,0,Midfielder,0
+75e1dbd2-f601-4261-992d-106488c7219b,Brazil,Lucas Tolentino Coelho de Lima,25.64100582430527,110.0,44.8,1,0,1,1,0,0,0,0,Midfielder,1
+afbe9884-329f-4721-a822-ccba6d081310,Brazil,Lucas Tolentino Coelho de Lima,48.99091309842979,112.0,49.2,0,0,1,1,0,0,0,0,Midfielder,0
+08678f16-67ff-4ff5-905e-d9cc75db1d2d,Brazil,Richarlison de Andrade,50.097399737978996,110.3,51.6,0,0,1,0,0,0,0,0,Forward,0
+b2459e0f-b8bd-4069-a41c-daf9dc5b3f8f,Brazil,Neymar da Silva Santos Junior,14.972875766786911,111.4,42.3,1,1,0,0,0,0,0,0,Midfielder,0
+40ede36e-9124-4cb3-9065-f0a66eb450dd,Brazil,Raphael Dias Belloli,36.694323794444,104.3,51.7,0,0,1,0,1,0,0,0,Forward,0
+34f546bf-8be7-4a35-9e42-bfd908c2f766,South Korea,Heung-Min Son,39.458795221960145,105.3,27.9,0,0,1,0,0,0,0,0,Midfielder,0
+087430be-d99a-4344-b82c-58aeae623cf1,Brazil,Raphael Dias Belloli,47.83411101630654,110.4,50.6,0,0,1,0,0,0,0,0,Forward,0
+c1a1f95e-48fa-4cf7-af57-c2bbb640af4c,Brazil,Vinícius José Paixão de Oliveira Júnior,53.97262661489641,110.4,26.8,1,0,1,0,0,0,0,0,Forward,0
+51025cec-c9df-439b-9017-d52381d11adc,Brazil,Raphael Dias Belloli,64.05770451012832,114.6,51.1,0,0,1,0,0,0,0,1,Forward,0
+1e78d87e-7adf-4d14-8311-7ce4b0f783ed,South Korea,Hee-Chan Hwang,41.5526131481348,106.8,51.7,0,0,1,1,0,0,0,0,Midfielder,0
+92e9b5f4-c7e1-4758-91bb-ee3ed2fd7c3c,South Korea,Seung-Ho Paik,0.4357009512677422,93.7,39.8,0,0,1,0,0,0,0,0,Midfielder,1
+1ea14c9e-dd01-4af6-868c-584633f0088c,Brazil,Daniel Alves da Silva,55.808230940319774,111.1,53.1,0,0,1,1,0,0,0,0,Defender,0
+3b3d795f-7050-4264-8752-0722213c0713,Brazil,Gleison Bremer Silva Nascimento,14.381394591090585,116.1,41.0,0,0,0,0,0,0,0,0,Defender,0
+6e8aca58-362d-4573-b02c-809f8438cacb,South Korea,Hee-Chan Hwang,62.43279249908439,112.9,53.6,0,0,1,0,0,0,0,1,Midfielder,0
+f592c88a-4f84-4c9e-9bfb-da5bef69f00c,Brazil,Daniel Alves da Silva,10.925871453234272,88.4,46.1,0,0,1,0,0,0,0,0,Defender,0
+31fad68d-426e-4288-89c0-71ba4c143506,France,Raphaël Varane,0.0,114.3,40.0,1,0,0,0,0,0,0,0,Defender,0
+7cd0dae7-40fb-46a6-95f2-a3969d1cc578,France,Ousmane Dembélé,71.27421215472742,116.0,51.8,0,0,1,0,0,0,0,0,Forward,0
+69bb74b1-68af-4b20-a197-0c46604b417b,France,Aurélien Djani Tchouaméni,15.780753309515392,87.8,30.9,0,0,1,0,0,0,0,0,Midfielder,0
+bffd8808-bde3-4471-b4ec-a2f2d980107b,France,Ousmane Dembélé,17.85454833391924,99.2,46.7,0,0,1,0,0,0,0,0,Forward,0
+189cd753-a975-4179-b545-89a4e9fc2e38,Poland,Robert Lewandowski,6.842773412630935,92.5,43.3,0,0,1,0,0,0,0,0,Forward,0
+aaa15453-3b82-4a91-9257-54793d844cb1,France,Jules Koundé,32.26718986879082,94.5,56.1,0,0,1,0,0,0,0,0,Defender,0
+87b6c4e5-8879-49ac-bb0d-d732354d78e0,Poland,Przemysław Frankowski,55.53918372862823,109.5,24.7,0,0,1,1,0,0,0,0,Midfielder,0
+44377d04-8e4c-4a86-8fa7-02f89b98ad81,Poland,Matty Cash,37.77996586173156,99.1,56.2,0,0,1,1,0,0,0,0,Defender,0
+982df7d3-5406-4586-bedd-ce5132be5608,France,Kylian Mbappé Lottin,60.62423458118683,111.5,24.9,0,0,1,0,0,0,0,0,Forward,0
+e042d4ce-1bdb-44d2-a0db-36924a2cec20,France,Olivier Giroud,16.912106831790975,105.2,44.5,0,0,1,1,0,0,0,0,Forward,0
+cd7ccad2-865a-456d-b56b-e0150001b529,Poland,Piotr Zieliński,6.809050179613409,106.6,41.6,0,0,1,1,0,0,0,0,Midfielder,0
+61add723-da40-461f-b9a1-d8d4878c2f61,Poland,Piotr Zieliński,24.393739386163176,111.4,43.9,0,0,1,1,0,0,0,0,Midfielder,0
+8d35767c-57ec-4a24-81c1-3f2a3f3dcc78,Poland,Jakub Kamiński,60.668160421752475,114.1,50.5,0,0,1,1,0,0,0,0,Midfielder,0
+3dfb5a79-95c5-4e66-88fb-ddf16a823d7b,France,Olivier Giroud,28.134405981826976,105.6,32.3,0,0,1,0,0,0,0,0,Forward,1
+a3db0203-805f-47e3-a481-cc660770e431,Poland,Jakub Kamiński,46.25080081476542,108.8,51.7,0,0,1,0,0,0,0,0,Midfielder,0
+9caab947-e53e-460b-84d5-a5b7f974f3e7,France,Theo Bernard François Hernández,3.90049374238189,98.0,38.5,0,0,1,1,0,0,0,0,Defender,0
+f814b114-cf7e-454e-8c60-8d301b5a49c9,France,Kylian Mbappé Lottin,36.46028332317998,102.0,26.7,0,0,1,0,0,0,0,0,Forward,0
+6501acc8-ffc7-4246-82e8-43e7a8cf7c47,France,Kylian Mbappé Lottin,54.42278061353509,110.2,26.3,0,0,1,1,0,0,0,0,Forward,0
+7591bf5f-3557-4f9a-b967-485aebef76d4,France,Olivier Giroud,58.29857033049426,115.8,46.8,1,0,1,1,0,0,0,0,Forward,0
+510bb5aa-f782-4a22-be23-8274be45b104,Poland,Kamil Glik,53.13010235415598,114.0,32.0,1,0,0,0,0,0,0,0,Defender,0
+c5b96634-9e00-4135-a499-bdfc1c58b06a,France,Kylian Mbappé Lottin,36.86989764584401,104.8,28.6,0,0,1,0,0,0,0,0,Forward,1
+3b650254-e765-40a1-819e-9b67473829f3,France,Theo Bernard François Hernández,23.749494492866766,105.0,33.4,0,0,1,0,0,0,0,0,Defender,0
+2d38130f-3d62-4369-8a2b-ec7866353b92,France,Kylian Mbappé Lottin,47.002533131826894,106.2,25.2,0,0,1,0,0,0,0,0,Forward,1
+5dc61ca6-7468-40cf-b756-0517d2693285,Poland,Robert Lewandowski,31.138972436978854,105.6,48.7,1,0,1,1,0,0,0,0,Forward,0
+bbc46428-10c1-4bec-8eef-51410db15dba,Poland,Robert Lewandowski,0.0,113.0,40.0,1,0,0,0,0,0,0,0,Forward,0
+7320c2cf-86b3-40f2-a3a7-ff0a4b95a712,United States,Christian Pulisic,21.571307191254597,107.1,34.9,0,0,1,1,0,0,0,0,Forward,0
+05907c05-0a6c-4aa7-a62a-1f1a70bebba7,Netherlands,Memphis Depay,13.76809045148303,104.9,43.7,0,0,1,1,0,0,0,0,Forward,1
+1661bfea-a0ca-487c-90c5-a6cccc12dfde,Netherlands,Daley Blind,29.82007256547375,103.6,30.6,0,0,1,1,0,0,0,0,Defender,0
+a2da4447-6ffd-458f-8921-05c19d401904,Netherlands,Memphis Depay,57.83177904253007,106.1,62.1,0,0,1,1,0,0,0,0,Forward,0
+f23c54d4-ea5f-427b-8c32-704a95e25dac,United States,Timothy Weah,30.587805369132965,97.5,53.3,0,0,1,0,0,0,0,0,Forward,0
+317f2710-2fd6-4c1f-8a57-cdef4724252c,United States,Sergino Dest,22.729732079944707,105.2,46.2,0,0,1,0,0,0,0,0,Defender,0
+5566d71a-983c-4f30-9ddb-85d7b8815ba1,Netherlands,Daley Blind,6.897427557751746,107.6,38.5,0,0,1,1,0,0,0,0,Defender,1
+eb91d23f-4d01-43a8-96d3-52827bf9909d,United States,Weston McKennie,17.80187205149087,109.1,36.5,1,0,0,0,0,0,0,0,Midfielder,0
+f66c01cb-afab-4614-9ab0-849827654257,United States,Tim Ream,39.6441749571448,116.5,37.1,0,0,1,0,0,0,0,0,Defender,0
+bde8a681-2dfa-431a-9637-223cc85dfd10,United States,Weston McKennie,14.500166766552573,108.4,37.0,1,0,0,0,0,0,0,0,Midfielder,0
+ca601f63-190e-473c-9a0e-e40451f4ad17,United States,Sergino Dest,42.16899832213474,100.9,57.3,0,0,1,0,0,0,0,0,Defender,0
+d9a576ef-06ad-4b8e-b19b-579c5da93422,United States,Christian Pulisic,30.453951277466548,98.4,27.3,0,0,1,0,0,0,0,0,Forward,0
+7c9f51b5-7c05-4ba0-ae27-d0c4639b0709,United States,Weston McKennie,15.606622142931126,102.1,35.0,0,0,1,0,0,0,0,0,Midfielder,0
+51847ed7-8369-40a5-a442-862b9063b95f,Netherlands,Cody Mathès Gakpo,28.146781214122047,100.0,50.7,0,0,1,0,0,0,0,0,Midfielder,0
+a1545633-330a-4c29-bdc4-e7a8d2720acc,Netherlands,Memphis Depay,18.113065807523284,98.6,47.0,0,0,1,1,0,0,0,0,Forward,0
+d415f694-86d8-436d-a82c-7c16076856ff,United States,Timothy Weah,27.75854060106002,99.1,51.0,0,0,1,0,0,0,0,0,Forward,0
+ef5c7933-4077-49df-9152-d32b29d5bb12,Netherlands,Virgil van Dijk,9.008503742025137,111.8,41.3,1,0,0,0,0,0,0,0,Defender,0
+44a6397c-cfd0-4cf2-9c47-95f359b3f407,Netherlands,Teun Koopmeiners,4.930955301972984,94.5,37.8,0,0,1,0,0,0,0,0,Midfielder,0
+c6711069-7423-4428-a2b8-beff1ad14b24,Netherlands,Memphis Depay,39.06258390051847,113.1,34.4,0,0,0,0,0,0,0,1,Forward,0
+f8946626-b0a1-496c-aabd-a8671df0b23b,United States,Giovanni Reyna,25.135702596589997,98.9,49.9,0,0,1,0,0,0,0,0,Forward,0
+b3f6d8e7-d124-4d9b-8b69-096b7958f406,United States,Haji Wright,72.89727103094764,115.2,55.6,0,0,1,0,0,0,0,0,Forward,0
+ca879c6e-6742-4d2b-8b98-5e9b726ee77e,United States,Haji Wright,46.70135460532611,115.1,45.2,0,0,1,1,0,0,0,0,Forward,1
+bdba3968-9315-4a2c-b26a-fa83134c1f6b,Netherlands,Steven Bergwijn,34.43898930880363,109.5,32.8,0,0,1,1,0,0,0,0,Forward,0
+e534d589-ffb5-42c2-a449-541547acec89,United States,Christian Pulisic,35.64329201247136,99.5,25.3,0,0,1,0,0,0,0,0,Forward,0
+4a9d3012-73c3-4a0f-a16c-831cb874e455,Netherlands,Denzel Dumfries,33.48616881551297,113.5,44.3,0,0,1,1,0,0,0,0,Defender,1
+228c6b1b-5058-4b75-b47e-e5d961102ba9,United States,Walker Zimmerman,13.190610712206853,107.2,43.0,0,0,1,0,0,0,0,0,Defender,0
+67f52955-48b3-418c-976f-a34575324c1d,United States,Giovanni Reyna,34.00187821373259,103.1,51.4,0,0,1,0,0,0,0,0,Forward,0
+ca8ff3c0-c049-435d-830a-3979bf1181e5,United States,Yunus Dimoara Musah,14.620873988631672,103.9,44.2,0,0,1,1,0,0,0,0,Midfielder,0
+1bb42f2e-3d37-4dfc-834a-ad4bce817151,United States,Haji Wright,1.3169124057932808,111.3,40.2,1,0,0,0,0,0,0,0,Forward,0
+37e7ca95-5daa-449f-91b1-996419a87e82,Uruguay,Mathías Olivera Miramontes,29.232817457524327,98.2,27.8,0,0,1,0,0,0,0,0,Defender,0
+cab7937e-084c-43bb-adf6-bba6901ccd55,Portugal,William Silva de Carvalho,32.17560189776486,104.9,30.5,0,0,1,1,0,0,0,0,Midfielder,0
+a14a36c5-2170-4108-b3f4-6825fff09a10,Portugal,Bruno Miguel Borges Fernandes,25.4557279681232,90.8,53.9,0,0,1,0,0,0,0,0,Midfielder,0
+b800ebff-8496-4837-b70e-92fc5d669123,Uruguay,José María Giménez de Vargas,15.300845572449994,109.4,37.1,0,0,0,0,0,0,0,0,Defender,0
+7e908934-803c-442c-9ad4-fcac03e896f6,Portugal,João Félix Sequeira,25.59196802430266,101.0,30.9,0,0,1,0,0,0,0,0,Forward,0
+751f5adf-fe33-4987-888d-665a9ac2145a,Portugal,Rúben Diogo Da Silva Neves,19.91640599380909,92.4,50.0,0,0,1,1,0,0,0,0,Midfielder,0
+b7d3b0af-8b71-464b-9875-0be34fc28b23,Uruguay,Rodrigo Bentancur Colmán,5.624628041445898,106.8,41.3,0,0,1,0,0,0,0,1,Midfielder,0
+f3663e90-3a89-4166-a11a-34147836afad,Portugal,Cristiano Ronaldo dos Santos Aveiro,36.6019536310415,99.4,24.7,0,0,1,0,0,0,0,0,Forward,0
+fbf1c714-f82b-4057-bdd9-978a8bb3ad4e,Portugal,João Félix Sequeira,16.105142084148856,91.6,31.8,0,0,1,0,0,0,0,0,Forward,0
+1e1c272c-d477-43bf-8893-f288975a9d51,Uruguay,Rodrigo Bentancur Colmán,42.15052543932278,108.4,29.5,0,0,1,1,0,0,0,0,Midfielder,0
+125234e9-51c7-4d65-90c5-936905cb730b,Portugal,Bruno Miguel Borges Fernandes,14.58618606823641,93.1,33.0,0,0,1,0,0,0,0,0,Midfielder,0
+d9a3e0ba-3567-40a8-9654-22e978ed528f,Portugal,João Félix Sequeira,46.83283950594207,107.9,27.1,0,0,1,0,0,0,0,0,Forward,0
+5e58b1cd-d264-4382-883b-3d2f6d8c6c22,Portugal,Bruno Miguel Borges Fernandes,50.95713111470822,99.4,14.6,0,0,1,0,0,0,0,0,Midfielder,1
+4941c5bc-0ab0-43c9-a539-ae4b713d4d74,Portugal,Cristiano Ronaldo dos Santos Aveiro,30.77132810524337,84.9,19.1,1,0,1,0,0,0,0,0,Forward,0
+f32f6fa6-2af5-446f-bb43-93ff78b9e5e8,Uruguay,Edinson Roberto Cavani Gómez,1.005086005254172,102.9,39.7,0,0,1,1,0,0,0,0,Forward,0
+ad3b57bb-43a5-4522-84e5-d102fdfb0fa3,Uruguay,Darwin Gabriel Núñez Ribeiro,7.53944513950931,92.8,43.6,0,0,1,0,0,0,0,0,Forward,0
+3615efe7-cb2d-45ff-823f-ed8b7ac02651,Uruguay,Mathías Olivera Miramontes,27.51989243095018,108.1,33.8,1,0,0,0,0,0,0,0,Defender,0
+f3bd911e-a5aa-4bdc-8559-78501a96fac0,Uruguay,Maximiliano Gómez González,8.746162262555217,99.2,43.2,0,0,1,1,0,0,0,0,Forward,0
+ec2438ba-c936-4304-b3b9-5e39b84fdba1,Uruguay,Luis Alberto Suárez Díaz,53.746162262555174,115.6,34.0,0,0,1,0,0,0,0,0,Forward,0
+e188577b-9047-48ac-b69e-e9ceee541b72,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,43.06319961377895,109.3,50.0,0,0,1,1,0,0,0,0,Midfielder,0
+ac360a58-3c53-4eef-bec8-504a11a981b0,Portugal,Rafael Alexandre Conceição Leão,20.22485943116808,95.3,49.1,0,0,1,0,0,0,0,0,Forward,0
+3b178d65-9965-49c0-81d4-c575c77c5cbf,Uruguay,Federico Santiago Valverde Dipetta,8.054414446381754,88.2,44.5,0,0,1,0,0,0,0,0,Midfielder,0
+2ea9eec6-83b4-404d-aa0d-27513bd2d4e2,Portugal,Bruno Miguel Borges Fernandes,77.0472354866245,117.7,50.0,0,0,1,1,0,0,1,0,Forward,0
+553946c1-4725-4226-a964-bfe3315b6712,Portugal,Bruno Miguel Borges Fernandes,14.452428251092975,100.6,35.0,0,0,1,0,0,0,0,0,Forward,0
+3c41cfe6-8b91-4663-85b9-b9e4d8d102e1,Spain,Daniel Olmo Carvajal,35.48205083905123,100.5,26.1,0,0,1,0,0,0,0,0,Forward,0
+b9807145-9273-4f4d-b54c-63f1726a20bf,Spain,Jordi Alba Ramos,35.51450926128686,96.6,23.3,0,0,1,0,0,0,0,0,Defender,0
+6bf858c3-fe9e-4595-ad68-d64721bb4072,Germany,Serge Gnabry,43.98302196928083,102.8,56.6,0,0,1,0,0,0,0,0,Forward,0
+e9e51309-bf56-42e1-b802-3905e017387b,Spain,Ferrán Torres García,20.40988283380398,102.8,46.4,0,0,1,0,0,0,0,0,Forward,0
+67151ebf-44cf-4bca-b6b6-0f95def6f996,Germany,Antonio Rüdiger,24.88261481035416,89.6,25.9,0,0,1,0,0,0,0,0,Defender,0
+36e26c70-3c2a-400c-af69-ecb3b4f39073,Spain,Ferrán Torres García,55.06068979532297,109.8,54.6,0,0,1,0,0,0,0,0,Forward,0
+cbe22a1a-29bc-4776-a778-5d9968eb08be,Germany,Antonio Rüdiger,72.67828197408038,113.7,60.2,0,0,1,0,0,0,0,0,Defender,0
+2e1bc500-0809-4474-b22c-5bae1812a14c,Germany,Joshua Kimmich,2.4195092166563414,105.8,40.6,0,0,1,1,0,0,0,0,Midfielder,0
+a1cb4e76-d19d-43e1-8202-1a61a795906f,Spain,Daniel Olmo Carvajal,14.586769361996955,85.8,31.1,0,0,1,0,0,0,0,0,Forward,0
+2691d76f-1404-420e-b0d6-cef56bcb9e3e,Spain,Álvaro Borja Morata Martín,39.97092641821458,113.2,34.3,0,0,1,1,0,0,0,0,Forward,1
+56cf174c-b165-462c-9470-c58b98582084,Germany,Leon Goretzka,0.7221774615448038,96.2,39.7,0,0,1,0,0,0,0,0,Midfielder,0
+41107ba9-8e53-46f5-bce7-1e642670ddbd,Spain,Marco Asensio Willemsen,16.44037952168017,101.7,45.4,0,0,1,1,0,0,0,0,Forward,0
+76175416-4f79-4822-9301-89fb55e0c670,Germany,Niclas Füllkrug,9.673355432403497,111.2,41.5,0,0,1,1,0,0,0,0,Forward,0
+af499a76-4228-4c73-ac58-6d72bfab6cbe,Germany,Jamal Musiala,45.57293869768347,110.1,50.1,0,0,1,1,0,0,0,0,Midfielder,0
+b18b6639-0ebc-4694-bf73-aa60ae3809e9,Germany,Serge Gnabry,47.363246641038785,104.9,23.6,0,0,1,0,0,0,0,0,Forward,0
+ae7733ba-83df-4279-bf3e-44e79f259634,Germany,Niclas Füllkrug,17.84020430770349,111.3,42.8,0,0,0,0,0,0,0,0,Forward,0
+455f90a4-e346-4767-b04d-390b5676561d,Germany,Niclas Füllkrug,52.29205896458268,110.8,51.9,0,0,1,0,0,0,0,1,Forward,1
+fff48b03-5eb5-43fb-9332-f3e89f3dde97,Serbia,Aleksandar Mitrović,36.098283967108024,110.4,33.0,0,0,0,0,0,0,0,0,Forward,0
+6e875c52-8f7c-464a-b739-b0ab797b1418,Serbia,Aleksandar Mitrović,68.47739989209295,114.4,54.2,0,0,1,0,0,0,0,0,Forward,0
+c50ed972-f480-480b-a373-59915ecbf39f,Serbia,Filip Kostić,57.60860679336625,108.2,21.4,0,0,1,0,0,0,0,0,Defender,0
+6d7e846c-96ab-4f14-869e-c18aabfe5d73,Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,14.203937953514036,95.9,33.9,0,0,1,1,0,0,0,0,Defender,0
+59d6ae9d-1d83-4d25-b755-f8dba2162788,Serbia,Aleksandar Mitrović,7.188537142736644,108.9,38.6,1,0,1,1,0,0,0,0,Forward,0
+63704836-bf38-4d6a-9517-ca6d31f7561a,Cameroon,Pierre Kunde Malong,59.37277868446184,108.1,60.1,0,0,1,0,0,0,0,1,Midfielder,0
+956c7899-76e9-4340-84d8-0d5f0dced8a5,Cameroon,Pierre Kunde Malong,23.52565160815107,96.8,50.1,0,0,1,1,0,0,0,0,Midfielder,0
+fbe698cc-7aae-406b-bf76-b2d712682bb3,Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,53.55555824341291,115.2,33.5,0,0,0,0,0,0,0,0,Defender,0
+1bc4f414-84ee-4b11-8dd6-c4f16f045f79,Cameroon,Jean-Charles Castelletto,64.88516511385546,118.5,43.2,0,0,1,1,0,1,0,0,Defender,1
+4fa88e0c-e4a4-4305-9df9-b174e12bdc2a,Cameroon,Pierre Kunde Malong,39.90788487550103,103.5,53.8,0,0,1,0,0,0,0,0,Midfielder,0
+7281b78f-94ac-444c-82c5-865819c99ca5,Cameroon,Pierre Kunde Malong,57.82439810223515,110.5,55.1,0,0,1,1,0,0,0,0,Midfielder,0
+b0559f23-a6cd-4e75-aa8d-9a7e319ed91c,Serbia,Strahinja Pavlović,16.755748929198973,110.7,42.8,0,0,0,0,0,0,0,0,Defender,1
+834307f3-a14a-46f5-b9f6-35b2c369deab,Serbia,Sergej Milinković-Savić,18.181802696148644,99.6,46.7,0,0,1,0,0,0,0,0,Midfielder,1
+db45ecaa-48e5-49de-9818-beb0e34c81f4,Serbia,Aleksandar Mitrović,15.27756123207574,98.4,45.9,0,0,1,0,0,0,0,0,Forward,0
+348a4d04-bf64-4869-8168-2ce3a2de691d,Serbia,Saša Lukić,29.453672726920953,103.0,49.6,0,0,1,1,0,0,0,0,Midfielder,0
+942d38b7-cb83-4ab9-9bb5-6dd9978ec7b4,Serbia,Aleksandar Mitrović,1.7899106082460934,113.6,40.2,0,0,1,1,0,1,0,0,Forward,1
+0ce0009b-4a39-47d3-9f48-eb9928a0429e,Cameroon,Vincent Paté Aboubakar,29.377899737289113,106.5,47.6,0,0,1,0,0,0,0,0,Midfielder,0
+32b95220-2f70-4fa7-beaa-c6c87351284e,Cameroon,Karl Brillant Toko Ekambi,48.735659126617676,106.4,24.5,0,0,1,0,0,0,0,0,Forward,0
+08d15c0f-1491-4a99-a31f-66953a94e3c2,Serbia,Sergej Milinković-Savić,18.289158350002786,96.4,47.8,1,0,1,0,0,0,0,0,Midfielder,0
+8c527e2f-0ed2-4899-a5f8-a1ebb5f20fbe,Cameroon,Vincent Paté Aboubakar,29.981639368849343,104.4,49.0,0,0,1,0,0,0,0,0,Midfielder,1
+9b099e15-1703-4790-950c-dc2f2286f030,Cameroon,Jean-Eric Maxim Choupo-Moting,18.43494882292201,111.0,37.0,0,0,1,1,0,0,0,0,Forward,1
+f0942304-b4f7-4258-a61a-344dff7e7e81,Serbia,Nikola Milenković,30.963756532073536,110.5,45.7,1,0,0,0,0,0,0,0,Defender,0
+3658dddb-c25e-4c90-9be6-41f0e7855c7b,Serbia,Aleksandar Mitrović,57.76556578105861,110.1,55.7,0,0,1,1,0,0,0,0,Forward,0
+176c100d-41b4-4ab8-8565-a207c0c212f0,Serbia,Sergej Milinković-Savić,18.296218393034415,95.2,48.2,0,0,1,0,0,0,0,0,Midfielder,0
+938f1dab-80a2-4e77-9316-316690bfe074,Cameroon,Vincent Paté Aboubakar,30.311213226681616,94.0,24.8,0,0,1,0,0,0,0,0,Midfielder,0
+5298859c-8b71-4dce-aa18-4438fecb0ed3,Serbia,Aleksandar Mitrović,6.508956440502575,105.1,38.3,0,0,1,1,0,0,0,0,Forward,0
+8d1c8e6d-da40-4ec0-b572-b672cac97385,Serbia,Marko Grujić,13.009722454501679,92.3,33.6,0,0,1,0,0,0,0,0,Midfielder,0
+c29f9cfc-dd0b-45e4-b9d8-fba7eac56d14,Japan,Ritsu Doan,25.99536759774645,91.7,53.8,0,0,1,1,0,0,0,0,Midfielder,0
+b0021121-2dd2-4985-b636-7b420e330d97,Costa Rica,Gerson Torres Barrantes,14.441312929288603,90.1,47.7,0,0,1,1,0,0,0,0,Forward,0
+b6a7fe6e-e284-4beb-bef7-c11dc963e453,Costa Rica,Francisco Javier Calvo Quesada,24.47371881904466,91.0,26.8,0,0,1,1,0,0,0,0,Defender,0
+6f966acf-769b-4448-bfa4-f0733251f5e2,Costa Rica,Joel Nathaniel Campbell Samuels,29.842212652093593,101.0,29.1,0,0,1,1,0,0,0,0,Forward,0
+ae2d6fbb-ab5c-42c0-8432-2168798fd15a,Japan,Wataru Endo,30.45296073791106,100.1,51.7,0,0,1,0,0,0,0,0,Midfielder,0
+38a3b9d9-941f-4596-a6bd-22fdfb0d527c,Japan,Hidemasa Morita,26.070067556320684,101.4,30.9,0,0,1,0,0,0,0,0,Midfielder,0
+5d9ec384-ccf7-4a74-b9f2-949d99257b65,Japan,Takuma Asano,32.6805547433634,104.1,50.2,0,0,1,1,0,0,0,0,Forward,0
+474f5401-5be9-4c9a-ac4e-cea580ed78f8,Japan,Wataru Endo,2.5396804503407027,95.2,41.1,1,0,1,0,0,0,0,0,Midfielder,0
+e4a1682e-b583-4870-b9ae-b425699d0091,Japan,Takuma Asano,11.398763068757924,107.6,37.5,0,0,0,0,0,0,0,0,Forward,0
+308cb56c-69ba-4cb1-a193-2d2dc7e365d3,Japan,Ko Itakura,0.0,105.0,40.0,0,0,1,0,0,0,0,0,Defender,0
+cb6a926f-d5d0-4d19-b180-d0937c128a6f,Japan,Wataru Endo,19.244729239832893,103.1,34.1,0,0,1,0,0,0,0,0,Midfielder,0
+1042aff6-c996-4845-be46-f816dce93ba1,Japan,Yuki Soma,50.79785438515967,105.4,22.1,0,0,1,0,0,0,0,0,Defender,0
+50c56c5f-eff7-46db-b540-1e8007a9de53,Japan,Yuki Soma,10.034879226466437,95.7,44.3,0,0,1,0,0,0,0,0,Defender,0
+9e06c7d1-2bd7-42ab-82b4-1328e72ca48d,Costa Rica,Keysher Fuller Spence,23.31770838675506,102.6,47.5,0,0,1,0,1,0,0,0,Defender,1
+26b0b545-09b5-453e-9ea7-9e317a984728,Japan,Daichi Kamada,11.309932474020206,108.0,37.6,0,0,1,1,0,0,0,0,Forward,0
+f4949cc2-5584-49be-b3bc-f47e8b12a83e,Belgium,Michy Batshuayi Tunga,46.12330271407542,110.0,29.6,0,0,1,1,0,0,0,0,Forward,0
+fc73b612-7c75-470c-afcc-c463239142d5,Belgium,Kevin De Bruyne,21.76156541800891,95.2,30.1,0,0,1,1,0,0,0,0,Forward,0
+02d21eda-f249-4551-89b5-2493f3d4ff70,Belgium,Amadou Onana,14.534455080540093,114.6,38.6,0,0,0,0,0,0,0,0,Midfielder,0
+1574a94e-fea2-4896-86fe-709e0e9ab638,Belgium,Thomas Meunier,33.69006752597978,101.1,27.4,0,0,1,0,0,0,0,0,Defender,0
+64064f31-0fda-4322-9391-879fb9644554,Morocco,Hakim Ziyech,20.854458039578347,88.5,52.0,1,0,1,0,0,0,0,0,Forward,0
+ce325850-30bb-4464-aed7-6fa9941fc19d,Morocco,Selim Amallah,34.71642934886473,106.0,49.7,0,0,1,1,0,0,0,0,Midfielder,0
+225f3a4d-8b47-42f3-9e2f-b1157ba41abe,Morocco,Achraf Hakimi Mouh,56.96377889124407,109.4,56.3,1,0,1,0,0,0,0,0,Defender,0
+ab86aca8-017a-4a87-8dbf-26f269b3c95d,Belgium,Kevin De Bruyne,4.635463426902644,94.1,42.1,1,0,1,0,0,0,0,0,Forward,0
+f987eca5-db49-4ab0-acc5-c42726b4b3ec,Morocco,Hakim Ziyech,18.087705925836254,95.2,48.1,0,0,1,0,0,0,0,0,Forward,0
+15f18472-4c63-486a-9458-577dca533961,Belgium,Eden Hazard,51.0795889578385,104.9,58.7,0,0,1,0,0,0,0,0,Midfielder,0
+a3ee1770-6d2c-4d28-9627-d57f8454bfec,Belgium,Amadou Onana,5.314545669944735,111.4,40.8,1,0,0,0,0,0,0,0,Midfielder,0
+039101f4-359b-417f-8703-dd9f5d65a077,Morocco,Sofiane Boufal,53.33436451735782,106.6,22.0,0,0,1,0,0,0,0,0,Forward,0
+ce7217da-1108-422a-8469-6d1bac023d8b,Morocco,Noussair Mazraoui,8.203905378403789,87.4,35.3,0,0,1,1,0,0,0,0,Defender,0
+8088c6de-e447-4e4e-8eba-cb83620deab8,Belgium,Dries Mertens,5.9415197937527555,97.9,37.7,0,0,1,0,0,0,0,0,Forward,0
+1b85a429-c4d2-4fc8-bed3-50662a7df1ec,Morocco,Azzedine Ounahi,3.1798301198642287,87.6,38.2,0,0,1,0,0,0,0,0,Midfielder,0
+24ff4125-033c-46d4-aa49-789349881943,Morocco,Romain Saïss,60.94539590092286,118.0,36.4,0,1,0,0,0,1,0,1,Defender,1
+6a5609fa-ba9c-402a-bf79-3464c67f2202,Belgium,Jan Vertonghen,12.41744579007629,109.1,37.6,1,0,0,0,0,0,0,0,Defender,0
+98203d31-bdee-44ce-883e-65333a13f6e2,Morocco,Abderrazak Hamdallah,72.96984322711293,116.6,28.9,0,0,1,0,0,0,0,0,Forward,0
+fd96509c-06be-4f53-b0d1-a3afd34aa9dd,Morocco,Zakaria Aboukhlal,35.031643829526146,110.3,46.8,0,0,1,1,0,0,0,0,Forward,1
+e75a47ed-6bf8-462c-9e66-a449ef1c61a8,Germany,Joshua Kimmich,18.052131939240173,93.0,31.2,0,0,1,0,0,0,0,0,Midfielder,0
+6a5cd76d-afb2-41f9-9b52-6b3057bc8ce4,Germany,Antonio Rüdiger,48.13246519856804,110.5,50.6,1,0,0,0,0,0,0,0,Defender,0
+c1f3f4fa-e68f-4f62-a3af-02cf248a0afb,Germany,Joshua Kimmich,0.9920355659886168,96.9,39.6,1,0,1,1,0,0,0,0,Midfielder,0
+f25fc55b-59ec-4c70-a4bf-c0408a1ce2ca,Germany,İlkay Gündoğan,27.12675650964454,99.7,29.6,0,0,1,0,0,0,0,0,Midfielder,0
+98fee0b3-68ce-444e-9a95-5c80ccb4b8f6,Germany,İlkay Gündoğan,6.241914347415044,94.4,42.8,0,0,1,1,0,0,0,0,Midfielder,0
+54011f60-1faa-4e7a-ad8b-b0a23f8f2999,Germany,İlkay Gündoğan,12.280954405099388,105.3,36.8,0,0,1,1,0,0,0,0,Midfielder,0
+c20837e2-b9c1-4f13-81c5-d2bc873be02a,Germany,Serge Gnabry,16.952936422712106,93.1,48.2,0,0,1,0,0,0,0,0,Forward,0
+68d0971d-d5af-4bd6-8b3c-94317bc4d32f,Germany,Jamal Musiala,45.49391689861876,108.5,28.3,0,0,1,0,0,0,0,0,Forward,0
+a3a56b19-fbae-4237-aa99-f412c90e5fa7,Germany,İlkay Gündoğan,2.144906803732288,93.3,39.0,0,0,1,0,1,0,0,0,Midfielder,0
+2dbaa532-cb0f-44ea-95bc-577a6e90154d,Germany,Joshua Kimmich,5.4638428132366474,97.0,42.2,0,0,1,1,0,0,0,0,Midfielder,0
+8ebf7bc3-921d-4483-8228-bd86ef74b705,Germany,Jamal Musiala,15.736135401458966,101.9,45.1,0,0,1,0,0,0,0,0,Forward,0
+2f527b6f-aee1-47e2-adec-ca9b4dee06b6,Germany,Joshua Kimmich,1.4538954651088811,100.3,40.5,0,0,1,1,0,0,0,0,Midfielder,0
+2ff6b6b3-6258-4611-819a-74aefa3aece3,Germany,Serge Gnabry,60.561510325328484,114.3,29.9,0,0,1,1,0,0,0,0,Forward,0
+27717d2a-5065-472d-93d8-52ddb6c74be3,Japan,Daizen Maeda,32.34744349944204,111.0,34.3,0,0,0,0,0,0,0,0,Forward,0
+cdd91c4c-b03d-4cd6-9449-d027bf340b4a,Germany,Serge Gnabry,56.83011332616803,108.3,57.9,0,0,1,0,0,0,0,0,Forward,0
+6c24aaf5-9476-4a0f-9328-68970cd405ae,Japan,Daichi Kamada,23.898791636158645,103.3,47.4,0,0,1,1,0,0,0,0,Forward,0
+fd704368-4336-43a6-9dc9-e76af9fd63e3,Germany,Jamal Musiala,4.467159061389273,107.2,41.0,0,0,1,0,0,0,0,0,Forward,0
+1444ff8e-87e7-4fe4-9d5f-cddb7f087007,Japan,Takuma Asano,60.58440116690446,114.7,49.4,1,0,0,0,0,0,0,0,Forward,0
+c344b186-8f57-4eae-a186-8fc73b8b9ec9,Germany,İlkay Gündoğan,0.0,103.0,40.0,0,0,1,0,0,0,0,0,Midfielder,0
+8ea6b23c-4a04-4f31-ae5a-7d0cababb10e,Japan,Takuma Asano,46.236407602856154,106.4,25.8,0,0,1,0,0,0,0,0,Forward,0
+d9a6fe75-ff09-44ae-ba7d-c064e450277b,Japan,Takuma Asano,45.86152573456727,106.9,26.5,0,0,1,0,0,0,0,0,Forward,0
+f1a792f3-7d5e-4176-a07c-05f6874ec660,Japan,Ko Itakura,56.78052377691539,112.6,51.3,0,0,0,0,0,0,0,0,Defender,0
+3c56e4da-b9b2-4889-bc85-d82e0c2cc031,Japan,Takuma Asano,55.954062643398345,112.5,51.1,1,0,1,0,0,0,0,0,Forward,0
+b2a21b90-0ced-415a-a960-904b01256092,Germany,Jonas Hofmann,43.68308759420672,111.1,48.5,0,0,1,1,0,0,0,0,Forward,0
+c06a6d3e-3821-440c-8bc5-0b9196b1149f,Germany,Serge Gnabry,46.98634069588219,103.3,57.9,0,0,1,0,0,0,0,0,Forward,0
+d89ba244-d1b3-4704-b44b-4c2022d56eba,Germany,Serge Gnabry,24.166629842985493,112.2,43.5,0,0,0,0,0,0,0,0,Forward,0
+0b5aa5c3-f333-4d67-8f40-069454843d2e,Germany,Serge Gnabry,76.39026810418783,117.7,49.5,0,0,1,1,0,0,0,0,Forward,0
+0dce31b6-08dc-453f-a057-c5128281e5c5,Japan,Junya Ito,18.91108007456388,109.2,36.3,0,0,1,0,1,0,0,0,Forward,0
+e935ae95-20bb-4a72-8e24-6ded86aaef28,Japan,Hiroki Sakai,43.667780146130376,113.4,46.3,0,0,1,1,0,0,0,0,Defender,0
+3267ad78-4acb-41c1-8d91-7a50cfb84fd3,Japan,Takumi Minamino,65.22485943116807,112.8,24.4,0,0,1,1,0,0,0,0,Forward,0
+34f10fcb-d5a4-4ffc-8ace-75c4a8e0cd31,Japan,Ritsu Doan,10.750966993188042,112.1,41.5,0,0,1,1,0,0,0,0,Forward,1
+8281fe44-07ee-479f-9b04-730cc2933fbf,Germany,Antonio Rüdiger,7.594643368591463,115.5,39.4,1,0,0,0,0,0,0,0,Defender,0
+f525e449-2db7-42c7-828f-9b2e1b1d0973,Japan,Takuma Asano,77.29288649868343,117.7,50.2,0,0,1,0,0,0,0,1,Forward,1
+55b4efd0-aeed-4faa-809d-f25b2def922e,Germany,Niclas Füllkrug,4.365257735027935,106.9,41.0,1,0,0,0,0,0,0,0,Forward,0
+c8699b0f-08da-41af-8731-6e747b1e85f2,Germany,Antonio Rüdiger,4.735583035029394,86.2,37.2,0,0,1,0,0,0,0,0,Defender,0
+66db29b6-02e8-42c4-ada2-354d89df4575,Germany,Leon Goretzka,2.615754875421865,100.3,40.9,0,0,1,1,0,0,0,0,Midfielder,0
+5b2d53ea-1b12-4860-92dd-c77bfd33d4a3,Germany,Niklas Süle,67.38013505195957,116.5,31.6,0,0,1,0,0,0,0,0,Defender,0
+00d2a2d8-b9a5-44e9-b51f-d7f79d641ce9,United States,Joshua Sargent,49.6000956662633,116.0,35.3,0,0,0,0,0,0,0,0,Forward,0
+b28903de-c9c5-4815-b652-13ee2daa979b,Wales,Ethan Ampadu,5.4653665966333485,87.6,43.1,0,0,1,0,0,0,0,0,Midfielder,0
+7e5a748c-b6bc-4bd9-a5ee-f40bd0d8dc3a,United States,Sergino Dest,29.70245569972527,90.9,56.6,0,0,1,0,0,0,0,0,Defender,0
+24a5f6ab-26fc-439e-b1ca-e66b360d83ea,United States,Timothy Weah,10.140793146112811,107.7,37.8,1,0,1,1,0,0,0,0,Forward,1
+7aeb7191-cd17-40d1-969a-e626501374d1,Wales,Ben Davies,25.25316339457389,114.7,37.5,1,0,0,0,0,0,0,0,Defender,0
+db0db4a7-f038-473f-91b4-1237111e0ca0,Wales,Kieffer Roberto Francisco Moore,4.727987818842209,93.4,42.2,0,0,1,0,0,0,0,0,Forward,0
+f50cf345-fc91-4dbe-893f-d98c64aebb3b,Wales,Ben Davies,8.945381833538978,109.2,38.3,0,0,0,0,0,0,0,0,Defender,0
+a976825c-6dd1-4a71-9b88-c3544a7ec64d,Wales,Kieffer Roberto Francisco Moore,42.580490783343635,116.3,43.4,0,0,0,0,0,0,0,0,Forward,0
+0696a03e-e807-4b76-ad15-a3ff272fdf0c,United States,Haji Wright,27.245087842520718,106.6,46.9,1,0,0,0,0,0,0,0,Forward,0
+0acccbca-acff-4ad0-9d42-ebf2471bcfb1,United States,Brenden Aaronson,61.090816348852165,116.3,46.7,1,0,0,0,0,0,0,0,Midfielder,0
+2a5280c1-0d28-49aa-899e-6ba29945c8b3,Wales,Brennan Johnson,58.0582433948713,109.9,56.2,0,0,1,0,0,0,0,0,Midfielder,0
+243118f9-5db3-44dc-9970-cd589957af95,United States,Tyler Adams,9.393990958951068,92.8,35.5,0,0,1,0,0,0,0,0,Midfielder,0
+cd69e8e9-3325-402f-8188-df545b49f000,Ecuador,Romario Andrés Ibarra Mina,15.234486446292733,96.5,46.4,1,0,1,0,0,0,0,0,Midfielder,0
+4018daa4-e355-4bd7-8941-931040928dfc,Ecuador,Enner Remberto Valencia Lastra,10.885527054658732,109.6,38.0,0,0,0,0,0,0,0,0,Forward,1
+a83997b4-449c-4d8d-9142-c3ef4be2daca,Qatar,Abdelkarim Hassan Al Haj Fadlalla,29.116146266078935,88.4,22.4,0,0,1,0,0,0,0,0,Defender,0
+ab9c8360-a54f-44de-9022-ab3c98e5d248,Qatar,Almoez Ali Zainalabiddin Abdulla,27.85965069524229,113.0,43.7,0,0,0,0,0,0,0,1,Forward,0
+9299403e-adb1-4486-bfd8-232f6403851c,Ecuador,Angelo Smit Preciado Quiñónez,37.22456592083996,91.7,61.5,0,0,1,0,0,0,0,0,Defender,0
+35b6cbe5-678d-4d49-86bc-3cbdfb327802,Ecuador,Romario Andrés Ibarra Mina,23.045598141582637,101.9,32.3,0,0,1,0,0,0,0,0,Midfielder,0
+264a869b-6793-450f-941e-a3718379cb7d,Qatar,Pedro Miguel Correia,29.054604099077146,106.5,47.5,1,0,0,0,0,0,0,0,Defender,0
+2a37a39d-0b65-4d3c-a3a6-15c1f3af5e96,Qatar,Akram Hassan Afif,31.204746822876242,92.1,23.1,0,0,1,0,0,0,0,0,Forward,0
+0b940fef-b9a4-4567-8da6-b6d22558a84f,Qatar,Mohammed Muntari,37.51261180285637,100.2,55.2,0,0,1,1,0,0,0,0,Forward,0
+80f80eff-f144-40c6-870b-097272583d50,Ecuador,Kevin José Rodríguez Cortez,18.657888474119538,112.3,37.4,0,0,0,0,0,0,0,0,Forward,0
+568e2b3a-e46c-4d21-8163-b2e9cf97b83a,Senegal,Ismaïla Sarr,62.336761672181986,113.5,52.4,1,0,1,0,0,0,0,0,Forward,0
+b105468b-5881-4028-bc70-30a510304b60,Senegal,Nampalys Mendy,1.5304391820147887,93.8,39.3,0,0,1,0,0,0,0,0,Midfielder,0
+ce0d9eb3-2a9b-4f85-8e3e-6faf7a90a5a0,Qatar,Akram Hassan Afif,3.122130462115708,92.5,41.5,0,0,1,1,0,0,0,0,Forward,0
+22cd423b-84c9-4e32-9cc5-96e667dd4872,Senegal,Krépin Diatta,56.50922133820901,111.2,26.7,1,0,1,0,1,0,0,0,Forward,0
+b8cda299-e189-4425-9838-75a7625b1547,Senegal,Famara Diedhiou,11.154659738928295,112.9,38.6,0,0,0,0,0,0,0,0,Forward,0
+9ec6fcb9-b5e4-4153-b9e5-3f50094ac44c,Senegal,Idrissa Gana Gueye,27.305504679681164,95.4,52.7,0,0,1,1,0,0,0,0,Midfielder,0
+81d42c00-b18d-4247-ab54-77943ff720c8,Qatar,Abdelkarim Hassan Al Haj Fadlalla,36.73074605662067,93.6,20.3,0,0,1,0,0,0,0,0,Defender,0
+de012497-b662-442e-aa1e-8031f498e9e8,Senegal,Boulaye Dia,27.629246669465708,107.2,33.3,0,0,1,1,0,0,0,0,Midfielder,1
+1a75f92a-ccf1-422c-b1da-627cbfdff45d,Senegal,Famara Diedhiou,47.20259816176581,112.5,48.1,0,0,0,0,0,0,0,0,Forward,1
+44a80984-4332-4520-9991-a89bf714d6b6,Qatar,Abdelkarim Hassan Al Haj Fadlalla,4.763641690726194,111.6,39.3,0,0,1,1,0,0,0,0,Defender,0
+115acf22-abdf-425e-a68c-9b36aa63c479,Senegal,Ismaïla Sarr,58.31763397294935,112.1,27.2,0,0,1,0,0,0,0,0,Forward,0
+a90f4b5b-170f-4e13-8987-2145b1707b3d,Senegal,Famara Diedhiou,37.51911382047632,108.8,48.6,1,0,1,1,0,0,0,0,Forward,0
+d813a272-6ea9-4250-aa9a-7de6c147c1b0,Qatar,Abdelkarim Hassan Al Haj Fadlalla,29.27741989616197,89.5,22.9,0,0,1,0,0,0,0,0,Defender,0
+d099a085-e2dc-4f21-ba12-675385437d9c,Qatar,Almoez Ali Zainalabiddin Abdulla,17.840204307703512,102.6,34.4,0,0,1,0,0,0,0,0,Forward,0
+06c565d4-e39c-442d-afc2-e42c7db3d7db,Qatar,Ismaeel Mohammad Mohammad,4.205357001708589,113.2,40.5,0,1,0,0,0,0,0,1,Defender,0
+55540b73-5f2e-4d96-af49-63714a865eb2,Senegal,Nampalys Mendy,46.53630012888378,107.3,53.4,0,0,1,0,0,0,0,0,Midfielder,0
+368d0361-ef8f-4406-b955-47f9eff22a9c,Qatar,Mohammed Muntari,7.480886179523655,110.1,38.7,1,0,0,0,0,0,0,0,Forward,1
+20fd1c2b-70ea-4333-94cc-3c8d9cfca2af,Senegal,Boulaye Dia,5.314545669944761,107.1,38.8,1,0,0,0,0,0,0,0,Forward,0
+aa6f69c4-f3fe-43b0-b724-d4ed2ecb4182,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,23.481390682607667,107.8,45.3,0,0,1,1,1,0,0,0,Forward,1
+30ffddcf-6cfe-4656-8315-5621f5d68320,Qatar,Abdelkarim Hassan Al Haj Fadlalla,26.191185165148717,95.4,52.1,0,0,1,1,0,0,0,0,Defender,0
+4c1339df-582c-4624-8747-257f6140618c,Qatar,Mohammed Muntari,3.01278750418334,110.5,39.5,1,0,0,0,0,0,0,0,Forward,0
+9d08929b-42ef-44ed-890b-907636ce9b5b,Qatar,Almoez Ali Zainalabiddin Abdulla,4.4943576526319875,97.1,41.8,0,0,1,0,0,0,0,0,Forward,0
+a8493eb5-a6af-43e6-9457-b77b6e3ab82f,Argentina,Lionel Andrés Messi Cuccittini,16.189206257026942,104.5,44.5,0,0,1,1,0,0,0,0,Forward,0
+3cf170da-b2ce-4cac-84e0-b7bc2ffb238f,Argentina,Alejandro Darío Gómez,42.51044707800085,98.4,20.2,0,0,1,0,0,0,0,0,Midfielder,0
+183273de-a7b0-404c-a671-175034820b4d,Argentina,Lautaro Javier Martínez,42.357454705935304,113.2,33.8,0,0,0,0,0,0,0,0,Forward,0
+3d10b199-c0e5-431b-a44e-1a1a258250aa,Argentina,Rodrigo Javier De Paul,5.440332031005496,101.1,41.8,0,0,1,1,0,0,0,0,Midfielder,0
+3d0bfe31-7f21-4257-9b23-c5533d190898,Saudi Arabia,Saleh Khalid Al Shehri,40.91438322002512,108.0,29.6,0,0,1,0,0,0,0,0,Forward,1
+cb3d6d66-9f37-4a42-bcb8-e7f3d4a882a9,Saudi Arabia,Nawaf Shaker Al Abid,43.03858233222967,104.9,54.1,0,0,1,0,0,0,0,0,Midfielder,0
+ee9900a5-1345-47ab-89d5-115349107678,Saudi Arabia,Salem Mohammed Al Dawsari,39.86955295234005,102.4,25.3,0,0,1,0,0,0,0,0,Midfielder,1
+b7605623-fd95-4d3a-b758-544ee52f0e40,Argentina,Lisandro Martínez,0.6437457141753896,111.1,39.9,0,0,1,1,0,0,0,0,Defender,0
+a7844b07-9979-4d38-bb54-631efebd86e7,Argentina,Nicolás Alejandro Tagliafico,35.67640822186192,116.1,37.2,0,1,0,0,0,0,0,1,Defender,0
+c5ebefcc-f4ad-4eda-9bc8-5fa0c7154709,Argentina,Lautaro Javier Martínez,68.53234856090101,116.5,31.1,1,0,0,0,0,0,0,0,Forward,0
+b956a3f0-fcfb-4e2f-b192-f265a11bfc55,Argentina,Ángel Fabián Di María Hernández,59.15341258785141,111.4,54.4,0,0,1,0,0,0,0,1,Midfielder,0
+e4388b39-5a30-40e2-be15-b281570a6576,Argentina,Ángel Fabián Di María Hernández,27.452757415276537,86.7,57.3,0,0,1,0,0,0,0,0,Midfielder,0
+baf9173f-0828-443b-a142-61e76c7e0e6b,Argentina,Enzo Fernandez,1.941486390914371,108.2,39.6,0,0,0,0,0,0,0,0,Midfielder,0
+1fcac061-d04e-4bf2-90cf-88f00958abfc,Argentina,Lionel Andrés Messi Cuccittini,50.63068275763523,113.6,32.2,0,0,0,0,0,0,0,0,Forward,0
+7c9a88b1-328a-4075-a662-df7aa6c249f3,Argentina,Nicolás Hernán Otamendi,11.83364530616069,109.5,37.8,1,0,0,0,0,0,0,0,Defender,0
+7a79ac21-a20b-4071-a1a8-4a7012cf8c43,Argentina,Julián Álvarez,42.1975484801332,112.5,33.2,1,0,0,0,0,0,0,0,Midfielder,0
+02725c70-6aa3-48f9-89d3-228ae5a93e01,South Korea,Gue-Sung Cho,30.124317998361235,111.9,44.7,1,0,1,1,0,0,0,0,Forward,0
+dac555f3-6e2d-483b-88ae-52370e517766,South Korea,Woo-Yeong Jeong,21.333525622203727,96.7,49.1,0,0,1,0,0,0,0,0,Midfielder,0
+9eeca7bd-8756-4863-a175-8cd110289daa,South Korea,Min Jae Kim,55.15426658020026,114.5,47.9,0,0,0,0,0,0,0,0,Defender,0
+47aeebf5-3a95-4fa4-8a1c-013df3aa6d7e,South Korea,In-Beom Hwang,31.515323411369735,95.7,54.9,0,0,1,0,0,0,0,0,Midfielder,0
+09ec7786-638f-4e09-9d9b-dd812bd00265,South Korea,Gue-Sung Cho,64.39781244855826,115.4,30.4,0,0,0,0,0,0,0,0,Forward,0
+936f693d-d4ff-4c9c-8e0c-aceb418ffe10,Ghana,Mohamed Salisu,25.016893478100037,115.5,37.9,0,0,1,1,0,0,0,0,Defender,1
+1260764d-4ab3-4147-b8c1-7eca8619faaf,Ghana,Mohammed Kudus,14.620873988631624,113.1,41.8,0,0,0,0,0,0,0,0,Forward,1
+3f388811-4bca-49e1-ac49-7ae81ccf70f4,South Korea,Woo-Young Jung,45.87245712290203,100.6,20.0,0,0,1,0,0,0,0,0,Midfielder,0
+ded29fbb-1369-46d6-bd7c-b2f5c30bb5bb,Ghana,Thomas Teye Partey,65.89776549883881,118.3,36.2,1,0,0,0,0,0,0,0,Midfielder,0
+f7942434-5cc6-448f-9e12-c5308726c1ab,Ghana,Tariq Lamptey,38.52163542022712,104.8,52.1,0,0,1,0,0,0,0,0,Defender,0
+2827424c-db46-4bc5-8085-5f39189c8271,South Korea,Gue-Sung Cho,21.44773632710532,111.6,36.7,0,0,0,0,0,0,0,0,Forward,0
+a5f141b4-e4fc-4f28-b0d6-f56f6f7de6fa,South Korea,Gue-Sung Cho,12.200468727380787,112.6,38.4,0,0,0,0,0,0,0,1,Forward,1
+c2e00134-206f-43c6-8062-00282d8ac4ec,South Korea,Gue-Sung Cho,39.427802196036225,115.5,43.7,1,0,0,0,0,0,0,0,Forward,1
+2e92d729-1b24-4b36-83aa-f5e8b38c0b69,Ghana,Iñaki Williams Arthuer,34.777831366363884,109.2,32.5,0,0,1,1,0,0,0,0,Forward,0
+2584ac65-10b8-4f8e-821c-9538e7915167,Ghana,Mohammed Kudus,36.552472752091546,108.4,48.6,0,0,1,1,0,0,0,0,Forward,1
+caf01dc0-43ac-47dd-af6e-0fe488fb6e47,South Korea,Heung-Min Son,49.88275956383308,110.9,29.2,0,0,1,0,0,0,0,0,Forward,0
+b6834775-0d6b-4d01-99f6-db6d0277bad0,South Korea,Kang-In Lee,70.18852285845303,114.2,56.1,0,0,1,0,0,0,0,0,Midfielder,0
+2f8589c2-7e7a-4e97-bba7-dd71c4725d11,South Korea,Jin-Su Kim,51.05898772397833,112.0,30.1,0,0,1,1,0,0,0,0,Defender,0
+06da399b-a0e2-45b4-a4cd-6c687963c894,Ghana,Salis Abdul Samed,0.2397298960808557,96.1,40.1,0,0,1,1,0,0,0,0,Midfielder,0
+79c3f7e9-3683-4b39-8471-fa40c2de1e31,South Korea,Jin-Su Kim,53.29714496983688,107.7,23.5,0,0,1,0,0,0,0,0,Defender,0
+235d712d-76cb-4bd7-a2b4-f4d272da294c,South Korea,Jin-Su Kim,40.36453657309735,112.0,33.2,1,0,0,0,0,0,0,0,Defender,0
+b54bf303-b0c8-49cf-b823-c1c665c28526,South Korea,Heung-Min Son,47.875453683985235,109.6,28.5,0,0,1,0,0,0,0,0,Forward,0
+4d5a5da9-998a-493a-b93e-194f6e718aab,South Korea,Young-Gwon Kim,8.325650330426829,103.6,37.6,0,0,1,0,0,0,0,0,Defender,0
+93eb5f2c-6db5-4faa-895b-32be4135d95d,South Korea,Sang-Ho Na,53.03165609448373,113.0,49.3,1,0,0,0,0,0,0,0,Forward,0
+04d0281b-f743-4750-9e48-abcb36029bd8,South Korea,Gue-Sung Cho,63.570720558155614,111.6,23.1,0,0,1,1,0,0,0,0,Forward,0
+15bb181c-8e19-4503-a489-9bee333b49c3,South Korea,Kang-In Lee,38.003903541724654,98.5,56.8,0,0,1,0,0,0,0,0,Midfielder,0
+e5d1f451-f518-486a-8e71-114f447f7768,South Korea,Kyung-Won Kwon,21.281051035100685,83.8,54.1,0,0,1,0,0,0,0,0,Defender,0
+0eb264ff-4e35-4c99-bdda-cd272488387e,Portugal,Otávio Edmilson da Silva Monteiro,13.690049617465517,96.6,34.3,0,0,1,1,0,0,0,0,Midfielder,0
+d9a47fa4-de84-4534-a737-a5e0936fab21,Portugal,Rúben Diogo Da Silva Neves,8.824784209109016,98.1,36.6,0,0,1,1,0,0,0,0,Midfielder,0
+d4790666-5519-4e48-b4b1-ac46fe63c948,Portugal,Cristiano Ronaldo dos Santos Aveiro,3.7213132647497478,107.7,39.2,0,0,1,0,0,0,0,1,Forward,0
+8732f5bc-73e4-4cb4-8d3e-1e1bd9a50b86,Portugal,Cristiano Ronaldo dos Santos Aveiro,45.0,116.3,43.7,1,0,0,0,0,0,0,0,Forward,0
+8f7d71af-a025-41b0-9529-b6069d8357e5,Portugal,João Félix Sequeira,15.561510325328486,104.2,35.6,0,0,1,1,0,0,0,0,Forward,0
+cb6cb616-b038-43be-8994-d7176c67f0f4,Portugal,Otávio Edmilson da Silva Monteiro,20.46227152342221,99.9,32.5,0,0,1,0,0,0,0,0,Midfielder,0
+b3512ab5-27a9-44e8-9b60-1bef7b236974,Portugal,Cristiano Ronaldo dos Santos Aveiro,56.13282089127413,110.0,25.1,0,0,1,1,0,0,0,0,Forward,0
+215ff04b-e83e-426f-bee2-0470aaf6af1d,Ghana,Alidu Seidu,7.666804261814182,88.8,44.2,0,0,1,1,0,0,0,0,Defender,0
+d6db8543-eed5-4dda-8595-c2c9613e85af,Ghana,Mohammed Kudus,18.37149837320884,92.9,31.0,0,0,1,0,0,0,0,0,Midfielder,0
+8d8442fe-56f9-403a-b0d3-921758e737c6,Ghana,Iñaki Williams Arthuer,14.176102700751656,91.1,47.3,0,0,1,0,0,0,0,0,Forward,0
+843910e2-6450-464d-98d6-55633d72e544,Ghana,Thomas Teye Partey,24.3657032864406,92.4,52.5,1,0,1,0,0,0,0,0,Midfielder,0
+4cb7bf1d-52e8-4ffd-b185-96c224311a3f,Ghana,Mohammed Kudus,10.667036517794418,90.8,34.5,0,0,1,0,0,0,0,0,Midfielder,0
+da090c7c-e615-4e19-a008-15cb1d273129,Ghana,André Ayew Pelé,2.6025622024998394,115.6,39.8,0,0,1,1,0,0,0,0,Forward,1
+8e05b94e-2f66-458e-969a-ce5557680ac4,Portugal,João Félix Sequeira,45.228268830153425,107.5,52.6,0,0,1,0,0,0,0,1,Forward,1
+6169fc40-7c74-4aa3-948c-b7314c916e85,Portugal,Rafael Alexandre Conceição Leão,54.64804531609816,111.7,28.3,0,0,1,1,0,0,0,0,Forward,1
+f1e14792-9c0e-4379-964b-b029d94bd3f5,Ghana,Osman Bukari,1.7623910236605378,113.5,40.2,0,0,0,0,0,0,0,0,Forward,1
+b7815df1-4794-4c53-a8cd-a7e12bc848d3,Ghana,Mohamed Salisu,35.661605023764025,106.9,30.6,1,0,0,0,0,0,0,0,Defender,0
+9a18e297-f5d8-4a36-b173-803d4d7634a9,Portugal,Rafael Alexandre Conceição Leão,22.403655485578064,95.5,29.9,0,0,1,0,0,0,0,0,Forward,0
+0f90a783-5bf4-473b-aa6f-4763360691e8,Ghana,Osman Bukari,58.63814985608646,103.3,12.6,0,0,1,0,0,0,0,0,Midfielder,0
+ac1e4f3b-8eca-4767-ab93-cb976668bed1,Saudi Arabia,Mohammed Al Burayk,28.15619144827257,91.6,24.8,0,0,1,0,0,0,0,0,Defender,0
+778d8bce-d73d-40e8-b8b3-be21681d9ceb,Saudi Arabia,Mohammed Kanoo,45.0,105.5,54.5,0,0,1,1,0,0,0,0,Midfielder,0
+f2776da6-1f14-4a96-a1be-49a2b4637e28,Poland,Krystian Bielik,4.820766078092678,111.7,39.3,1,0,0,0,0,0,0,0,Midfielder,0
+a88b2f82-922d-4d1d-b378-62b8fc5ea315,Saudi Arabia,Saleh Khalid Al Shehri,23.498565675952097,108.5,45.0,0,0,0,0,0,0,0,0,Forward,0
+a770890c-7a52-447e-84a3-b7f80c9c1945,Poland,Piotr Zieliński,30.124317998361235,111.9,44.7,0,0,1,1,0,0,0,0,Midfielder,1
+c1d15582-6b8a-427c-91ff-22ed421323e2,Poland,Robert Lewandowski,69.00400764811764,112.9,58.5,0,0,1,0,0,0,0,1,Forward,0
+3414bdf4-e20c-4eba-acaa-b45aaca50753,Saudi Arabia,Mohammed Al Burayk,44.20427644726074,112.7,32.9,0,0,1,1,0,0,0,0,Defender,0
+3dbc8916-2a05-4f1e-98b2-35c09c4ccc8e,Saudi Arabia,Saud Abdullah Abdul Hamid,24.44395478041654,85.9,24.5,0,0,1,0,0,0,0,0,Defender,0
+72e8c103-2a49-41b2-8883-93d0d416b611,Saudi Arabia,Mohammed Kanoo,2.5367617381599947,104.2,39.3,0,0,1,1,0,0,0,0,Midfielder,0
+3be9990a-d1ed-4203-bb47-e6860b303308,Saudi Arabia,Salem Mohammed Al Dawsari,39.40066066347943,97.6,21.6,0,0,1,0,0,0,0,0,Forward,0
+d8c0890b-f8a9-4235-9ad0-5de18e26652e,Saudi Arabia,Salem Mohammed Al Dawsari,35.837652954278255,114.6,36.1,0,0,1,0,0,0,0,0,Forward,0
+62eba597-6ce2-49af-a6a4-38d1d0d69ef8,Saudi Arabia,Abdulelah Saad Hameed Al-Malki,0.0,97.0,40.0,0,0,1,1,0,0,0,0,Midfielder,0
+6c1aa8c0-fa97-48e5-ab74-e3bb8ce5874b,Saudi Arabia,Firas Tariq Nasser Al Albirakan,60.40342496246965,112.9,27.5,1,0,1,0,0,0,0,1,Forward,0
+d11c322d-1909-4f5e-8d12-2dbefc62017b,Saudi Arabia,Mohammed Kanoo,36.507270971881496,107.3,49.4,0,0,1,1,0,0,0,0,Midfielder,0
+c38abd12-efc5-400a-b01c-845661c5f979,Poland,Arkadiusz Milik,7.594643368591463,111.0,38.8,0,0,0,0,0,0,0,0,Midfielder,0
+4fa5e43c-2413-47e0-b762-9432312d8cb3,Poland,Robert Lewandowski,41.922544600575584,115.1,44.4,0,1,0,0,0,0,0,0,Forward,0
+c14feb19-6592-4f77-a6ca-84a7cedc90c5,Saudi Arabia,Salem Mohammed Al Dawsari,13.5859912078889,96.0,34.2,0,0,1,0,0,0,0,0,Forward,0
+2d0d8bd8-3bf6-4482-b2ab-4b352759a213,Poland,Robert Lewandowski,35.323728900227735,107.3,49.0,0,0,1,1,0,0,0,0,Forward,0
+f2b61db4-0072-4212-877e-3d606e3aee49,Saudi Arabia,Abdulelah Saad Hameed Al-Malki,17.509244790257654,103.2,34.7,0,0,1,1,0,0,0,0,Midfielder,0
+95ac1263-2d99-4d53-8328-b6d93a689a97,Poland,Krzysztof Piątek,6.340191745909906,107.4,41.4,1,0,0,0,0,0,0,0,Forward,0
+299e11f7-6d81-48be-8aa8-110001a19c7a,Poland,Robert Lewandowski,19.76716867679166,107.2,44.6,0,0,1,0,0,0,0,1,Forward,1
+5049fb5e-0e08-45d9-8572-6c0cb158e644,Saudi Arabia,Abdulrahman Al-Obood,76.2930389959202,118.0,48.2,1,0,0,0,0,0,0,0,Forward,0
+54386cbe-67ba-40f4-873f-d7bc7c2d99ab,Poland,Robert Lewandowski,38.72892255049888,109.9,48.1,0,0,1,0,0,0,0,1,Forward,0
+38a464fb-b831-4da2-9fcf-12782e9c4b33,Saudi Arabia,Mohammed Kanoo,16.03726505711444,95.3,32.9,0,0,1,0,0,0,0,0,Midfielder,0
+a99277bf-edb9-456c-a50f-2c504fd2b44d,Croatia,Ivan Perišić,43.45184230102204,102.9,23.8,0,0,1,0,0,0,0,0,Forward,0
+55ff112c-1b1a-4422-a28a-025d4a164c8c,Belgium,Yannick Ferreira Carrasco,39.69036525654644,105.3,27.8,0,0,1,0,0,0,0,0,Forward,0
+980de4ce-fc7c-4e3d-a94e-ea2ddfe7bf36,Belgium,Yannick Ferreira Carrasco,74.47588900324574,117.0,29.2,0,0,1,0,0,0,0,0,Forward,0
+cdf71fe2-305e-4d83-a897-b89ba190f161,Belgium,Dries Mertens,22.39960354577814,105.2,33.9,1,0,1,1,0,0,0,0,Midfielder,0
+d2aed85c-399d-455e-b77a-b85647d74a86,Belgium,Axel Witsel,10.581635520943795,92.7,34.9,0,0,1,0,0,0,0,0,Midfielder,0
+0af7aefd-3cb2-4366-bb18-9173773a48ea,Croatia,Marcelo Brozović,9.55428967240176,99.8,36.6,0,0,1,0,0,0,0,0,Midfielder,0
+68be52d9-ea37-4a5f-80b5-277aa41bd007,Croatia,Marko Livaja,17.771320822908766,112.2,42.5,1,0,0,0,0,0,0,0,Forward,0
+491cfea4-fe4e-4202-a752-cf96efa65639,Belgium,Dries Mertens,71.37842063351246,116.9,49.2,0,0,1,1,0,0,0,0,Midfielder,0
+bc35ed4a-6309-429a-b4d5-39e9010e9e19,Croatia,Borna Sosa,29.67107827269443,94.9,25.7,0,0,1,0,0,0,0,0,Defender,0
+47e53b17-6596-450e-bec6-69e329dc7149,Croatia,Ivan Perišić,9.865806943084367,108.5,38.0,0,0,0,0,0,0,0,0,Forward,0
+918ebcc0-4077-4705-9d0a-2129ba9e9144,Croatia,Josip Juranović,34.23424445525708,103.1,51.5,0,0,1,1,0,0,0,0,Defender,0
+aeef15a0-b153-4aca-91e6-c6e83c1530bd,Belgium,Yannick Ferreira Carrasco,31.49019604671862,100.9,28.3,0,0,1,1,0,0,0,0,Forward,0
+3cb38e1b-9bf4-4f05-8970-7a0fc0e388a9,Belgium,Romelu Lukaku Menama,66.68229161324493,117.5,34.2,1,0,0,0,0,0,0,0,Forward,0
+330c4bda-8201-44b7-a9d6-bff143cbb977,Croatia,Mateo Kovačić,33.85400350068813,103.9,29.2,0,0,1,0,0,0,0,0,Midfielder,0
+00ec6610-26c0-4c9f-b2bd-cf5b38a60279,Croatia,Borna Sosa,10.523911642047295,94.7,35.3,0,0,1,0,0,0,0,0,Defender,0
+ddde50fb-2c26-4d59-9451-d138f860c761,Belgium,Kevin De Bruyne,21.438454652228977,100.9,32.5,1,0,1,0,0,0,0,0,Forward,0
+43e1bad6-24d1-4666-916d-91ff7a008bc7,Croatia,Marcelo Brozović,6.761238510037213,100.6,37.7,1,0,1,1,0,0,0,0,Midfielder,0
+6a662e70-f63f-42f5-af03-5ae0574a8036,Croatia,Luka Modrić,41.85504253530197,105.6,52.9,1,0,1,0,0,0,0,0,Midfielder,0
+12292c85-87cc-4535-bdfc-a127314bc9da,Belgium,Yannick Ferreira Carrasco,27.19812794850913,112.8,36.3,0,0,1,0,0,0,0,0,Forward,0
+5e3f741f-2e27-4c21-b660-d4c48f2612c2,Belgium,Romelu Lukaku Menama,28.739795291688058,110.7,45.1,1,0,1,1,0,0,0,0,Forward,0
+f2086f25-5945-45fb-b1b6-dccab0cd795f,Belgium,Romelu Lukaku Menama,16.927513064147043,113.1,42.1,0,0,0,0,0,0,0,0,Forward,0
+7659581a-902e-4581-9322-246d8b12f51b,Croatia,Luka Modrić,4.29986282019207,106.7,39.0,0,0,1,0,0,0,0,0,Midfielder,0
+d0ea7d02-86cd-4b8c-ae9d-24f5562eb24b,Belgium,Kevin De Bruyne,68.34401096157752,111.9,60.4,1,0,1,1,0,0,0,0,Forward,0
+c673d328-16e7-4b64-9528-e5a08bd3a6ea,Belgium,Jan Vertonghen,25.31288380187412,112.6,36.5,1,0,0,0,0,0,0,0,Defender,0
+fb3fe102-ba2e-4774-9e34-7bfb0afb5050,Belgium,Thomas Meunier,54.050721677183724,110.5,53.1,0,0,1,1,0,0,0,0,Defender,0
+a9746ed9-01df-4831-8d85-7e2d0dca53be,Belgium,Romelu Lukaku Menama,40.179233921907326,115.5,43.8,0,0,1,0,0,0,0,0,Forward,0
+5429bff3-00ee-4a2f-adf8-bc1786d021b7,Belgium,Romelu Lukaku Menama,46.08092418666079,117.4,37.3,0,1,0,0,0,0,0,0,Forward,0
+b39d1fc7-9900-418d-9c8d-57eed5a69ca8,Ghana,Jordan Ayew,10.581635520943786,101.8,36.6,1,0,1,0,0,0,0,0,Forward,0
+6a305815-b3ba-4a49-86fc-932d78a8b6ff,Uruguay,Darwin Gabriel Núñez Ribeiro,39.80557109226519,106.8,29.0,0,0,1,1,0,0,0,0,Forward,0
+8c2acbe1-dd20-4109-b0ba-d4e00b7d2b79,Uruguay,Luis Alberto Suárez Díaz,30.06858282186244,108.6,33.4,0,0,1,0,0,0,0,0,Forward,0
+c0bf36b0-f215-4fac-8f2b-0bfe450b84b9,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,53.471144633014866,118.0,42.7,0,0,0,0,0,1,0,1,Midfielder,1
+f263c203-16c0-4b57-8e5c-31d647713341,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,43.726969979943284,110.8,31.2,1,0,1,1,0,0,0,0,Midfielder,1
+71321eb9-e32b-4f3f-9c66-d6939658a46a,Ghana,Mohammed Kudus,12.911891207597877,94.7,45.8,0,0,1,0,0,0,0,0,Forward,0
+3dc51866-6bf8-471b-ba05-faa571766b28,Uruguay,José María Giménez de Vargas,10.491477012331599,106.5,42.5,1,0,0,0,0,0,0,0,Defender,0
+f41ce6b4-0811-46ce-8cdd-874d2ecd4e67,Ghana,Osman Bukari,35.21759296819271,104.7,50.8,0,0,1,0,0,0,0,0,Forward,0
+47112b29-123f-4667-bbd9-b071d7cea097,Uruguay,Facundo Pellistri Rebollo,28.54619073104336,107.5,33.2,0,0,1,0,0,0,0,0,Midfielder,0
+c5ec3779-d653-4fe2-a290-3b444e68b5b7,Uruguay,Federico Santiago Valverde Dipetta,32.47119229084849,92.5,22.5,0,0,1,1,0,0,0,0,Midfielder,0
+095b17d1-9739-45b1-9a8e-ec842572c84e,Uruguay,Federico Santiago Valverde Dipetta,34.99202019855866,93.0,21.1,0,0,1,0,0,0,0,0,Midfielder,0
+092b56ea-a582-41dd-96fa-f8fce3e7a5fa,Ghana,Mohammed Kudus,16.50436138175503,95.7,47.2,0,0,1,0,0,0,0,0,Midfielder,0
+bd020554-5cae-4d48-af85-36429a7f95a8,Uruguay,Federico Santiago Valverde Dipetta,30.54757174890702,59.0,4.0,0,0,1,0,0,0,0,0,Midfielder,0
+1bcd4e6c-ad42-4ed1-8d2e-b04491171b31,Ghana,Antoine Semenyo,49.08561677997486,109.6,28.0,0,0,1,0,0,0,0,1,Forward,0
+4d7833de-1ebd-45df-8d7e-2fb94a1493f6,Ghana,Mohammed Kudus,6.881723630636942,96.8,42.8,0,0,1,0,0,0,0,0,Midfielder,0
+700a459e-41c8-4bc7-bbee-1e78270fdfca,Ghana,Mohammed Kudus,16.69924423399363,108.0,43.6,0,0,1,0,0,0,0,0,Midfielder,0
+033f5d65-1c0b-4fa3-bc3d-fdf4e81b88cf,Uruguay,Maximiliano Gómez González,19.195467600052876,93.0,49.4,0,0,1,0,0,0,0,0,Forward,0
+01abcd99-4995-4f6f-8193-80f4c441dab1,Ghana,Kamaldeen Sulemana,27.342271827956182,99.5,50.6,0,0,1,0,0,0,0,0,Forward,0
+a355f5af-16de-44d3-b89a-14973e536ecb,Uruguay,Sebastián Coates Nión,14.995079129175982,108.8,43.0,0,0,1,1,0,0,0,0,Defender,0
+a62055b5-20d9-4956-ab7d-57ad2cd35bfb,Germany,Jamal Musiala,26.789299658301694,99.6,29.7,0,0,1,0,0,0,0,0,Midfielder,0
+78372db3-4438-40e3-82a8-65007d636ab4,Germany,Leon Goretzka,37.30394827798342,109.5,48.0,0,0,1,1,0,0,0,0,Midfielder,0
+8f0e410c-10ab-4172-a297-b46a4e3d97e8,Germany,Thomas Müller,11.496563017585776,108.2,42.4,0,0,0,0,0,0,0,1,Forward,0
+9938914f-f9a8-4135-ba68-38e92b8664a9,Germany,Serge Gnabry,40.42607874009916,111.9,33.1,0,0,0,0,0,0,0,0,Forward,1
+aca4e45f-79b2-4ac9-a973-73e5c5cd84c1,Germany,Leon Goretzka,31.328692867804165,113.1,35.8,0,0,0,0,0,0,0,1,Midfielder,0
+8375dd37-36b6-48d3-8448-8c7451922028,Germany,Thomas Müller,7.460566126168356,111.6,41.1,1,0,0,0,0,0,0,0,Forward,0
+f5141542-f8c9-4997-87c5-f3ba57c54579,Germany,Serge Gnabry,31.58589750386673,105.2,30.9,0,0,1,0,0,0,0,0,Forward,0
+d9d27d20-35bc-42bc-ac53-059ad519f781,Germany,Joshua Kimmich,29.789573783597895,92.4,55.8,0,0,1,0,0,0,0,0,Defender,0
+25e917e4-f8e5-4c8b-939e-ac930bac13df,Germany,Jamal Musiala,24.111019502550917,105.7,33.6,0,0,1,0,0,0,0,0,Midfielder,0
+fef49dbd-d994-4012-ab32-8d15c03b9ad3,Germany,Serge Gnabry,39.22051417484411,106.4,28.9,0,0,1,0,0,0,0,0,Forward,0
+362a32de-b8db-42c0-aea0-57c3b9e9fbd9,Costa Rica,Keysher Fuller Spence,41.15396990995262,107.3,51.1,0,0,1,0,0,0,0,1,Defender,0
+38d2ee87-251b-452e-a392-332deda57fae,Germany,Leroy Sané,19.94030056833038,98.5,47.8,1,0,1,0,0,0,0,0,Forward,0
+42025678-555a-4e3e-83b5-9f8e85cee7c9,Germany,Leroy Sané,12.380756928807177,99.5,44.5,0,0,1,0,0,0,0,0,Forward,0
+62f3ac90-d926-403f-bc4e-7b75151f7cf1,Costa Rica,Keysher Fuller Spence,52.56532106843231,108.9,54.5,0,0,1,1,0,0,0,0,Forward,0
+bf0a4857-9ca5-4d95-9ea1-3cb79efb0333,Costa Rica,Yeltsin Ignacio Tejeda Valverde,21.323231230098433,97.2,48.9,1,0,1,0,0,0,0,0,Midfielder,0
+47554bde-0f82-45e1-8f4a-efe038f1797e,Germany,Serge Gnabry,34.166953608029324,100.7,26.9,0,0,1,1,0,0,0,0,Midfielder,0
+86002220-9b70-4037-ad7c-272980f643d3,Germany,Leroy Sané,0.7902365024291848,91.0,39.6,0,0,1,0,0,0,0,0,Midfielder,0
+2d25205d-39c6-4b4f-9593-c31b3368588c,Costa Rica,Kendall Jamaal Waston Manley,25.94229548987168,108.9,45.4,0,0,0,0,0,0,0,0,Defender,0
+7ac1dc70-2b10-4346-967a-cf3e9200640b,Costa Rica,Yeltsin Ignacio Tejeda Valverde,18.434948822921992,114.3,38.1,0,0,1,1,0,0,0,0,Midfielder,1
+bdd22ef3-9119-4e9a-a8a2-4cb420cb61c2,Germany,Jamal Musiala,52.57615489568909,111.2,28.5,0,0,1,0,0,0,0,0,Midfielder,0
+3f07c0f9-13e7-48cf-b703-1f1b16642ed3,Germany,Jamal Musiala,72.37770277133171,117.3,31.5,0,0,1,1,0,0,0,0,Midfielder,0
+69067c60-66ae-4544-9ced-17eb410f56f9,Germany,Thomas Müller,27.7240562359714,106.3,47.2,0,0,1,0,0,0,0,0,Forward,0
+e526ef0e-05b8-4d93-b032-0719ce696e88,Germany,Antonio Rüdiger,37.366669412768715,114.5,44.2,1,0,1,1,0,0,0,0,Defender,0
+14ca6bba-9015-4312-97ff-de53b5475d5d,Germany,Jamal Musiala,32.5857073539144,100.6,27.6,0,0,1,0,0,0,0,0,Midfielder,0
+34dd3f72-f2c1-4450-ac06-6e4efe12307d,Germany,Kai Havertz,21.097949588989145,107.3,35.1,0,0,1,0,0,0,0,0,Forward,0
+3659f034-451c-4b78-b7cd-def5a2826d3b,Costa Rica,Juan Pablo Vargas Campos,38.48019824834299,116.1,43.1,0,0,1,1,0,0,0,0,Defender,0
+c4228b37-0848-4956-88be-b9de989cdb03,Germany,Kai Havertz,13.657642505812156,109.3,42.6,0,0,1,0,0,0,0,0,Forward,1
+630893bf-cb2c-4855-be03-859b0b0a4937,Germany,Kai Havertz,13.091893064346845,102.8,36.0,0,0,1,1,0,0,0,0,Forward,0
+b3eec692-da70-491a-862d-408f9f445f1c,Germany,Niclas Füllkrug,43.78112476486873,115.2,44.6,0,0,1,1,0,0,0,0,Forward,0
+a68980fa-5327-4868-9a62-e12f17f782f5,Costa Rica,Jewison Bennette,14.036243467926479,94.4,46.4,0,0,1,0,0,0,0,0,Forward,0
+a1c67dba-bec2-42b9-9992-46c5a7bc55b6,Germany,Jamal Musiala,30.854204505897002,104.6,30.8,0,0,1,0,0,0,0,0,Midfielder,0
+6b2b4586-0a6d-4d37-ae80-1172a369d697,Germany,Kai Havertz,19.179008025810695,113.1,37.6,0,0,1,1,0,0,0,0,Forward,1
+7a33ff86-ac3f-43e1-bfe8-51c834413e8d,Germany,Kai Havertz,53.55555824341291,110.4,27.0,0,0,1,0,0,0,0,1,Forward,0
+fb3450e4-055a-4918-bf54-118c436e826f,Germany,Mario Götze,15.478638165418365,107.0,43.6,0,0,0,0,0,0,0,0,Midfielder,0
+0c72151d-e421-44a1-8e71-d440e2337535,Germany,Niclas Füllkrug,25.676815681838207,114.8,42.5,0,0,1,1,0,0,0,0,Forward,1
+ffec1808-4db2-49f2-8dcd-6ab8f139b581,Germany,Niclas Füllkrug,2.7263109939062606,101.1,39.1,0,0,1,0,0,0,0,0,Forward,0
+7029f380-30ac-4dd8-9968-a0484377b231,Germany,Niclas Füllkrug,73.95099520746685,117.9,32.7,0,0,0,0,0,0,0,1,Forward,0
+804fe5e9-af7a-42c9-b6c4-b52b4bfba9d6,Germany,Jamal Musiala,1.3748347805693921,107.5,40.3,0,0,1,0,1,0,0,0,Midfielder,0
+75ab78df-2785-4410-89c5-75e8d8d0fcd4,Spain,Daniel Olmo Carvajal,37.822754149145,112.4,45.9,0,0,1,1,0,0,0,0,Forward,0
+f4bee231-5e53-46e4-88fc-e4eb9f2455be,Spain,Marco Asensio Willemsen,2.290610042638539,102.5,40.7,0,0,1,1,0,0,0,0,Forward,0
+57acf951-0809-4c02-a42b-55f34525e7da,Spain,Daniel Olmo Carvajal,5.194428907734825,112.3,39.3,0,0,1,0,0,0,0,1,Forward,1
+a2c90787-3454-4725-92d9-c460eb535a89,Spain,Marco Asensio Willemsen,24.928474135461272,105.8,33.4,0,0,1,1,0,0,0,0,Forward,1
+f684c913-6b17-4712-90d6-e1005873dd0f,Spain,Marco Asensio Willemsen,19.82038108747475,91.7,29.8,0,0,1,0,0,0,0,0,Forward,0
+9901fe1e-3ed3-4562-9290-d6493a91a0ab,Spain,Marco Asensio Willemsen,45.0,110.5,30.5,0,0,1,0,0,0,0,0,Forward,0
+35384252-3322-4dac-b9f8-4c43ce5eddae,Spain,Marco Asensio Willemsen,16.294047456598918,100.5,45.7,0,0,1,0,0,0,0,0,Forward,0
+0e31875e-9cb0-44e3-8e33-16fd11c1bae9,Spain,Ferrán Torres García,60.58440116690446,114.7,49.4,0,0,1,0,0,0,0,0,Forward,1
+1f979760-5f65-4273-9ce9-142b9ba7bcf9,Spain,Daniel Olmo Carvajal,27.054050224265712,92.0,25.7,0,0,1,0,0,0,0,0,Forward,0
+b0e5d9c5-12bb-48f1-9064-d78db7db1747,Spain,Álvaro Borja Morata Martín,60.25511870305778,112.0,54.0,0,0,1,0,0,0,0,1,Forward,0
+dc7742fa-c8ec-4649-9308-023c034b81a0,Spain,Daniel Olmo Carvajal,47.806370251788245,110.3,29.3,0,0,0,0,0,0,0,0,Forward,0
+328a4296-e2a8-4d85-bd48-b391ec5dd4e4,Spain,Pablo Martín Páez Gavira,18.838433557980753,103.0,45.8,0,0,1,1,0,0,0,0,Midfielder,1
+4e11e511-7306-4739-b23d-0ced64f232df,Spain,Carlos Soler Barragán,0.5562522270806806,109.7,40.1,0,0,1,1,0,0,0,0,Midfielder,1
+2ba5a55b-168e-4168-b808-3903f9f842a1,Spain,Álvaro Borja Morata Martín,12.680383491819825,104.0,36.4,0,0,1,1,0,0,0,0,Forward,1
+d552f2f3-b14f-462f-895a-fb7f7c8474cd,Spain,Carlos Soler Barragán,8.130102354155978,102.5,42.5,0,0,1,1,0,0,0,0,Midfielder,0
+f06f2384-bd6b-426e-9fb2-285f2b9d6177,Cameroon,Bryan Mbeumo,58.503500093749885,109.4,22.7,0,0,1,1,0,0,0,0,Forward,0
+ae44daa7-14aa-41b9-97f1-73c54adc025f,Cameroon,Karl Brillant Toko Ekambi,34.95797636447049,108.7,32.1,0,0,1,1,0,0,0,0,Forward,0
+8fe2a5f8-2fad-4906-9db3-4a23452f1a23,Switzerland,Granit Xhaka,20.299734082261015,88.1,28.2,0,0,1,0,0,0,0,0,Midfielder,0
+1d924123-0dea-4f47-846d-dc60efe4496d,Cameroon,Ngoran Suiru Fai Collins,43.044318602477105,98.8,59.8,0,0,1,0,0,0,0,0,Defender,0
+c1eaec76-1020-4894-8acd-4e3ff266a992,Cameroon,Martin Hongla Yma II,55.73889710090542,110.6,53.8,1,0,1,0,0,0,0,1,Midfielder,0
+92b60aea-0f10-4afe-935c-da6193405418,Switzerland,Nico Elvedi,10.980650010173516,113.3,38.7,1,0,0,0,0,0,0,0,Defender,0
+4663bfd8-70b6-4d09-9099-8bc3e5d7e2e5,Cameroon,Jean-Eric Maxim Choupo-Moting,42.369887336642414,105.2,53.5,0,0,1,0,0,0,0,0,Forward,0
+43d5ebc7-12d0-4862-8bd6-30828e21ed19,Switzerland,Manuel Obafemi Akanji,13.781597235653603,114.7,38.7,0,0,0,0,0,0,0,0,Defender,0
+289a2e06-0846-4e2e-bbbd-b25663eac17b,Switzerland,Breel-Donald Embolo,3.5322945838908897,111.9,39.5,1,0,1,1,0,0,0,0,Forward,1
+2e0856e5-b81c-4452-8fcd-f737f49494e0,Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,51.483073692897186,116.1,35.1,0,0,0,0,0,0,0,0,Defender,0
+503b6ee8-3178-47e4-8b0e-7e031b7a8b8e,Cameroon,Jean-Eric Maxim Choupo-Moting,84.21760767763598,119.2,47.9,0,0,1,0,0,0,0,0,Forward,0
+bc1f3a08-2d03-443b-8e3b-f2e8a2a4cb59,Cameroon,André-Frank Zambo Anguissa,18.983217059226195,107.5,44.3,1,0,0,0,0,0,0,0,Midfielder,0
+b6f7ecbb-b8d4-4fc0-a984-6923f31fb17b,Switzerland,Ruben Vargas,8.194263334630199,107.5,41.8,0,0,1,1,0,0,0,0,Forward,0
+8dabc6e4-04c9-4a1f-9ac4-2a93dfc6466a,Switzerland,Granit Xhaka,6.472270302903078,96.2,37.3,0,0,1,0,0,0,0,0,Midfielder,0
+48799626-2666-45ad-9609-4fd05a7615a9,Switzerland,Haris Seferović,25.796026494499937,108.0,45.8,0,0,1,0,0,0,0,0,Forward,0
+1f579270-496e-40d5-954d-b9f6c575daf5,Senegal,Boulaye Dia,44.778781873335134,107.0,27.1,0,0,1,0,0,0,0,0,Forward,0
+c0978290-0e66-4acf-aa35-2599358fe60f,Netherlands,Vincent Janssen,18.741340445192733,103.2,34.3,0,0,1,1,0,0,0,0,Forward,0
+b925a2df-a747-4049-ba0f-08571a718fb3,Senegal,Ismaïla Sarr,10.327253890194283,97.5,44.1,1,0,1,0,0,0,0,0,Forward,0
+03bc5ea5-eaf7-4ee5-aa5c-82eb39551452,Netherlands,Daley Blind,44.59933674420785,112.8,32.9,1,0,0,0,0,0,0,0,Defender,0
+fdfab493-445c-4460-9ac5-7b4aaba2bcbd,Netherlands,Vincent Janssen,11.208344318926494,98.3,44.3,1,0,1,0,0,0,0,0,Forward,0
+ea60b4cb-2000-455d-9a59-f8108e2e428c,Senegal,Ismaïla Sarr,39.18102909860543,102.7,25.9,0,0,1,0,0,0,0,0,Forward,0
+c9bb0ab0-5085-4f55-b2f8-5a6e899a4c1e,Netherlands,Virgil van Dijk,10.684912400002723,109.4,38.0,1,0,0,0,0,0,0,0,Defender,0
+309ec0bf-70b9-4522-b11b-4abe131368a1,Senegal,Idrissa Gana Gueye,23.739440838028187,100.9,48.4,0,0,1,0,0,0,0,0,Midfielder,0
+d214487d-ed3f-483e-bc75-4cb29d718488,Senegal,Krépin Diatta,39.692673150668824,100.0,56.6,0,0,1,0,0,0,0,0,Forward,0
+8f08f937-4460-4a3a-9b10-7d11cdea61bd,Senegal,Youssouf Sabaly,21.63330499214716,84.7,54.0,0,0,1,0,0,0,0,0,Defender,0
+1206137b-c14e-46a4-9a3f-4714e93798c4,Netherlands,Steven Berghuis,17.753789349281856,97.2,47.3,0,0,1,0,0,0,0,0,Midfielder,0
+e7e80f93-6d9a-49f5-9f8e-3d657cac0d64,Netherlands,Virgil van Dijk,1.287328941525056,111.1,40.2,1,0,0,0,0,0,0,0,Defender,0
+638637e3-a24c-4f70-9db5-db8e1610e13f,Senegal,Youssouf Sabaly,37.77181009002217,96.9,57.9,0,0,1,0,0,0,0,0,Defender,0
+719856a5-217d-47e5-8414-17732efb627d,Senegal,Krépin Diatta,65.43282867939871,115.2,50.5,0,0,1,1,0,0,0,0,Forward,0
+dbe3b046-c180-4023-a741-19762acb5aa3,Netherlands,Steven Berghuis,16.25129678246441,95.3,32.8,0,0,1,0,0,0,0,0,Midfielder,0
+5724c49f-78f1-4e20-b10e-de9d519fe734,Senegal,Boulaye Dia,53.07458320533761,107.6,56.5,0,0,1,1,0,0,0,0,Forward,0
+2291e459-c212-42d9-a2d9-b508253f06f9,Senegal,Idrissa Gana Gueye,1.37209164946061,103.3,40.4,1,0,1,0,0,0,0,0,Midfielder,0
+fbd026bc-73f1-4a17-804c-5356d8ef1008,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,27.863725496424014,104.3,31.7,0,0,1,1,0,0,0,0,Forward,0
+b430492f-24ae-450e-9875-9be78f686048,Senegal,Ismaïla Sarr,3.945186229037571,111.3,40.6,1,0,0,0,0,0,0,0,Forward,0
+bd780a7f-764f-48f4-9123-ee54cc2ee39c,Netherlands,Cody Mathès Gakpo,7.399594659887108,112.3,39.0,0,0,0,0,0,0,0,1,Forward,1
+b2a6573d-2a9a-4f54-a67e-a908cb0824b4,Senegal,Pape Gueye,32.668860534011934,93.8,56.8,0,0,1,0,0,0,0,0,Midfielder,0
+290d4d7b-9f48-4ed5-9384-ab4b65ac276a,Senegal,Ismail Jakobs,23.317708386755065,91.0,27.5,0,0,1,1,0,0,0,0,Defender,0
+6cb6ed34-8b02-47a1-9f43-925e971645c5,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,30.84658741214857,112.8,35.7,0,0,0,0,0,0,0,1,Forward,0
+411e11a1-10a0-4fb5-842c-4b115df49259,Netherlands,Memphis Depay,28.246205690918067,101.2,50.1,0,0,1,0,0,0,0,0,Forward,0
+d7211b43-7e10-454b-98b7-1a35756c8d7e,Netherlands,Davy Klaassen,26.346366057655025,109.5,34.8,0,0,1,1,0,0,0,0,Midfielder,1
+70765ee8-08bb-4f8f-90b9-9c46f413aba6,Canada,Alphonso Davies,19.09349200048561,109.6,36.4,1,0,0,0,0,0,0,1,Midfielder,1
+f7e73184-89e9-46b3-9f84-6ca8794fbd51,Croatia,Marko Livaja,16.949224233821454,109.5,36.8,0,0,1,1,0,0,0,0,Forward,0
+236b6bd2-c5c0-4a4b-ba60-f15902a072fe,Croatia,Marko Livaja,44.714948722416196,109.9,50.0,0,0,1,0,0,0,0,1,Forward,0
+a2c0e75c-6847-4a72-9a0d-614723cba4f3,Croatia,Andrej Kramarić,60.89952258845654,114.1,29.4,0,0,1,1,0,0,0,0,Forward,1
+d288a565-5b29-4c09-abfa-eb00abaf784d,Croatia,Marko Livaja,2.71198346744494,101.0,39.1,0,0,1,0,0,0,0,0,Forward,1
+f605fdc9-6c28-413a-82b7-87e9c376df4d,Croatia,Andrej Kramarić,17.949402992913875,98.7,33.1,0,0,1,0,0,0,0,0,Forward,0
+a183d625-352a-496d-a01e-c615a4c557fb,Canada,Jonathan Osorio,24.95904818779574,98.3,50.1,0,0,1,0,0,0,0,0,Midfielder,0
+61d63e24-264e-47ca-a3a7-ee053677d1a7,Croatia,Andrej Kramarić,10.091057238888924,108.2,42.1,0,0,1,1,0,0,0,0,Forward,0
+1dedd8f5-e153-4353-a276-2998698ed990,Canada,Jonathan David,0.24277727376682637,96.4,39.9,0,0,1,1,0,0,0,0,Forward,0
+98cadf5b-eb06-4fe7-a6fa-a2013a97838b,Canada,Tajon Buchanan,32.562865459841696,99.8,52.9,0,0,1,0,0,0,0,0,Defender,0
+7eee068e-11fa-49a7-b319-9ca40b6f0181,Croatia,Andrej Kramarić,28.274865221219518,106.8,47.1,1,0,1,0,0,0,0,0,Forward,1
+2bac7758-257a-49e6-886f-e36b64bad1f3,Croatia,Andrej Kramarić,54.2239222821053,115.1,46.8,0,0,1,1,0,0,0,0,Forward,0
+8ff88427-c2f6-4c4d-8013-a1cde6ecea50,Canada,David Junior Hoilett,14.133190548862927,92.2,33.0,0,0,1,0,0,0,0,0,Midfielder,0
+6fb337e8-dd5d-4493-ab94-f98ec9d65ad3,Croatia,Ivan Perišić,70.2630985044991,115.3,26.9,0,0,1,0,0,0,0,1,Forward,0
+f3474188-b209-4d90-96b5-c16bce77f446,Croatia,Marcelo Brozović,15.004920382860227,110.3,42.6,0,0,1,1,0,0,0,0,Midfielder,0
+c54e891f-b8cd-473f-a686-b4dcf7a045d1,Croatia,Ivan Perišić,29.719165060108445,96.0,26.3,0,0,1,0,0,0,0,0,Forward,0
+b5b74056-255e-4d9c-865a-b52c3f6f8875,Croatia,Mislav Oršić,12.667874862062629,98.2,35.1,0,0,1,1,0,0,0,0,Forward,0
+1dc6c9ff-4d23-419d-95c9-f642fb5d0f30,Canada,David Junior Hoilett,16.531081003405674,98.1,33.5,0,0,1,1,0,0,0,0,Midfielder,0
+96fb57dc-f0a3-49b2-9c75-56902224fb01,Canada,David Junior Hoilett,32.974720390364666,99.5,26.7,0,0,1,0,0,0,0,0,Midfielder,0
+70efb09a-dc93-4479-89cf-ecd162d803bd,Croatia,Lovro Majer,26.56505117707799,109.2,45.4,0,0,1,1,0,0,0,0,Midfielder,1
+0abed12e-0df0-416d-b853-d434d5df2475,Brazil,Frederico Rodrigues Santos,7.062602670415767,108.7,38.6,0,0,1,1,0,0,0,0,Midfielder,0
+dc641c91-3ec9-4ad4-aedd-3846e310742b,Brazil,Antony Matheus dos Santos,40.9665889272298,103.3,25.5,0,0,1,0,0,0,0,0,Forward,0
+94b2be61-c666-4586-bf26-537a44b2c1bc,Brazil,Gabriel Teodoro Martinelli Silva,33.85101030355819,111.8,34.5,0,0,0,0,0,0,0,1,Forward,0
+7c9d018c-3924-4233-a8f7-472c8d3e53b8,Brazil,Gabriel Fernando de Jesus,53.44036527550665,113.4,48.9,0,0,0,0,0,0,0,0,Forward,0
+99ee81ba-71dc-4c47-a9ae-cb3025b24f43,Brazil,Frederico Rodrigues Santos,3.6913859864512606,107.6,39.2,0,0,1,1,0,0,0,0,Midfielder,0
+4d8cb662-fa2d-42e3-9806-b3aa05595b1e,Brazil,Antony Matheus dos Santos,40.502848385332214,105.6,52.3,0,0,1,0,0,0,0,0,Forward,0
+65d286da-c183-4e8b-97e9-0fbbf0b87c71,Brazil,Gabriel Teodoro Martinelli Silva,15.539912369633603,101.3,45.2,0,0,1,0,0,0,0,0,Forward,0
+f09a744d-2bde-4002-bac5-7a9016ea3a92,Brazil,Rodrygo Silva de Goes,39.340518159837515,107.8,50.0,1,0,1,1,0,0,0,0,Midfielder,0
+a333d6fe-7490-444b-a3c5-05d433ea9b74,Cameroon,Bryan Mbeumo,48.70462744207711,113.5,47.4,0,0,0,0,0,0,0,0,Midfielder,0
+11dff5b1-d0ad-4c97-a5cd-7b4a01bf6bed,Cameroon,Vincent Paté Aboubakar,53.13010235415598,109.5,54.0,0,0,1,1,0,0,0,0,Forward,0
+ce9a8ad8-6c78-4b3b-8f8f-aba1159bc9f7,Brazil,Gabriel Fernando de Jesus,24.550452389207454,111.9,36.3,0,0,1,1,0,0,0,0,Forward,0
+e16557ed-a522-4e47-a3a4-7b76e562b38b,Cameroon,Pierre Kunde Malong,38.21102542556121,91.8,17.8,0,0,1,0,0,0,0,0,Midfielder,0
+ddbe76f8-38a2-47ad-8ebb-8eb412fff1bc,Brazil,Gabriel Teodoro Martinelli Silva,52.18053549772018,108.9,25.7,0,0,1,0,0,0,0,0,Forward,0
+3e825c4d-96af-4375-b4fc-11559d86ff15,Brazil,Éder Gabriel Militão,3.115064759905481,105.3,39.2,0,0,1,0,0,0,0,0,Defender,0
+06de82c9-15cb-4a99-8bbc-da0a2d783299,Brazil,Antony Matheus dos Santos,30.518230678875238,101.0,51.2,0,0,1,0,0,0,0,0,Forward,0
+3325af88-9c62-4123-9235-b404fbce02ea,Brazil,Bruno Guimarães Rodriguez Moura,6.809050179613403,99.9,37.6,1,0,1,0,0,0,0,0,Midfielder,0
+c4a92f50-c491-4230-9c4b-e5bf28fb7e33,Cameroon,Jules Olivier Ntcham,9.393990958951068,92.8,35.5,0,0,1,0,0,0,0,0,Midfielder,0
+00465151-4b35-4bec-af1d-6663c9e86503,Cameroon,Vincent Paté Aboubakar,42.36324157385955,104.1,25.5,0,0,1,0,0,0,0,0,Forward,0
+6fa353f6-9611-4fa0-a4e3-aba1afddb112,Cameroon,Christopher Wooh,0.4182099414971026,106.3,39.9,0,0,1,1,0,0,0,0,Defender,0
+91be8ca6-9208-434c-b31a-0146af65cc8b,Brazil,Bruno Guimarães Rodriguez Moura,38.10757687751489,114.9,44.0,1,0,1,1,0,0,0,0,Midfielder,0
+16d4ea5e-9539-4474-aa33-348134fda6c1,Brazil,Pedro Guilherme Abreu dos Santos,24.19758170952047,104.2,47.1,1,0,1,0,0,0,0,0,Forward,0
+57c5911b-9d18-4c11-8975-c73e81ed0940,Cameroon,Vincent Paté Aboubakar,3.012787504183353,106.7,40.7,0,0,0,0,0,0,0,0,Forward,1
+55cf2692-7d95-48f9-a734-5612d2335f28,Brazil,Pedro Guilherme Abreu dos Santos,12.582962494076922,108.8,37.5,0,0,0,0,0,0,0,0,Forward,0
+6c11136b-2072-4964-aecb-e8bd784b14b8,Brazil,Bruno Guimarães Rodriguez Moura,1.6135389328812064,112.9,39.8,0,0,0,0,0,0,0,0,Midfielder,0
+79651205-84d6-45a4-bdfd-c3536e6407ab,Brazil,Gabriel Teodoro Martinelli Silva,39.22567409733669,115.1,36.0,0,0,0,0,0,0,0,0,Forward,0
+d919b8a6-5b86-4494-9de6-713d82197f07,Brazil,Bruno Guimarães Rodriguez Moura,38.541183621281334,114.1,35.3,0,0,1,1,0,0,0,0,Midfielder,0
+ae689327-02fd-48ca-9b36-cee4f2ebc4a1,France,Ousmane Dembélé,17.327921777241226,95.0,47.8,0,0,1,1,0,0,0,0,Forward,0
+41bfd8e2-a7dd-4775-b08e-5b6725676461,Australia,Riley McGree,1.6902046743213575,89.5,39.1,0,0,1,0,0,0,0,0,Midfielder,0
+ba50751b-2a8a-400c-97a5-3da7ba7f6a94,Australia,Craig Goodwin,56.30993247402023,114.2,31.3,0,0,1,1,0,0,0,0,Midfielder,1
+ed13ed99-0339-47a0-9aa7-bc422ca3d494,France,Theo Bernard François Hernández,12.395406833758463,92.7,34.0,0,0,1,1,0,0,0,0,Defender,0
+932fcf66-fb88-4ec2-9afa-adffa29e27fe,Australia,Mitchell Thomas Duke,13.428229448222705,91.1,46.9,0,0,1,0,0,0,0,0,Forward,0
+383ff37d-4fbc-451a-b16d-bdb4dcfabe12,France,Antoine Griezmann,58.11643612539146,112.1,52.7,0,0,1,0,0,0,0,0,Midfielder,0
+f64f066d-f473-4e20-a403-9633818beb44,France,Adrien Rabiot,13.39249775375109,111.6,42.0,0,0,0,0,0,0,0,0,Midfielder,1
+054d8853-8ea8-4711-97a4-29d3e5d9faaf,France,Olivier Giroud,1.4878675288277994,112.3,39.8,1,0,0,0,0,0,0,1,Forward,0
+d517ea6c-09ea-4369-a827-69a67ee53e58,France,Olivier Giroud,4.813550893706515,110.5,39.2,0,0,1,1,0,0,0,0,Forward,1
+f4026797-fd62-4aaf-a5ce-4b26d4be7f3e,France,Kylian Mbappé Lottin,25.641005824305296,105.0,47.2,0,0,1,1,0,0,0,0,Forward,0
+2ed213a8-cad4-422c-9c33-6223a266e353,France,Olivier Giroud,4.059346364799256,104.5,38.9,0,0,1,1,0,0,0,0,Forward,0
+6291a8d3-afbd-4940-ab68-6789e38ed95a,France,Ousmane Dembélé,7.5946433685914325,106.5,38.2,0,0,1,1,0,0,0,0,Forward,0
+b8bab8e1-609c-4a72-8452-82e53f22462f,France,Antoine Griezmann,20.095231191904816,99.5,47.5,0,0,1,1,0,0,0,0,Midfielder,0
+c22fc10b-1156-4965-946b-c1b7d9293620,France,Kylian Mbappé Lottin,1.6135389328812064,112.9,40.2,0,0,1,1,0,0,0,0,Forward,0
+e2afdb88-7f92-4aea-ac11-1be9767dfcde,Australia,Jackson Irvine,18.95423169951116,110.1,43.4,0,0,0,0,0,0,0,0,Midfielder,0
+a24f6b12-f5d9-48b0-b0d2-74f32f34f5e8,France,Aurélien Djani Tchouaméni,1.9333006949184768,96.3,40.8,0,0,1,1,0,0,0,0,Midfielder,0
+13ebfc18-fc9d-4e92-adb7-d0a2b11dd9b5,France,Olivier Giroud,26.56505117707799,111.6,44.2,0,0,1,1,0,0,0,0,Forward,0
+4ff1b43f-c158-4184-b72c-c995c033a7ed,France,Kylian Mbappé Lottin,35.450866071264066,107.5,31.1,0,0,1,1,0,0,0,0,Forward,0
+992cec9a-3dd4-4591-88cf-51a6b08944ae,France,Kylian Mbappé Lottin,42.510447078000844,109.2,30.1,0,0,1,0,0,0,0,0,Forward,0
+faa11f11-5d8c-43ac-9eeb-84831384aa43,France,Ibrahima Konaté,0.0,113.0,40.0,1,0,0,0,0,0,0,0,Defender,0
+44492bd7-dcda-41ad-b161-66ca6eda9e1e,France,Kylian Mbappé Lottin,50.96448710125312,108.0,25.2,0,0,1,0,0,0,0,0,Forward,0
+040b97e7-f9c1-4bd2-b5b7-30bea91f6106,France,Antoine Griezmann,14.49386775827614,105.3,36.2,0,0,1,1,0,0,0,0,Midfielder,0
+c1cb34f8-e304-4bc6-9562-35f9e2b52f90,France,Kylian Mbappé Lottin,74.30220748213868,115.7,24.7,0,0,1,1,0,0,0,0,Forward,0
+14f325ee-6c78-4e53-ae1d-eafc6d405a8f,France,Kylian Mbappé Lottin,18.698982804181146,113.5,42.2,1,0,0,0,0,0,0,0,Forward,1
+beae66c3-15c0-41cc-9471-a36b25a428f7,France,Olivier Giroud,21.801409486351822,113.5,42.6,0,0,0,0,0,0,0,0,Forward,1
+0c7b6c75-c1db-4592-8568-74e6bfebd996,France,Ibrahima Konaté,10.049348588124856,112.1,41.4,0,0,0,0,0,0,0,0,Defender,0
+d6fddc7c-2e1e-4b2b-8421-13ce5aba6384,France,Theo Bernard François Hernández,47.65419551340661,112.8,32.1,1,0,0,0,0,0,0,0,Defender,0
+2d652895-42ea-4df0-b1fa-70c7db18aba3,United States,Yunus Dimoara Musah,5.2738959573517565,100.5,38.2,0,0,1,0,0,0,0,0,Midfielder,0
+0b8f0163-bc7e-46d2-83a2-3b121cdc3a95,United States,Christian Pulisic,23.962488974578164,110.1,35.6,1,0,0,0,0,0,0,0,Forward,0
+dc245b5e-35ae-4e68-866d-f4adb8ad301d,United States,Joshua Sargent,20.61582170234286,99.0,32.1,0,0,1,0,0,0,0,0,Forward,0
+38a60b5b-8890-4729-aadf-0abc1a8d494c,United States,Timothy Weah,21.70543674610559,109.7,35.9,0,0,0,0,0,0,0,0,Forward,0
+ecbc8831-6f11-4c91-9b51-62b4388a5495,United States,Sergino Dest,23.677579440692764,101.3,48.2,0,0,1,0,0,0,0,0,Defender,0
+a715831e-91ca-4b8b-b36c-332b2607bd2b,United States,Timothy Weah,51.29067077335502,108.7,54.1,0,0,1,1,0,0,0,0,Forward,0
+87f4ee4b-ea76-4af3-9881-d63a72bfca8f,United States,Sergino Dest,30.25643716352927,102.0,50.5,0,0,1,1,0,0,0,0,Defender,0
+fd97b29e-8284-4144-bd73-53933fdc6cfe,United States,Christian Pulisic,14.858614447924612,115.1,38.7,0,0,1,1,0,1,0,0,Forward,1
+284859c0-cc67-45a4-bc88-9359204c8773,United States,Joshua Sargent,71.05802211616322,114.2,56.9,0,0,1,0,0,0,0,1,Forward,0
+b80183a6-4c36-4e32-859a-b7e50f7b4013,United States,Joshua Sargent,55.95406264339834,110.0,25.2,0,0,1,1,0,0,0,0,Forward,0
+649f5754-4d24-4461-b136-18a680539ace,Iran,Saman Ghoddos,12.425942865427448,114.1,38.7,1,0,0,0,0,0,0,0,Forward,0
+55fdc167-245a-4876-9f65-66aba190125e,Iran,Saeid Ezatolahi Afagh,31.93477846315269,90.8,21.8,0,0,1,0,0,0,0,0,Midfielder,0
+7cae7d57-11d8-4cd4-9415-b65d8fe0ffbb,Iran,Morteza Pouraliganji,26.05349531049094,111.0,35.6,1,0,0,0,0,0,0,0,Defender,0
+7e743eb9-c08e-45c9-8f5d-61778bb14063,Iran,Mehdi Taremi,3.215483991748208,111.1,39.5,0,0,1,1,0,0,0,0,Forward,0
+6a8d05c9-819d-4f7a-8070-9c5f8e6a7b1a,United States,Haji Wright,47.216794340740186,105.1,23.9,0,0,1,1,0,0,0,0,Forward,0
+3381d077-7657-430a-9aad-865741b84a28,Morocco,Noussair Mazraoui,19.102010552238653,96.9,32.0,1,0,1,0,0,0,0,0,Defender,0
+40b8139e-3664-4dc2-a35f-e2e83d20a733,Morocco,Hakim Ziyech,10.332700515921777,101.9,43.3,0,0,1,0,0,0,0,0,Midfielder,0
+49bbeefe-cbc9-4306-a0b8-c36de2cf91be,Croatia,Ivan Perišić,9.787578597775106,82.9,33.6,0,0,1,0,0,0,0,0,Forward,0
+137ce19d-4677-40f4-9c3a-28b1ad174533,Morocco,Sofiane Boufal,16.042782401211767,96.7,46.7,0,0,1,0,0,0,0,0,Midfielder,0
+6c6f07a0-0a4a-4db3-8cd4-68ec35fc9037,Morocco,Youssef En-Nesyri,75.48894049983092,117.8,31.5,1,0,1,0,0,0,0,0,Forward,0
+8724fd23-d6b7-4ebd-992c-fddf95c8090a,Croatia,Nikola Vlašić,39.0531369460265,114.7,35.7,0,0,1,1,0,0,0,0,Forward,0
+31a7cdfd-bae2-494b-90f9-e127f192a8a7,Croatia,Nikola Vlašić,22.39960354577814,105.2,33.9,0,0,1,1,0,0,0,0,Forward,0
+d01979b4-1686-4e84-932c-295994117f03,Croatia,Luka Modrić,1.8911547016853734,98.8,39.3,0,0,1,1,0,0,0,0,Midfielder,0
+18d6a175-b9c2-43f9-a329-8d17726d6fef,Morocco,Sofiane Boufal,3.082180824528141,94.0,38.6,0,0,1,0,0,0,0,0,Midfielder,0
+a7e10743-aa3f-4c93-8c86-b3107e006e12,Morocco,Noussair Mazraoui,66.48203832630774,115.3,29.2,1,0,0,0,0,0,0,1,Defender,0
+fd7f207c-9611-47d4-bfec-62708dc71317,Croatia,Dejan Lovren,9.334998463138263,112.7,38.8,0,0,1,1,0,0,0,0,Defender,0
+9687c04b-4967-4169-aa62-6d5e05925819,Morocco,Achraf Hakimi Mouh,15.101098161385437,88.5,31.5,0,0,1,1,0,0,0,0,Defender,0
+2ea9d5ca-8802-41c2-9dfd-6569a385bae5,Canada,Mark Anthony Kaye,1.7061782944470025,96.5,40.7,1,0,1,1,0,0,0,0,Midfielder,0
+ce0aabd3-100c-452d-a086-f1cdb12da9a8,Morocco,Hakim Ziyech,7.885535126032664,83.9,45.0,0,0,1,1,0,0,0,0,Forward,1
+87a6ddab-7e58-4525-9025-7c69b1c1fa0d,Morocco,Sofiane Boufal,32.55666579210674,107.0,48.3,0,0,1,0,0,0,0,0,Forward,0
+8157389f-80f7-4b92-b0ad-8f425f87de65,Canada,Tajon Buchanan,37.27817419986902,113.3,34.9,0,0,1,1,0,0,0,0,Midfielder,0
+a928d321-eba0-4901-af5c-1c99ff587727,Morocco,Hakim Ziyech,31.890791801845708,97.5,54.0,0,0,1,0,0,0,0,0,Forward,0
+f2dc53bc-f575-493b-afb6-36e2cc861787,Morocco,Youssef En-Nesyri,46.78991060824606,107.6,53.2,0,0,1,0,0,0,0,1,Forward,1
+e99c8e04-1c02-4860-965f-16fb46afc44c,Morocco,Abdelhamid Sabiri,25.6102099232058,107.9,34.2,0,0,1,1,0,0,0,0,Midfielder,0
+28cd796c-dc0c-45d3-a08a-5d405158e03b,Morocco,Youssef En-Nesyri,26.911245027538957,106.8,46.7,0,0,1,1,0,0,0,0,Forward,0
+ea855629-b410-4727-801e-7af33706b889,Canada,Alphonso Davies,4.60448715698153,105.1,41.2,0,0,1,1,0,0,0,0,Midfielder,0
+d83110b9-24d7-4809-9274-3ac7a676f461,Canada,Atiba Hutchinson,16.429301451533387,112.2,37.7,1,0,0,0,0,0,0,0,Midfielder,0
+643d1e6c-1017-47bd-8ac6-82492298fde3,Canada,Alistair Johnston,53.13010235415594,118.8,41.6,1,0,0,0,0,1,0,0,Defender,0
+2f44bb3c-a426-4d8c-8ff5-b3e636e0ae70,France,Kingsley Coman,52.678963807368696,112.3,29.9,0,0,1,0,0,0,0,0,Forward,0
+2aa6e86c-aa3e-472f-9635-7a868027425e,Tunisia,Anis Ben Slimane,6.271077449501149,110.9,41.0,0,0,0,0,1,0,0,0,Midfielder,0
+94b666ae-76bc-4b28-90ac-69eff019ff53,Tunisia,Wahbi Khazri,26.28826212490022,95.1,52.3,0,0,1,0,0,0,0,0,Forward,0
+28c175ed-8a99-4ab9-b8fe-f9b29b06581c,France,Youssouf Fofana,33.69006752597979,99.9,53.4,0,0,1,0,0,0,0,0,Midfielder,0
+74c4cae2-7801-4867-be89-2da7b7abc305,Tunisia,Wahbi Khazri,42.428159392150164,97.9,19.8,0,0,1,0,0,0,0,0,Forward,0
+087906f8-a104-4e9e-95e1-a831bbe25520,Tunisia,Aïssa Bilal Laïdouni,73.53998518795997,114.8,22.4,0,0,1,0,0,0,0,1,Midfielder,0
+cc8a1742-2a6f-40ef-bc33-fb5e1f269a2d,Tunisia,Wahbi Khazri,7.504732450611972,103.3,37.8,1,0,1,0,0,0,0,0,Forward,1
+05763d5c-0510-4064-bb09-8dd687a6a00c,France,Axel Disasi,9.782407031807283,111.3,41.5,1,0,0,0,0,0,0,0,Defender,0
+3b463131-20c4-48de-b30e-190bd94645c3,France,Adrien Rabiot,51.15916302914308,113.8,47.7,0,0,1,1,0,0,0,0,Midfielder,0
+b6d30c88-5079-473f-be07-4bf3a5b6eb87,France,Ousmane Dembélé,29.256065222107082,95.9,53.5,0,0,1,0,0,0,0,0,Forward,0
+cc6cd2ca-1959-4794-98dd-e2ce76be9dc0,France,Adrien Rabiot,43.96775530843428,108.7,29.1,0,0,1,0,0,0,0,0,Midfielder,0
+4298ec2f-c109-44ab-8e1b-b4dcadfcd839,France,Kylian Mbappé Lottin,78.18685529986283,116.8,24.7,0,0,1,0,0,0,0,0,Forward,0
+8050e74d-a9d5-4f41-be38-5efa01b66af4,France,Randal Kolo Muani,7.005463513512228,96.4,37.1,0,0,1,0,0,0,0,0,Forward,0
+41609f4b-9ca3-4dd3-b7c6-1486496dbde7,France,Kylian Mbappé Lottin,37.65395516518001,87.6,15.0,0,0,1,0,0,0,0,0,Forward,0
+7b5a7051-6028-444c-9118-bf4ea21285fe,Netherlands,Cody Mathès Gakpo,24.88741171092451,100.6,31.0,0,0,1,0,0,0,0,0,Forward,1
+fd1d0a7f-24dd-45f8-8596-e278448c81f9,Ecuador,Enner Remberto Valencia Lastra,37.568592028827496,107.0,30.0,0,0,1,1,0,0,0,0,Midfielder,0
+1cbfc06c-a7d2-415d-a116-2a4b2858ad72,Ecuador,Moisés Isaac Caicedo Corozo,4.76364169072618,94.8,37.9,0,0,1,0,0,0,0,0,Midfielder,0
+0489a173-a929-4748-9f71-9ccea74f4ac2,Ecuador,Michael Steveen Estrada Martínez,34.354336655039646,112.1,34.6,0,0,1,1,0,0,0,0,Forward,0
+d253967e-f368-4c1d-a428-0aaac9052edc,Ecuador,Enner Remberto Valencia Lastra,40.38167816705506,100.6,23.5,0,0,1,0,0,0,0,0,Midfielder,0
+3d2dd682-0d56-4f1c-bcb5-e092114f8c99,Ecuador,Enner Remberto Valencia Lastra,38.873066994505926,110.2,47.9,1,0,0,0,0,0,0,0,Midfielder,0
+386f4938-7176-4aaa-9306-0756a991b601,Ecuador,Angelo Smit Preciado Quiñónez,35.816080749155645,100.6,54.0,1,0,1,1,0,0,0,0,Defender,0
+6be7c09a-416a-4bf8-89f5-004e29fa52f8,Ecuador,Pervis Josué Estupiñán Tenorio,27.135139622076885,112.0,44.1,0,0,1,0,0,0,0,0,Defender,0
+a7d3c2e0-5625-4f5b-a6ce-8787c2908ae7,Ecuador,Pervis Josué Estupiñán Tenorio,38.51188488348946,105.8,28.7,0,0,1,0,0,0,0,0,Defender,0
+c8976f85-515d-4747-adeb-4b29e3d22057,Ecuador,Enner Remberto Valencia Lastra,25.40771810894846,116.0,38.1,0,0,1,1,0,1,0,0,Midfielder,1
+a4e6db8c-755d-47dc-ad48-73ccbf0edf3e,Ecuador,Enner Remberto Valencia Lastra,7.907162702958458,102.0,37.5,0,0,1,1,0,0,0,0,Midfielder,0
+3ff881e8-6f10-4a54-96c6-ae123deeb5f5,Ecuador,Gonzalo Jordy Plata Jiménez,38.57125225117015,104.2,52.6,0,0,1,0,0,0,0,0,Midfielder,0
+2903c8c6-bf4b-482c-b010-115a9905a2a9,Ecuador,Michael Steveen Estrada Martínez,7.645013271670716,105.1,38.0,1,0,1,1,0,0,0,0,Forward,0
+fe882ee7-659e-43c0-8a2b-695cdfabb7fc,Netherlands,Teun Koopmeiners,2.1932345763755423,96.5,40.9,0,0,1,1,0,0,0,0,Midfielder,0
+640021b0-000c-4a0c-b437-6a304f79016f,Ecuador,Moisés Isaac Caicedo Corozo,32.249974164183634,103.2,29.4,1,0,1,0,0,0,0,0,Midfielder,0
+3b66bbbf-f437-43e6-b3c1-535ef2ee5b2d,Ecuador,Angelo Smit Preciado Quiñónez,35.93070670010844,95.3,57.9,0,0,1,1,0,0,0,0,Defender,0
+266e7a9f-3699-4a79-a660-601a2b62dda0,Ecuador,Angelo Smit Preciado Quiñónez,4.875986212462182,98.9,38.2,0,0,0,0,0,0,0,0,Defender,0
+eb0430d9-f698-4125-a89a-f42feee2b55e,Wales,Neco Williams,39.66784111834045,99.5,23.0,1,0,1,0,0,0,0,0,Defender,0
+3226eb49-8c17-40ff-ac45-1639fb391c8c,Iran,Sardar Azmoun,21.10483858492964,97.2,31.2,0,0,1,0,0,0,0,0,Forward,0
+c60e655c-4b69-424d-87d9-d0e74b75cfe8,Wales,Kieffer Roberto Francisco Moore,28.178590109959156,111.6,44.5,0,0,1,1,0,0,0,0,Forward,0
+2b5afcbe-6943-45f0-8dd9-14b62582b494,Iran,Ahmad Nourollahi,13.76078511179124,95.5,34.0,0,0,1,0,0,0,0,0,Midfielder,0
+9b80cf6f-7f17-4929-ba51-842e6b82d0a3,Iran,Sardar Azmoun,27.004090702759626,109.6,34.7,1,0,0,0,0,0,0,0,Forward,0
+0ce51a4c-903a-4054-9a40-56954303a8b7,Wales,Gareth Frank Bale,6.421060823490741,88.9,36.5,0,0,1,1,0,0,0,0,Forward,0
+89e359ce-3dfc-44f7-8085-f66fe6e7854d,Wales,Harry Wilson,45.196891938071914,105.5,25.4,0,0,1,1,0,0,0,0,Midfielder,0
+fc8f0b07-6c87-4587-af33-3bb3bcb2e937,Iran,Mehdi Taremi,4.796798966835567,105.7,38.8,0,0,1,1,0,0,0,0,Midfielder,0
+f975ef83-d396-44ae-9745-c7baf143dda2,Iran,Ahmad Nourollahi,13.714811891878458,86.4,48.2,0,0,1,0,0,0,0,0,Midfielder,0
+6fe3313b-c0a3-4b3d-aca1-fdada21e5d2d,Iran,Sardar Azmoun,44.12754287709797,110.0,49.7,1,0,1,0,0,0,0,1,Forward,0
+8ce799c5-fb09-4755-84ab-d2b3fc292823,Iran,Ali Gholizadeh,19.334808537826415,97.2,48.0,0,0,1,0,0,0,0,0,Midfielder,0
+6f461ce9-4b76-47d8-b9af-a2b7e86f913a,Iran,Sardar Azmoun,22.89055165624831,111.0,36.2,0,0,0,0,0,0,0,1,Forward,0
+ffa587b8-77c6-460d-a3a9-b635fc2c13d1,Wales,Kieffer Roberto Francisco Moore,1.0230301886678514,114.4,39.9,0,0,0,0,0,0,0,0,Forward,0
+84e9a11f-1873-4347-976d-56346ce89953,Iran,Ehsan Hajsafi,24.134858429030803,104.6,33.1,0,0,1,1,0,0,0,0,Midfielder,0
+05f83d40-d176-4c51-85d5-12d3669e672a,Iran,Mehdi Taremi,39.4101310401722,107.1,29.4,1,0,1,0,0,0,0,0,Midfielder,0
+130eaace-f900-46ae-99ab-6116fb4d8d99,Iran,Ahmad Nourollahi,10.748594005841591,90.5,45.6,1,0,1,1,0,0,0,0,Midfielder,0
+71783d6b-c44b-4da3-8dc4-e9a1f3dff19a,Iran,Morteza Pouraliganji,4.467159061389272,100.8,38.5,0,0,1,1,0,0,0,0,Defender,0
+73be6232-5f4d-49d4-a331-9fc0a55c56e5,Iran,Saeid Ezatolahi Afagh,24.40182553836705,99.5,49.3,0,0,1,0,0,0,0,0,Midfielder,0
+ad7a5f66-a3c5-4eb1-ae0c-88fdbc7aa738,Iran,Ahmad Nourollahi,21.54097591853844,85.8,53.5,0,0,1,0,0,0,0,0,Midfielder,0
+da119d43-8578-4dc2-a19b-76ded50c26e2,Wales,Aaron Ramsey,40.982478956340714,104.0,53.9,0,0,1,1,0,0,0,0,Midfielder,0
+62ea397c-aa2c-4175-ac05-6a3229ee7fdb,Wales,Neco Williams,27.415389919427483,98.6,51.1,0,0,1,1,0,0,0,0,Defender,0
+dd5cff2b-1f01-46e5-9c50-c1418d2c616e,Wales,Ben Davies,26.69015093355253,101.7,30.8,0,0,1,1,0,0,0,0,Defender,0
+0e251117-7130-4bfe-8160-713729bc26b4,Iran,Karim Ansarifard,10.501485008651306,99.5,36.2,0,0,1,1,0,0,0,0,Midfielder,0
+710fd175-d69a-46c7-8b63-3de6a1e3fcfe,Iran,Mehdi Torabi,2.739335721918571,99.1,39.0,0,0,1,0,0,0,0,0,Midfielder,0
+19b3d31c-1546-4e79-8f41-bea0cb57e686,Wales,Neco Williams,9.4314516401545,89.9,45.0,0,0,1,1,0,0,0,0,Defender,0
+f7634469-9aae-4c6c-aa89-31dbb2de1326,Wales,Brennan Johnson,65.6954507340633,114.4,52.4,1,0,1,0,0,0,0,1,Midfielder,0
+112453f6-49de-4703-967f-b85c66fa97ec,Iran,Ramin Rezaeian,29.14419867736141,98.3,52.1,0,0,1,0,0,0,0,0,Defender,0
+c9b38fdd-878b-4586-9b71-a8586016ce62,Iran,Alireza Jahanbakhsh,17.354024636261325,99.2,46.5,0,0,1,0,0,0,0,0,Midfielder,0
+851365be-bf61-49cb-9622-3122887db37d,Iran,Alireza Jahanbakhsh,27.83280064237287,91.4,24.9,0,0,1,0,0,0,0,0,Midfielder,0
+0bbfeb84-84c0-4e74-befc-ebfcf9eb91b5,Iran,Roozbeh Cheshmi,5.733374758371868,95.1,37.5,0,0,1,0,0,0,0,0,Midfielder,1
+414cdfd3-b9cd-4ffd-96fc-4c9d16514982,Iran,Ramin Rezaeian,19.222856828101907,104.8,45.3,0,0,1,0,0,0,0,0,Defender,1
+04a5f637-e0c9-4b2c-8f3f-5cb43d4ea2fb,England,Harry Kane,13.182965158540863,108.9,42.6,0,0,1,1,0,0,0,0,Forward,0
+fb171800-4800-40d0-9897-69614180d568,England,John Stones,7.386043151267264,109.2,38.6,1,0,0,0,0,0,0,0,Defender,0
+a65af8fc-4966-48cd-a5d6-ab22df7b6e96,England,Mason Mount,26.387114545667608,94.2,27.2,0,0,1,1,0,0,0,0,Midfielder,0
+bfc7806a-7369-42bf-9908-9149f8325e40,United States,Haji Wright,18.145578659481398,108.1,43.9,1,0,0,0,0,0,0,0,Forward,0
+72ba8596-ac05-4e96-8e5d-7e6285717de5,United States,Weston McKennie,3.01278750418334,110.5,39.5,0,0,1,1,0,0,0,0,Midfielder,0
+79c95383-ac35-4c30-b966-2ceb22702a09,United States,Yunus Dimoara Musah,28.89219130081809,93.0,25.1,0,0,1,0,1,0,0,0,Midfielder,0
+4492fbf4-a531-4fcc-9cb9-08b40c749450,United States,Christian Pulisic,48.918248864067394,106.4,24.4,0,0,1,0,0,0,0,0,Midfielder,0
+dac7d5a9-921e-4901-899d-7b5df3667cfc,United States,Sergino Dest,44.49297093908522,108.6,51.2,0,0,1,0,0,0,0,0,Defender,0
+cafd0220-7ce1-4023-a73d-7431eb19798d,United States,Christian Pulisic,15.642246457208712,110.0,42.8,1,0,0,0,0,0,0,0,Midfielder,0
+0dbdb59a-d2da-49e2-95fd-d825df813d3c,England,Bukayo Saka,29.835539100261556,113.2,36.1,1,0,1,1,0,0,0,0,Forward,0
+0f16332d-8734-4162-a811-17a2a53d8637,England,Mason Mount,19.635582804447047,100.1,32.9,0,0,1,1,0,0,0,0,Midfielder,0
+9d7eca40-54b4-4567-8279-71fdb28fd5cc,United States,Haji Wright,40.91438322002512,106.5,28.3,0,0,1,0,0,0,0,0,Forward,0
+cfbd2ffa-ce17-46ab-ab55-a1f6971632b8,United States,Weston McKennie,33.75358831981464,99.2,53.9,0,0,1,0,0,0,0,0,Midfielder,0
+f8c12f7b-2ea2-463c-bdc7-bffa089ceb9b,United States,Christian Pulisic,35.817912807078955,98.8,24.7,0,0,1,0,0,0,0,0,Midfielder,0
+808bf399-1f66-4f90-9eee-8101e362db69,United States,Christian Pulisic,0.2319654512982085,95.3,40.1,0,0,1,0,0,0,0,0,Midfielder,0
+c2f80a9f-0a97-4007-9730-bcb664f2dc44,England,Marcus Rashford,52.704997198838974,105.3,20.7,0,0,1,0,0,0,0,0,Forward,0
+a13b859b-40f5-4296-b305-910cdbc7a107,England,Harry Maguire,13.90268711422056,109.9,37.5,1,0,0,0,0,0,0,0,Defender,0
+dfb61b1c-789a-4359-b5ed-ab8d955e498a,England,Harry Kane,5.19442890773479,111.2,40.8,1,0,0,0,0,0,0,0,Forward,0
+5fcdf3c9-286c-4464-8bb4-388fd340fec6,England,Harry Maguire,66.54097591853848,115.4,29.4,0,0,1,1,0,0,0,0,Defender,0
+3ba35261-6891-4612-b191-d65a0d78f0a4,England,Bukayo Saka,38.990994042505456,101.1,55.3,0,0,1,0,0,0,0,0,Forward,0
+5cb33065-4eff-41c3-adc6-3d94163e8696,England,Mason Mount,54.04757199990074,113.4,49.1,0,0,1,1,0,0,0,0,Midfielder,0
+1bf4902d-e5f6-4c66-b94a-d12048728ab9,England,Harry Maguire,4.214178522734061,110.5,40.7,1,0,0,0,0,0,0,0,Defender,0
+f6ab1f9f-49b3-4159-9229-2d6468444c80,England,Jude Bellingham,14.036243467926479,112.0,38.0,1,0,0,0,0,0,0,0,Midfielder,1
+fb8746d5-622f-4d58-94c4-d1b98a5383e5,England,Bukayo Saka,5.389311759973407,104.1,38.5,0,0,1,1,1,0,0,0,Forward,1
+87851dd9-302c-42ec-955b-812c658adf08,England,Raheem Sterling,17.281498371816628,111.0,42.8,0,0,1,1,0,0,0,0,Forward,1
+49d0e85c-41be-4505-94c3-970d393b563d,Iran,Alireza Jahanbakhsh,32.9052429229879,106.4,48.8,0,0,1,1,0,0,0,0,Forward,0
+0021ff25-ec7b-44a6-8268-e4cdbc4bc330,England,Luke Shaw,33.98816982835564,97.9,25.1,0,0,1,1,0,0,0,0,Defender,0
+6f1c62ac-9430-4e50-93db-641778aeae21,Iran,Saeid Ezatolahi Afagh,7.0860528870311175,83.8,35.5,0,0,1,0,0,0,0,0,Midfielder,0
+c00d9764-b99c-4ee2-a5eb-f15a6119bc8f,England,Bukayo Saka,23.198590513648174,105.3,46.3,0,0,1,0,1,0,0,0,Forward,1
+792de1ce-2b57-4766-9925-36b991f4f753,Iran,Mehdi Taremi,37.83645253416764,109.7,48.0,1,0,1,1,0,0,0,0,Forward,1
+eb91fad6-8e32-4967-a2e5-53df2553a278,Iran,Mehdi Torabi,25.01689347810003,103.5,32.3,0,0,1,0,0,0,0,0,Midfielder,0
+bd8afcd1-1a4d-4377-a9b8-410006b8abda,Iran,Ahmad Nourollahi,13.182965158540856,97.8,34.8,0,0,1,1,0,0,0,0,Midfielder,0
+055f83c8-62eb-421d-81d0-5894c99d4f0a,England,Marcus Rashford,36.78079075110095,109.7,47.7,0,0,1,0,0,0,0,0,Forward,1
+4d27dad8-e320-494d-bdbb-c26f9f26cf5c,Iran,Mehdi Taremi,44.417351140813516,105.1,54.6,1,0,1,1,0,0,0,0,Forward,0
+0087db37-b97c-4bbe-9f2f-9da36f89fc2b,England,Marcus Rashford,43.18580809097005,108.6,50.7,0,0,1,0,0,0,0,0,Forward,0
+f4005cfd-ba86-4655-87b4-31b1980494bb,England,Jack Grealish,0.7161599454704186,112.0,39.9,0,0,1,1,0,0,0,0,Forward,1
+da8fcdf4-fb20-4bbc-8599-6d6d8835215b,Iran,Sardar Azmoun,46.23197740263975,110.9,30.5,0,0,1,0,0,0,0,1,Forward,0
+9dd4034a-ffdb-4e3d-b69d-399b4b5560bc,Belgium,Michy Batshuayi Tunga,16.159085463085795,91.7,31.8,0,0,1,0,1,0,0,0,Forward,0
+354f4383-0264-4670-8cdd-e3151330a7ea,Canada,Stephen Antunes Eustáquio,44.43273359014206,109.8,50.0,0,0,1,0,0,0,0,0,Midfielder,0
+5c26c60c-1440-44b6-84da-f14a4dfeb9d3,Canada,Jonathan David,18.034285567129853,111.4,42.8,0,0,1,1,0,0,0,0,Forward,0
+834fcf3c-339f-43ba-be55-21bacf55ad35,Canada,Tajon Buchanan,17.684392026557745,106.2,35.6,0,0,1,0,0,0,0,0,Midfielder,0
+d85fd345-59d3-418d-9de1-6fb22084a74c,Canada,Jonathan David,29.357753542791283,110.4,34.6,0,0,1,1,0,0,0,0,Forward,0
+1c3d07c6-00b2-4bb8-89c2-a5554c974057,Canada,Richie Laryea,47.55289814717175,105.0,56.4,1,0,1,0,0,0,0,0,Defender,0
+2b41857c-6925-4104-a119-20339e1486b9,Canada,Jonathan David,25.625860231342408,107.7,45.9,0,0,1,0,0,0,0,0,Forward,0
+9ff04ee1-4607-4e63-a35f-3c49686812e2,Canada,David Junior Hoilett,42.63049193574472,104.9,53.9,0,0,1,0,0,0,0,0,Midfielder,0
+8467c3af-b507-46e8-82cf-4376f02126da,Belgium,Michy Batshuayi Tunga,52.950773426393,112.3,50.2,0,0,1,0,0,0,0,0,Forward,0
+258a9c5b-8a75-4792-8bde-19476d55c34f,Canada,Atiba Hutchinson,12.112622925985015,98.1,44.7,0,0,1,1,0,0,0,0,Midfielder,0
+80a77a1a-8b7b-48aa-aa95-da4ab96ddc43,Canada,Alistair Johnston,53.86826283320758,108.1,56.3,0,0,1,0,0,0,0,0,Defender,0
+1090f3aa-c627-49ca-bfa8-795826ef733b,Canada,Jonathan David,9.104600865402181,104.4,37.5,0,0,1,0,0,0,0,0,Forward,0
+ed721980-42b4-4960-bcbd-f82e2f39e7ab,Canada,Jonathan David,33.54124765412278,111.1,34.1,0,0,0,0,0,0,0,0,Forward,0
+61be5d95-87f9-4731-9ada-76ae0d2d0e1d,Belgium,Michy Batshuayi Tunga,54.03296969897108,111.8,51.3,0,0,1,1,0,0,0,0,Forward,0
+bc484f8e-3991-43fa-ac79-fc8ea74c0712,Belgium,Michy Batshuayi Tunga,19.521730275920202,109.0,36.1,0,0,1,1,0,0,0,0,Forward,1
+994d59a5-b9fa-4914-895f-e8d49a2b2e93,Canada,Tajon Buchanan,18.666914274220204,112.6,42.5,1,0,1,1,0,0,0,0,Midfielder,0
+eb4da282-7415-445c-93ac-49452509c4c0,Canada,Stephen Antunes Eustáquio,4.398705354995532,100.5,38.5,0,0,1,1,0,0,0,0,Midfielder,0
+9de83be9-263f-4eef-897e-bc3b3d18dc6a,Canada,Jonathan David,20.480357311809254,111.7,36.9,1,0,0,0,0,0,0,0,Forward,0
+93e6b5b1-3e20-4546-9ce0-ecf0407fd212,Canada,Stephen Antunes Eustáquio,29.77266780277212,97.8,52.7,0,0,1,0,0,0,0,0,Midfielder,0
+9bf3c804-dd83-423e-8b07-50bd453dc61f,Canada,Tajon Buchanan,14.222469614465519,98.3,34.5,0,0,1,1,0,0,0,0,Defender,0
+7cc9516f-cd9d-44bf-8bc7-46aaf0461c40,Canada,Richie Laryea,38.58336296320985,101.7,54.6,0,0,1,0,0,0,0,0,Defender,0
+7c6605a8-96e6-4db0-9419-4dff19a9cab1,Belgium,Michy Batshuayi Tunga,10.555181432948814,103.9,43.0,0,0,1,1,0,0,0,0,Forward,0
+a9473b12-1e3d-4ef0-b509-b261a5d4f9ae,Canada,Jonathan David,6.414601807339706,103.1,38.1,0,0,1,0,0,0,0,0,Midfielder,0
+3a7269f8-248f-484e-a45d-ec91db2f6a04,Canada,Cyle Larin,19.160173121981273,108.2,44.1,0,0,0,0,0,0,0,0,Midfielder,0
+ff8328e4-e896-4aa2-9a3e-383dc617c483,Belgium,Leander Dendoncker,25.016893478100023,112.5,43.5,1,0,0,0,0,0,0,0,Defender,0
+b420a143-e136-46b1-9f19-66e23850329b,Belgium,Kevin De Bruyne,1.2240825221762242,96.6,39.5,0,0,1,0,0,0,0,0,Midfielder,0
+b0ef489f-07de-412f-b71b-87ec02e48fa9,Canada,Cyle Larin,16.76255446183275,111.7,37.5,1,0,0,0,0,0,0,0,Forward,0
+d5e43eeb-05d2-453f-b5f9-a0bfe9e21e68,Belgium,Thomas Meunier,35.166436035792884,98.0,55.5,0,0,1,0,0,0,0,0,Defender,0
+7d942db4-d083-4c27-9180-bf1eaa12fcdd,Belgium,Kevin De Bruyne,73.46516214265483,114.3,59.2,0,0,1,0,0,0,0,0,Midfielder,0
+67b31f84-9fa2-4e16-8ada-b41aa13deb20,Canada,Cyle Larin,23.663140708194327,111.1,36.1,1,0,0,0,0,0,0,0,Forward,0
+0a3ed216-5932-47e5-b8fc-c1bbf9b410b0,Poland,Robert Lewandowski,16.587338556927392,110.6,37.2,1,0,0,0,0,0,0,0,Forward,0
+6f5109a7-69a5-46ac-a30f-d4c33ddef92a,Mexico,Héctor Alfredo Moreno Herrera,23.574706201912605,114.5,42.4,1,0,0,0,0,0,0,0,Defender,0
+e0580d0b-5af9-433d-b8dd-7cb0b17f5b2c,Mexico,Ernesto Alexis Vega Rojas,38.453709216705974,113.2,34.6,1,0,0,0,0,0,0,0,Forward,0
+39e5507d-c0fd-4c2f-b7ef-54fe354c123a,Mexico,Ernesto Alexis Vega Rojas,54.79620991747452,108.5,23.7,0,0,1,1,0,0,0,0,Forward,0
+b57c5d99-0a85-4b00-9d2c-89f3ca8dee27,Mexico,Jorge Eduardo Sánchez Ramos,64.44003482817618,110.1,60.7,0,0,1,1,0,0,0,0,Defender,0
+4161e7b6-a61d-4a7e-bc01-c0018ebf823a,Mexico,Luis Gerardo Chávez Magallón,31.204746822876242,92.1,56.9,1,0,1,0,0,0,0,0,Midfielder,0
+701a4a5e-5ac1-4834-8a82-4b971ba6cc85,Mexico,Hirving Rodrigo Lozano Bahena,29.55539615224337,93.9,25.2,0,0,1,0,0,0,0,0,Forward,0
+0003d15d-08d9-4b69-87c7-bd835c75f9c0,Poland,Jakub Kamiński,53.130102354155994,113.4,48.8,0,0,1,1,0,0,0,0,Midfielder,0
+7d88a995-3642-463c-8387-0f0791d48e7b,Mexico,Ernesto Alexis Vega Rojas,39.85211517586372,107.9,29.9,0,0,1,0,0,0,0,0,Forward,0
+e8754b1c-aac3-4d22-b02a-31f42fa9ffa5,Mexico,Henry Josué Martín Mex,20.224859431168078,106.7,35.1,0,0,0,0,0,0,0,1,Forward,0
+73474980-e00a-4546-9e5a-421ab9b999a1,Mexico,Ernesto Alexis Vega Rojas,49.976264214306994,102.7,60.6,0,0,1,0,0,0,0,0,Forward,0
+fd969a54-fb93-45b3-a80e-f1992ffd6c68,Mexico,Ernesto Alexis Vega Rojas,29.859016164923098,93.0,24.5,0,0,1,1,0,0,0,0,Forward,0
+b8ea3d19-253a-4dbf-885f-ef6347d502bd,Poland,Jakub Piotr Kiwior,14.237280465761103,113.3,41.7,1,0,0,0,0,0,0,0,Defender,0
+9fa36176-ea62-4664-b6f2-a824a03ec52c,Poland,Jakub Kamiński,55.10929849249519,109.4,24.8,1,0,1,1,0,0,0,0,Midfielder,0
+b1d295df-10b0-489d-b603-23c037c120c4,Poland,Grzegorz Krychowiak,16.64503821467595,90.9,48.7,0,0,1,0,0,0,0,0,Midfielder,0
+2c53d9e8-7e29-4955-bbc5-2bbd708b8c63,Mexico,Carlos Uriel Antuna Romero,42.17901140648451,101.9,56.4,1,0,1,0,0,0,0,0,Forward,0
+062d75ea-74d6-4c3e-ae04-8348ea0287c6,Portugal,Ricardo Jorge Luz Horta,47.563770211464984,113.6,47.0,0,0,1,1,0,0,0,0,Forward,1
+9640785e-d19d-4751-9ce0-73b7a75ed3df,Portugal,João Pedro Cavaco Cancelo,82.65699188299318,117.5,20.6,0,0,1,0,0,0,0,0,Defender,0
+1ae363d8-7641-47d7-b132-2b3d6f39ffe7,South Korea,Heung-Min Son,57.9946167919165,108.5,21.6,0,0,1,0,0,0,0,0,Forward,0
+8215e22a-a338-4df6-ac2c-3f75a4a9da2c,South Korea,Gue-Sung Cho,41.95162505970168,111.1,32.0,0,0,0,0,0,0,0,0,Forward,0
+2dc93d63-5c81-4309-b01d-d8947274445b,South Korea,Young-Gwon Kim,31.2184027643464,116.7,38.0,0,0,1,1,0,0,0,0,Defender,1
+fb6a6a05-6884-4685-9d68-9216be467857,South Korea,In-Beom Hwang,21.529006881839127,98.2,31.4,0,0,1,1,0,0,0,0,Midfielder,0
+62f797eb-cb50-440c-a4af-63e47557779a,Portugal,José Diogo Dalot Teixeira,0.0,92.8,40.0,0,0,1,0,0,0,0,0,Defender,0
+1dff5697-cf68-4ed5-b26a-be1a17c4692e,Portugal,Vitor Machado Ferreira,11.34872446505502,91.6,45.7,0,0,1,1,0,0,0,0,Midfielder,0
+1fd52259-4aaa-4f87-8ad7-6dd1e07f40a6,Portugal,Cristiano Ronaldo dos Santos Aveiro,60.02850506792727,110.6,56.3,0,0,1,1,0,0,0,0,Forward,0
+6d75d1ec-9cd0-4d6f-a605-1b8c5d7eceee,South Korea,Heung-Min Son,9.38914756133125,94.6,44.2,0,0,1,0,0,0,0,0,Forward,0
+26675b4c-808e-4aac-86a4-2465f112999e,Portugal,Matheus Luiz Nunes,34.597174904410345,92.6,58.9,0,0,1,0,0,0,0,0,Midfielder,0
+26c19754-4d02-4a37-833e-38d58a6c5bed,Portugal,Vitor Machado Ferreira,17.265809495014583,97.8,46.9,0,0,1,0,0,0,0,0,Midfielder,0
+68d58675-f0d2-4153-83e2-664435d55921,Portugal,Cristiano Ronaldo dos Santos Aveiro,34.40847225202863,112.7,35.0,0,0,0,0,0,0,0,1,Forward,0
+0281471f-20ca-4d46-b4c2-078dc9b23a0c,Portugal,Ricardo Jorge Luz Horta,12.219312923219347,104.3,43.4,0,0,1,0,0,0,0,0,Forward,0
+3d3f2d27-7c23-41d1-a062-11ffdb8ea9f3,Portugal,Ricardo Jorge Luz Horta,15.945395900922861,101.8,45.2,0,0,1,0,0,0,0,0,Forward,0
+949b8153-4c91-4fa5-9a8c-b7c62f67653f,South Korea,Heung-Min Son,43.482585874987876,104.5,54.7,0,0,1,1,0,0,0,0,Forward,0
+6f938c63-049c-4bcd-acdd-121b2805d927,South Korea,Jae-Sung Lee,26.25309901721672,97.9,50.9,0,0,1,1,0,0,0,0,Forward,0
+d26da2e2-2be4-47a0-9bae-9ec1735e3242,South Korea,Heung-Min Son,17.9627415515166,98.1,47.1,0,0,1,0,1,0,0,0,Forward,0
+9812f26f-3579-4b8e-9d45-423b96d62b77,South Korea,In-Beom Hwang,12.7813339954634,98.4,35.1,0,0,1,0,0,0,0,0,Midfielder,0
+cb12bccf-6060-4906-ada8-9727e45e021a,South Korea,Heung-Min Son,55.188628008453456,111.1,52.8,0,0,1,1,0,0,0,0,Forward,0
+1d642aad-0287-4aa5-8c9f-bbb51aabda79,Portugal,Rafael Alexandre Conceição Leão,30.07730231342701,94.1,55.0,0,0,1,0,0,0,0,0,Forward,0
+a595343e-18f2-41bc-91b2-df436ea31ac7,Portugal,João Maria Lobo Alves Palhinha Gonçalves,0.36727560733809966,88.8,40.2,0,0,1,0,0,0,0,0,Midfielder,0
+03741496-9ace-4727-91d2-c83d00c71d10,Portugal,João Pedro Cavaco Cancelo,62.22571880056863,112.1,25.0,0,0,1,0,0,0,0,0,Defender,0
+b8374eb6-c0f0-471b-b076-9bba6aef1f1a,South Korea,Hee-Chan Hwang,21.462885924719803,108.3,44.6,0,0,1,1,0,0,0,0,Midfielder,1
+0e6af047-9158-446b-9e7d-f6e6a95f1de3,England,Marcus Rashford,1.7899106082460694,104.0,39.5,0,0,1,1,0,0,0,0,Forward,0
+ffca546a-2663-4aae-a08f-d869a175e95d,England,Philip Foden,32.86317554470774,97.4,54.6,0,0,1,0,0,0,0,0,Forward,0
+1b5ab9c1-d01f-418e-a21b-1e019c5499d0,England,Harry Maguire,90.0,120.0,54.6,1,0,0,0,0,0,0,1,Defender,0
+34ab7bc7-d3f3-4014-9c25-c8c3e8e89167,England,Marcus Rashford,43.2396908694207,98.2,19.5,0,0,1,0,0,0,0,0,Forward,0
+039e4f78-c99d-4103-b9cc-1b83eca35b7c,England,Philip Foden,27.037258448483396,105.5,47.4,0,0,1,0,0,0,0,0,Forward,0
+2e58b4a3-6c6c-4d0a-8b9d-ce7fa6304bb7,Wales,Joe Allen,15.124007308310565,94.1,47.0,0,0,1,1,0,0,0,0,Midfielder,0
+7bf9a451-41dd-454d-9be7-4a9ab9d09b92,England,Marcus Rashford,23.31770838675508,108.4,35.0,0,0,1,1,0,0,0,0,Forward,0
+a1906bad-dec0-460b-b80f-34c540ebe759,England,Harry Kane,13.085059936232176,101.5,35.7,0,0,1,1,0,0,0,0,Forward,0
+068c719d-a8b5-4897-998a-a21090d984b0,England,Harry Kane,33.40782458970893,101.2,27.6,0,0,1,0,0,0,0,0,Forward,0
+c576a23b-c51c-4c7f-ab7f-d299a11d55ed,England,John Stones,64.94238458169697,112.8,55.4,1,0,0,0,0,0,0,0,Defender,0
+2cedf7d4-d1e0-4024-b456-bea56e278224,Wales,Joe Allen,30.348641428177825,100.7,51.3,0,0,1,0,0,0,0,0,Midfielder,0
+2250e1fb-d6fa-479f-b60f-1051b6f1d9dc,England,Philip Foden,47.009553813021135,114.5,34.1,0,0,1,1,0,0,0,0,Forward,1
+281f572c-821f-4530-8909-e8312af20899,Wales,Kieffer Roberto Francisco Moore,30.624397541877233,90.1,22.3,0,0,1,0,1,0,0,0,Forward,0
+97f496c6-1c58-4d37-ab5d-0f182377932a,England,Marcus Rashford,45.561705332566554,109.9,50.3,0,0,1,0,0,0,0,0,Forward,1
+09707c2b-a561-40e4-90b2-552936c8e931,England,Marcus Rashford,51.9654184900551,110.3,52.4,0,0,1,1,0,0,0,0,Forward,0
+8eb52d09-57e0-408f-9861-78e85ea1b741,Wales,Brennan Johnson,48.1411298356361,104.5,57.3,0,0,1,0,0,0,0,0,Forward,0
+509f7607-ca7b-4ceb-9a8b-d99de5889de2,England,Jude Bellingham,24.636129649890503,104.3,32.8,0,0,1,1,0,0,0,0,Midfielder,0
+88f81ce7-4f40-4ce0-a1b4-03841785f572,England,Jude Bellingham,55.696510735778126,112.7,29.3,0,0,1,1,0,0,0,0,Midfielder,0
+df0c2bea-39aa-4383-a173-6f39a96af140,England,Philip Foden,7.305759533310815,116.1,39.5,0,0,1,1,0,0,0,0,Forward,0
+1de59a3e-a443-4904-9a0c-89ac41bb1e8b,Wales,Rubin Colwill,32.64171494068238,98.3,26.1,0,0,1,1,0,0,0,0,Midfielder,0
+c7b3c21d-9e04-44b6-9d36-dabcb3231728,Wales,Kieffer Roberto Francisco Moore,16.787301202849083,102.1,34.6,0,0,1,0,0,0,0,0,Forward,0
+63b80dc5-25fe-4e1e-8783-c5cd4c27248f,England,John Stones,34.85445556610368,114.4,43.9,1,0,1,1,0,0,0,0,Defender,0
+4f2b3941-7a5b-47c7-80cc-10fc7c13d90e,England,Philip Foden,43.36342295838328,111.0,48.5,0,0,1,1,0,0,0,0,Forward,0
+66be6386-31e8-4ca0-b638-c70e0c001c4c,Spain,Sergio Busquets i Burgos,14.85386473563238,97.0,46.1,0,0,1,0,0,0,0,0,Midfielder,0
+f3061727-1c55-4a97-a04c-f1f263e9c566,Japan,Junya Ito,66.03751102542182,114.0,53.5,0,0,1,0,0,0,0,0,Defender,0
+9acdcce3-e5e0-470b-966b-ee83f87e1c0a,Spain,Álvaro Borja Morata Martín,23.540039269514306,109.9,35.6,0,0,0,0,0,0,0,0,Forward,0
+1d468109-8a6c-4787-9323-d588e99caa9b,Spain,Álvaro Borja Morata Martín,19.88516511385546,115.3,38.3,1,0,0,0,0,0,0,0,Forward,1
+66b24fbd-e96e-4abf-b320-9d81ab59be48,Spain,Álvaro Borja Morata Martín,37.168310465838914,104.7,51.6,0,0,1,1,0,0,0,0,Forward,0
+068f62a6-61b5-4a86-9773-5d61f091bf4f,Japan,Daichi Kamada,48.12213046211571,107.0,54.5,0,0,1,0,0,0,0,0,Forward,0
+264d1312-9cf3-48c5-9b6b-8ee59edde5ca,Spain,Daniel Olmo Carvajal,15.592810939266334,102.8,35.2,0,0,1,0,0,0,0,0,Forward,0
+7a8d09b4-e1da-4112-a8fc-6784cf2029a4,Japan,Ritsu Doan,39.01634241698192,100.5,55.8,0,0,1,0,0,0,0,0,Forward,1
+f7164861-b772-4dfb-96d7-37e3ec5bfefd,Japan,Ao Tanaka,8.74616226255535,118.7,40.2,0,1,0,0,0,1,0,0,Midfielder,1
+587fcbe5-d63d-4d63-8564-1da02e819db6,Japan,Takuma Asano,10.743787070980893,100.5,36.3,0,0,1,1,0,0,0,0,Forward,0
+f3e9618e-c8ee-4639-a278-41ec7b12bf51,Spain,Marco Asensio Willemsen,47.348353313099594,104.8,23.5,0,0,1,0,0,0,0,0,Forward,0
+24e95d20-3665-4201-9cb7-3127c7cb9853,Spain,Daniel Olmo Carvajal,10.588856616061276,86.3,46.3,0,0,1,0,0,0,0,0,Midfielder,0
+822afb8c-8b27-412e-8ae1-8934a2569e43,Japan,Ko Itakura,3.576334374997351,104.0,39.0,0,0,0,0,0,0,0,1,Defender,0
+ef2acb37-fc25-440c-9a5d-88a9cffa5d48,Spain,Marco Asensio Willemsen,27.544370831417478,96.8,52.1,0,0,1,0,0,0,0,0,Forward,0
+64d60b42-b508-4cc2-8664-864459e9925d,Spain,Jordi Alba Ramos,30.465544919459887,97.9,27.0,0,0,1,0,0,0,0,0,Defender,0
+6bb16aec-218a-4004-8795-b3e1764a4495,Spain,Marco Asensio Willemsen,40.99219545762766,94.8,61.9,0,0,1,0,0,0,0,0,Forward,0
+c31fbf8f-5c5a-44b5-be6f-435170f54224,Spain,Daniel Olmo Carvajal,53.13010235415598,111.0,52.0,0,0,1,1,0,0,0,0,Midfielder,0
+e6be6386-ff16-484c-970f-97d87aa2059e,Spain,Daniel Olmo Carvajal,33.38147564720537,94.2,57.0,0,0,1,0,0,0,0,0,Midfielder,0
+a446476e-a091-441b-bab5-fa812a3c1928,Tunisia,Youssef Msakni,23.651313326642168,92.6,52.0,0,0,1,0,0,0,0,0,Forward,0
+e6b6a9b1-6174-4c55-98b7-dd219e256299,Tunisia,Issam Jebali,67.93210043758978,114.0,54.8,0,0,1,0,0,0,0,0,Forward,0
+5fa62889-7bd9-4f7b-9cb7-25a9f9ef23a3,Tunisia,Mohamed Dräger,9.601982576185133,93.4,44.5,0,0,1,0,0,0,0,0,Defender,0
+daf7895c-4773-422c-b364-0fc3183fc4db,Tunisia,Youssef Msakni,62.99590929724036,114.7,29.6,0,0,0,0,0,0,0,0,Forward,0
+f6036172-da37-4ef4-999a-a59d0019c46f,Denmark,Kasper Dolberg,57.92599912470594,115.3,32.5,0,0,1,1,0,0,0,0,Forward,0
+61f328ff-e516-46e2-bfce-83209f4640e4,Denmark,Joachim Andersen,25.53998756471391,99.7,30.3,0,0,1,1,0,0,0,0,Defender,0
+e44ce9a4-4f70-4bf8-8499-89e0608a1f68,Denmark,Pierre-Emile Højbjerg,40.48601154199875,95.4,19.0,0,0,1,0,0,0,0,0,Midfielder,0
+d9c9a2e4-f4e8-4b2d-b5d9-ae487ede5201,Tunisia,Yassine Meriah,47.23947593795189,111.4,49.3,0,0,1,1,0,0,0,0,Defender,0
+1118da75-05bf-4ca8-85d2-b28ce8729f7a,Tunisia,Aïssa Bilal Laïdouni,67.71441235316725,115.0,52.2,0,0,1,1,0,0,0,0,Midfielder,0
+3ba8e6e0-bfe7-40a6-9c32-5096dc33762b,Tunisia,Issam Jebali,31.487469364213972,112.0,44.9,0,0,1,0,0,0,0,1,Forward,0
+522fa49f-89cf-41ef-a6d0-d47895410690,Tunisia,Ellyes Joris Skhiri,2.5510950890009316,99.8,40.9,0,0,1,1,0,0,0,0,Midfielder,0
+1b494a0d-1357-4676-b7ae-deb3d182079e,Tunisia,Issam Jebali,43.5121324711722,112.1,47.5,1,0,0,0,0,0,0,0,Forward,0
+bdb5c9fd-eba3-4835-b67b-ffe09d8ac26f,Tunisia,Youssef Msakni,58.650419134757016,114.7,48.7,0,0,1,1,0,0,0,0,Forward,0
+1cad59c4-1b97-4a22-8523-45b7326946cb,Tunisia,Mohamed Dräger,18.496756543836884,92.2,49.3,0,0,1,0,0,0,0,0,Defender,0
+ce91e628-edde-4e19-83a8-aaba050ae0b0,Tunisia,Ellyes Joris Skhiri,1.1178245823861153,99.5,39.6,0,0,1,1,0,0,0,0,Midfielder,0
+a95cbbdd-1d03-4e7d-90e5-2ea121aa5fd0,Tunisia,Dylan Daniel Mahmoud Bronn,12.604147283761842,103.9,36.4,0,0,1,0,0,0,0,0,Defender,0
+b03ea62a-273a-4499-b1ab-059f37163e4e,Denmark,Kasper Dolberg,59.03624346792648,117.0,35.0,0,0,0,0,0,0,0,0,Forward,0
+f59914a9-cb51-4627-a09b-f9e423077aea,Denmark,Christian Dannemann Eriksen,8.746162262555217,99.2,36.8,0,0,1,0,0,0,0,0,Midfielder,0
+4938830d-5631-47d0-89e9-3985a24619a3,Denmark,Andreas Christensen,49.08561677997494,117.4,37.0,1,0,0,0,0,0,0,0,Defender,0
+f49396ca-5d50-4662-9f55-6d2a87bfacfd,Denmark,Andreas Evald Cornelius,65.22485943116811,118.2,43.9,0,0,0,0,0,0,0,0,Forward,0
+a0ccad21-8e44-4a4f-ad5e-0eae6a6fcbc2,Denmark,Mathias Jensen,42.0775273319751,102.5,24.2,0,0,1,0,0,0,0,0,Midfielder,0
+54778e9f-91a2-49da-912b-d6a68d9d8185,Denmark,Andreas Evald Cornelius,29.744881296942275,114.4,36.8,1,0,0,0,0,0,0,0,Forward,0
+0cb9d4b2-e1ec-403f-99bf-ba2411c0e7e6,Denmark,Joakim Mæhle,21.40517943011853,95.0,30.2,0,0,1,0,0,0,0,0,Defender,0
+0d90f23c-4ee0-49bb-80e3-4be47400729c,Denmark,Andreas Evald Cornelius,29.744881296942214,108.8,46.4,1,0,0,0,0,0,0,0,Forward,0
